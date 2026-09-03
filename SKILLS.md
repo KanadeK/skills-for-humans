@@ -15,3 +15,10 @@
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 | 中等 | 随机食材被编译成一顿饭 | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 | 中等 | 成品获得一个诚实的新版本 | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 | 中等 | 剩菜获得日期而不是口述历史 | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
+
+## First Attempts / 第一次尝试
+
+| 中文名 | English | 时间 | 难度 | 现实副作用 | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 | 中等 | 下次不再是第一次 | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 | 简单 | 购物与爱好被拆成两个进程 | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |

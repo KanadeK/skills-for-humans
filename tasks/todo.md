@@ -76,7 +76,7 @@ Description: prove the product extends beyond chores without becoming an AI prom
 
 Acceptance:
 
-- [ ] Task 7 ships two First Attempts Skills.
+- [x] Task 7 ships two First Attempts Skills.
 - [ ] Task 8 ships two Awkward Social Tasks Skills.
 - [ ] Task 9 ships two Recovery Skills.
 - [ ] Cultural, financial, mobility, sensory, and policy assumptions have alternatives.
