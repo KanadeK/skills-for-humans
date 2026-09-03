@@ -41,13 +41,13 @@ Description: package the readable repository without adding an installer or runt
 
 Acceptance:
 
-- [ ] Build produces skills-for-humans-v0.1.0.zip and SHA256SUMS.txt only.
-- [ ] Archive paths are safe, timestamps stable, and two builds match byte-for-byte.
-- [ ] Extracted archive passes the same validator.
+- [x] Build produces skills-for-humans-v0.1.0.zip and SHA256SUMS.txt only.
+- [x] Archive paths are safe, timestamps stable, and two builds match byte-for-byte.
+- [x] Extracted archive passes the same validator.
 
 Verify:
 
-- [ ] RED/GREEN release tests and isolated extraction pass.
+- [x] RED/GREEN release tests and isolated extraction pass.
 
 Files: scripts/build_release.py and one test file.
 Dependencies: Task 2.
