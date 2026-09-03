@@ -18,7 +18,7 @@ A real file looks like this:
     name: recover-when-you-are-running-late
     description: "Human-readable instructions for calculating an honest ETA..."
     ---
-    # 出门前发现又要迟到了 / Recover When You Are Running Late
+    # 出门前发现要迟到了 / Recover When You Are Running Late
 
     | Runtime / 运行时 | Human / 人类 |
     | Time / 预计时间 | 5–15 minutes to decide and leave |
@@ -38,7 +38,7 @@ The machine format is serious. The life problem is real. The contrast earns the 
 4. Read the Human Runtime information, preparation, and safety boundary.
 5. Execute with your body. Success, downgrade, stop, and recovery are all valid outputs.
 
-You can also download a published ZIP from [GitHub Releases](https://github.com/KanadeK/skills-for-humans/releases) and browse it offline. If v0.1.0 is not listed there yet, content on main remains a candidate; a local build is not a publication.
+The current public version is [v0.1.0](https://github.com/KanadeK/skills-for-humans/releases/tag/v0.1.0). Its Release provides the ZIP and SHA256SUMS.txt for offline browsing. GitHub's API currently reports immutable=false, so verify the checksum after download; this project does not claim immutability.
 
 ## What v0.1.0 contains
 

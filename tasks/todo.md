@@ -129,14 +129,14 @@ Description: use a PR-first release and prove the public download works independ
 
 Acceptance:
 
-- [ ] PR merges with green Ubuntu/Windows CI.
-- [ ] Annotated v0.1.0 and public Release point at verified main.
-- [ ] ZIP and checksum download, validate, extract, and remain readable.
-- [ ] Public repo metadata, CI, assets, contributor, and license are read back.
+- [x] PR merges with green Ubuntu/Windows CI.
+- [x] Annotated v0.1.0 and public Release point at verified main.
+- [x] ZIP and checksum download, validate, extract, and remain readable.
+- [x] Public repo metadata, CI, assets, contributor, and license are read back.
 
 Verify:
 
-- [ ] Remote evidence, not local intent, proves completion.
+- [x] Remote evidence, not local intent, proves completion; immutable=false is reported rather than upgraded into a claim.
 
 Files: release notes and GitHub state only.
 Dependencies: Task 11 and explicit publication authorization already granted.

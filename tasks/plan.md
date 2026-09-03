@@ -97,12 +97,14 @@ Final local checkpoint: 12 tests, 15/15 official quick validations, repository v
 
 ## Phase 5: publish v0.1.0
 
-- [ ] Open codex/initial-human-skills PR to main with product difference, inventory, sources, safety, and verification.
-- [ ] Wait for Ubuntu/Windows CI; merge only after every gate is green.
-- [ ] Create annotated v0.1.0 at verified main.
-- [ ] Publish bilingual Release notes with skills-for-humans-v0.1.0.zip and SHA256SUMS.txt.
-- [ ] Re-download the Release assets into isolation, verify checksum, extract, run validator, and open at least five random Skill files.
-- [ ] Read back public visibility, tag/target/main alignment, Release state/assets, CI, contributor, and MIT license.
+- [x] Open codex/initial-human-skills PR to main with product difference, inventory, sources, safety, and verification.
+- [x] Wait for Ubuntu/Windows CI; merge only after every gate is green.
+- [x] Create annotated v0.1.0 at verified main.
+- [x] Publish bilingual Release notes with skills-for-humans-v0.1.0.zip and SHA256SUMS.txt.
+- [x] Re-download the Release assets into isolation, verify checksum, extract, run validator, and open at least five random Skill files.
+- [x] Read back public visibility, tag/target/main alignment, Release state/assets, CI, contributor, and MIT license.
+
+Remote release checkpoint on 2026-09-03: PR #1 merged as 7c1b7c2 and main CI run 33747112993 passed Ubuntu and Windows. Annotated tag v0.1.0 (tag object e2a7740) targets that merge. Release 381947363 is public, latest, non-draft, and non-prerelease; GitHub reports immutable=false, so no immutability or attestation claim is made. The ZIP and SHA256SUMS.txt were downloaded again, matched the upload bytes and checksum, extracted, and returned human_skills=15 catalog_entries=15. Random inspection covered check-doneness-and-store-leftovers, choose-fresh-perishables, plan-a-market-trip, return-the-wrong-item, and wash-wool-knitwear. The repository is public with MIT license, the requested topics, and KanadeK as contributor.
 
 Rollback: do not rewrite a published tag or Release. Stop promotion and use a reviewed fix/revert PR for a material defect.
 

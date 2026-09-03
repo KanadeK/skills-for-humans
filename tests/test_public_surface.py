@@ -38,6 +38,11 @@ class PublicSurfaceTests(unittest.TestCase):
         self.assertIn("[English](README.en.md)", chinese[:400])
         self.assertIn("[Skill 目录](SKILLS.md)", chinese)
         self.assertIn("不是 AI 提示词", chinese)
+        self.assertIn(
+            "[v0.1.0](https://github.com/KanadeK/skills-for-humans/releases/tag/v0.1.0)",
+            chinese,
+        )
+        self.assertNotIn("如果页面尚未出现 v0.1.0", chinese)
 
         self.assertTrue(english.startswith("# Skills for Humans / 给人类的 Skill"))
         self.assertIn("[简体中文](README.md)", english[:400])
@@ -45,6 +50,10 @@ class PublicSurfaceTests(unittest.TestCase):
         self.assertIn("Runtime: Human. Execution requires a body.", english[:1200])
         self.assertIn("name: recover-when-you-are-running-late", english[:2400])
         self.assertIn("[Skill Catalog](SKILLS.md)", english)
+        self.assertIn(
+            "[v0.1.0](https://github.com/KanadeK/skills-for-humans/releases/tag/v0.1.0)",
+            english,
+        )
 
     def test_catalog_lists_exactly_fifteen_skills_in_four_experience_groups(self) -> None:
         catalog = (ROOT / "SKILLS.md").read_text(encoding="utf-8")
