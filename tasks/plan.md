@@ -46,15 +46,15 @@ Checkpoint: the product is differentiated, the slug is available, and no outer f
 
 - [x] Save the confirmed idea, assumptions, MVP, non-goals, full spec, repository rules, plan, and task list.
 - [x] Validate links and scope mechanically where possible.
-- [ ] Commit a minimal documentation-only main baseline.
-- [ ] Create the public GitHub repository and push bootstrap main without creating a release.
+- [x] Commit a minimal documentation-only main baseline.
+- [x] Create the public GitHub repository and push bootstrap main without creating a release.
 
 Checkpoint: public main is a truthful specification baseline, not an empty shell presented as a finished product.
 
 ## Phase 2: Human Skill format and deterministic tooling
 
-- [ ] Add RED tests for frontmatter, Human Runtime fields, bilingual completeness, direct human address, Agent-language rejection, placeholders, local links, duplicate names, flat catalog consistency, safety scope, and high-risk category rejection.
-- [ ] Implement docs/human-skill-format.md, templates/SKILL.md, and scripts/validate_skills.py with no third-party runtime dependency.
+- [x] Add RED tests for frontmatter, Human Runtime fields, bilingual completeness, direct human address, Agent-language rejection, placeholders, local links, duplicate names, flat catalog consistency, safety scope, and high-risk category rejection.
+- [x] Implement docs/human-skill-format.md, templates/SKILL.md, and scripts/validate_skills.py with no third-party runtime dependency.
 - [ ] Add RED tests for a path-safe deterministic skills-for-humans-v0.1.0.zip and SHA256SUMS.txt.
 - [ ] Implement scripts/build_release.py and prove two builds are byte-identical and the extracted repository revalidates.
 

@@ -8,7 +8,7 @@ Acceptance:
 
 - [x] Local and remote names are free; target Git root is independent from D:\我的\GitHub.
 - [x] Idea, spec, AGENTS, plan, todo, README, license, and ignore rules exist.
-- [ ] Bootstrap main is committed and pushed to a new public KanadeK/skills-for-humans repository.
+- [x] Bootstrap main is committed and pushed to a new public KanadeK/skills-for-humans repository.
 
 Verify:
 
@@ -24,13 +24,13 @@ Description: create one visible Human Runtime format and a validator that checks
 
 Acceptance:
 
-- [ ] Template frontmatter uses only name and description.
-- [ ] Runtime/status/difficulty/time/requirements/side effects/safety are visible in the first screen.
-- [ ] Both languages cover execution and recovery while Agent-facing wording fails validation.
+- [x] Template frontmatter uses only name and description.
+- [x] Runtime/status/difficulty/time/requirements/side effects/safety are visible in the first screen.
+- [x] Both languages cover execution and recovery while Agent-facing wording fails validation.
 
 Verify:
 
-- [ ] RED tests fail before implementation, then focused tests and official quick_validate pass.
+- [x] RED tests fail before implementation, then five focused tests and official quick_validate pass.
 
 Files: docs/human-skill-format.md, templates/SKILL.md, scripts/validate_skills.py, one test file.
 Dependencies: Task 1.
