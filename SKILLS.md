@@ -22,3 +22,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 | 中等 | 下次不再是第一次 | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 | 简单 | 购物与爱好被拆成两个进程 | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+
+## Awkward Social Tasks / 尴尬但普通的社会任务
+
+| 中文名 | English | 时间 | 难度 | 现实副作用 | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 | 中等 | 一个工单号和一段循环音乐 | [SKILL.md](skills/call-customer-service/SKILL.md) |
+| 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回时间 | 中等 | 一张凭证和少一个错误物品 | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
