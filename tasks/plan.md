@@ -81,11 +81,11 @@ Checkpoint: exactly 15 distinct MVP Skills exist; no title-only duplicate or hig
 
 ## Phase 4: storefront, contribution, and review
 
-- [ ] Write the Chinese-first README first screen with the two approved taglines and a real SKILL.md excerpt.
-- [ ] Write a complete English README and a flat bilingual SKILLS.md catalog grouped by Chores, First Attempts, Awkward Social Tasks, and Recovery.
-- [ ] Add CONTRIBUTING.md and CHANGELOG.md; never claim human runtime testing without evidence.
-- [ ] Add Ubuntu/Windows CI for tests, validator, deterministic build, extraction/revalidation, and clean tracked state.
-- [ ] Run automated Agent-voice and safety checks across all 15 Skills.
+- [x] Write the Chinese-first README first screen with the two approved taglines and a real SKILL.md excerpt.
+- [x] Write a complete English README and a flat bilingual SKILLS.md catalog grouped by Chores, First Attempts, Awkward Social Tasks, and Recovery.
+- [x] Add CONTRIBUTING.md and CHANGELOG.md; never claim human runtime testing without evidence.
+- [x] Add Ubuntu/Windows CI for tests, validator, deterministic build, extraction/revalidation, and clean tracked state.
+- [x] Run automated Agent-voice and safety checks across all 15 Skills.
 - [ ] Have fresh-context Codex readers review at least five randomly selected Skills for no-AI usability, humor balance, assumptions, dignity, and recovery.
 - [ ] Complete five-axis review and resolve every Required/Critical finding.
 

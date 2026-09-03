@@ -94,14 +94,14 @@ Description: make the repository understandable within ten seconds and navigable
 
 Acceptance:
 
-- [ ] Chinese README uses the approved title and taglines plus a real file excerpt.
-- [ ] English README is complete and natural.
-- [ ] SKILLS.md lists exactly 15 Skills in four experience categories with time, difficulty, side effects, and stable links.
-- [ ] CONTRIBUTING and CHANGELOG state honest quality/testing rules.
+- [x] Chinese README uses the approved title and taglines plus a real file excerpt.
+- [x] English README is complete and natural.
+- [x] SKILLS.md lists exactly 15 Skills in four experience categories with time, difficulty, side effects, and stable links.
+- [x] CONTRIBUTING and CHANGELOG state honest quality/testing rules.
 
 Verify:
 
-- [ ] Catalog, reciprocal language links, local links, and 15 paths pass automated checks.
+- [x] Catalog, reciprocal language links, local links, and 15 paths pass automated checks.
 
 Files: README.md, README.en.md, SKILLS.md, CONTRIBUTING.md, CHANGELOG.md.
 Dependencies: Tasks 4–9.
@@ -112,7 +112,7 @@ Description: enforce the stable contract on Ubuntu and Windows and test actual h
 
 Acceptance:
 
-- [ ] CI runs tests, validator, build, extraction/revalidation, and clean-tree check.
+- [x] CI runs tests, validator, build, extraction/revalidation, and clean-tree check.
 - [ ] Fresh-context readers review at least five random Skills.
 - [ ] All 15 pass Agent-language, bilingual, safety, dignity, humor, and recovery review.
 
