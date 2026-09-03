@@ -114,11 +114,11 @@ Acceptance:
 
 - [x] CI runs tests, validator, build, extraction/revalidation, and clean-tree check.
 - [x] Fresh-context readers reviewed six random Skills; all seven Required findings were fixed and passed targeted re-review.
-- [ ] All 15 pass Agent-language, bilingual, safety, dignity, humor, and recovery review.
+- [x] All 15 pass Agent-language, bilingual, safety, dignity, humor, and recovery review.
 
 Verify:
 
-- [ ] Full local suite and five-axis review have no Required/Critical findings.
+- [x] Twelve tests, 15 official validations, repository/build/extraction checks, and five-axis review pass with no Required/Critical findings.
 
 Files: .github/workflows/ci.yml plus review evidence in the PR description; no fake E2E files.
 Dependencies: Tasks 3 and 10.

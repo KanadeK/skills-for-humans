@@ -38,7 +38,7 @@
 4. 阅读 Human Runtime 信息、准备项和安全边界。
 5. 让你的肉身执行；成功、降级、停止和补救都是合法输出。
 
-你也可以从 [GitHub Releases](https://github.com/KanadeK/skills-for-humans/releases) 下载 ZIP，解压后离线浏览。v0.1.0 发布前，main 上的内容是候选而不是已发布资产。
+你也可以从 [GitHub Releases](https://github.com/KanadeK/skills-for-humans/releases) 下载已发布 ZIP，解压后离线浏览。如果页面尚未出现 v0.1.0，main 上的内容仍只是候选，不能把本地构建当作发布。
 
 ## v0.1.0 有什么
 

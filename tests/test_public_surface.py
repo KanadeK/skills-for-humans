@@ -75,6 +75,9 @@ class PublicSurfaceTests(unittest.TestCase):
     def test_release_and_contribution_surfaces_exist(self) -> None:
         contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
         changelog = (ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
+        release_notes = (ROOT / "docs" / "release-notes-v0.1.0.md").read_text(
+            encoding="utf-8"
+        )
         workflow = (ROOT / ".github" / "workflows" / "ci.yml").read_text(
             encoding="utf-8"
         )
@@ -84,6 +87,10 @@ class PublicSurfaceTests(unittest.TestCase):
         self.assertIn("Original synthesis", contributing)
         self.assertIn("## 0.1.0", changelog)
         self.assertIn("15", changelog)
+        self.assertIn("## 中文", release_notes)
+        self.assertIn("## English", release_notes)
+        self.assertIn("15", release_notes)
+        self.assertIn("Runtime: Human", release_notes)
         self.assertIn("ubuntu-latest", workflow)
         self.assertIn("windows-latest", workflow)
         self.assertIn("scripts/validate_skills.py", workflow)

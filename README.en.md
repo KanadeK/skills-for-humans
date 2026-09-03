@@ -38,7 +38,7 @@ The machine format is serious. The life problem is real. The contrast earns the 
 4. Read the Human Runtime information, preparation, and safety boundary.
 5. Execute with your body. Success, downgrade, stop, and recovery are all valid outputs.
 
-You can also download a ZIP from [GitHub Releases](https://github.com/KanadeK/skills-for-humans/releases) and browse it offline. Before v0.1.0 is published, content on main is a release candidate rather than a published asset.
+You can also download a published ZIP from [GitHub Releases](https://github.com/KanadeK/skills-for-humans/releases) and browse it offline. If v0.1.0 is not listed there yet, content on main remains a candidate; a local build is not a publication.
 
 ## What v0.1.0 contains
 
