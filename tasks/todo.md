@@ -58,7 +58,7 @@ Description: use Harvester sources as factual seeds but replace every Agent-orie
 
 Acceptance:
 
-- [ ] Task 4 ships three grocery Skills.
+- [x] Task 4 ships three grocery Skills.
 - [ ] Task 5 ships three laundry Skills.
 - [ ] Task 6 ships three cooking/food-handling Skills.
 - [ ] All nine include short sources, assumptions, safe stop/recovery, and no forbidden Agent phrases.
