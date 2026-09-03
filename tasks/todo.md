@@ -61,11 +61,11 @@ Acceptance:
 - [x] Task 4 ships three grocery Skills.
 - [x] Task 5 ships three laundry Skills.
 - [x] Task 6 ships three cooking/food-handling Skills.
-- [ ] All nine include short sources, assumptions, safe stop/recovery, and no forbidden Agent phrases.
+- [x] All nine include short sources, assumptions, safe stop/recovery, and no forbidden Agent phrases.
 
 Verify:
 
-- [ ] Validator, official quick_validate, factual comparison, and dedicated food/laundry safety review pass after each group.
+- [x] Validator, official quick_validate, factual comparison, and dedicated food/laundry safety review pass after each group.
 
 Files: three skills/<slug>/SKILL.md files per task.
 Dependencies: Task 2.
@@ -78,12 +78,12 @@ Acceptance:
 
 - [x] Task 7 ships two First Attempts Skills.
 - [x] Task 8 ships two Awkward Social Tasks Skills.
-- [ ] Task 9 ships two Recovery Skills.
-- [ ] Cultural, financial, mobility, sensory, and policy assumptions have alternatives.
+- [x] Task 9 ships two Recovery Skills.
+- [x] Cultural, financial, mobility, sensory, and policy assumptions have alternatives.
 
 Verify:
 
-- [ ] Each pair passes validator and an independence/non-duplication review.
+- [x] Each pair passes validator and an independence/non-duplication review.
 
 Files: two skills/<slug>/SKILL.md files per task.
 Dependencies: Task 2.

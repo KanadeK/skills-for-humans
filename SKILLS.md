@@ -29,3 +29,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 | 中等 | 一个工单号和一段循环音乐 | [SKILL.md](skills/call-customer-service/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回时间 | 中等 | 一张凭证和少一个错误物品 | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
+
+## Recovery / 失败与恢复
+
+| 中文名 | English | 时间 | 难度 | 现实副作用 | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 | 简单 | 修复通常生成更多份量 | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
+| 出门前发现又要迟到了 | Recover When You Are Running Late | 5–15 分钟 | 简单 | 少做几项但不要求物理定律加班 | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |

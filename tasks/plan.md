@@ -67,7 +67,7 @@ Checkpoint: one fixture Human Skill can travel from source tree through validati
 - [x] Chores C: planning a meal, substituting ingredients, checking doneness/storing leftovers.
 - [x] First Attempts: eating alone at an unfamiliar restaurant; trying a hobby before buying full gear.
 - [x] Awkward Social Tasks: calling customer service; returning a wrong or unsuitable item.
-- [ ] Recovery: rescuing over-salted food; making a realistic late-arrival downgrade.
+- [x] Recovery: rescuing over-salted food; making a realistic late-arrival downgrade.
 
 Each content slice:
 
