@@ -64,7 +64,7 @@ Checkpoint: one fixture Human Skill can travel from source tree through validati
 
 - [x] Chores A: market planning, choosing perishables, putting groceries away.
 - [x] Chores B: sorting laundry, choosing washer settings, washing wool knitwear.
-- [ ] Chores C: planning a meal, substituting ingredients, checking doneness/storing leftovers.
+- [x] Chores C: planning a meal, substituting ingredients, checking doneness/storing leftovers.
 - [ ] First Attempts: eating alone at an unfamiliar restaurant; trying a hobby before buying full gear.
 - [ ] Awkward Social Tasks: calling customer service; returning a wrong or unsuitable item.
 - [ ] Recovery: rescuing over-salted food; making a realistic late-arrival downgrade.

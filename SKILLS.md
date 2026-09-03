@@ -12,3 +12,6 @@
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 | 简单 | 地板上出现临时分布式系统 | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 | 中等 | 得到一桶仍需晾晒的湿衣物 | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 | 中等 | 一个平面暂时被湿毛衣占用 | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
+| 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 | 中等 | 随机食材被编译成一顿饭 | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
+| 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 | 中等 | 成品获得一个诚实的新版本 | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
+| 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 | 中等 | 剩菜获得日期而不是口述历史 | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
