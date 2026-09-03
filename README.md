@@ -18,7 +18,7 @@
     name: recover-when-you-are-running-late
     description: "Human-readable instructions for calculating an honest ETA..."
     ---
-    # 出门前发现又要迟到了 / Recover When You Are Running Late
+    # 出门前发现要迟到了 / Recover When You Are Running Late
 
     | Runtime / 运行时 | Human / 人类 |
     | Time / 预计时间 | 5–15 分钟决定并出发 |
@@ -38,7 +38,7 @@
 4. 阅读 Human Runtime 信息、准备项和安全边界。
 5. 让你的肉身执行；成功、降级、停止和补救都是合法输出。
 
-你也可以从 [GitHub Releases](https://github.com/KanadeK/skills-for-humans/releases) 下载已发布 ZIP，解压后离线浏览。如果页面尚未出现 v0.1.0，main 上的内容仍只是候选，不能把本地构建当作发布。
+当前公开版本是 [v0.1.0](https://github.com/KanadeK/skills-for-humans/releases/tag/v0.1.0)。Release 提供 ZIP 与 SHA256SUMS.txt，解压后可离线浏览。GitHub API 当前报告 immutable=false，因此下载后请核对 checksum；本项目不声称它不可变。
 
 ## v0.1.0 有什么
 
