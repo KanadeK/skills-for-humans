@@ -12,7 +12,7 @@ description: "Human-readable instructions for choosing and completing a label-pe
 | Status / 状态 | Stable / 稳定 |
 | Difficulty / 难度 | Moderate / 中等 |
 | Time / 预计时间 | 15–30 分钟操作，加平铺晾干 / 15–30 minutes active, plus flat drying |
-| Requirements / 必要物品 | 可读标签、羊毛适用洗涤剂、干净毛巾、平铺空间 / Readable label, wool-suitable detergent, clean towel, flat space |
+| Requirements / 必要物品 | 可读标签、羊毛洗涤剂、干净水/毛巾/平铺处，以及获批准的机器或支撑水盆 / Readable label, wool detergent, clean water/towel/flat space, and an approved washer or supported basin |
 | Side effects / 现实副作用 | 一件需要占用水平表面的湿毛衣 / One wet sweater occupying horizontal infrastructure |
 | Safety scope / 安全范围 | Everyday / 日常 |
 | Human test / 人类实测 | Not yet / 尚未 |
@@ -25,14 +25,14 @@ description: "Human-readable instructions for choosing and completing a label-pe
 
 ### 准备与输入
 
-找到清晰洗护标签，确认材质、针织结构、装饰、破损、污渍与衣物价值。准备标签允许的羊毛适用温和洗涤剂、干净水、毛巾和平整通风的晾干位置。机洗还需要准确机型说明书和明确的羊毛/精细程序。
+找到清晰洗护标签，确认材质、针织结构、装饰、破损、污渍与衣物价值。准备标签允许的羊毛适用温和洗涤剂、干净水、毛巾和平整通风的晾干位置。机洗还需要准确机型说明书，以及说明书明确标为适用于羊毛的程序。
 
-如果读标签、搬湿衣物或在地面操作不方便，可把平铺位置设在桌面高度，使用小水量和带支撑的盆，或请现场可信的人协助搬运。羊毛吸水后会增加重量，这是物理属性，不是你握力的缺陷。
+如果标签太小、符号陌生或语言不可访问，先拍照放大，对照标签所在地的官方符号表，联系制造商，或请现场可信的人逐项读出；OCR 只能辅助，关键限制要再核对。标签缺失或仍无法确认时停止在家洗，不从“摸起来像羊毛”推断路线。搬湿衣物或在地面操作不方便时，可把平铺位置设在桌面高度，使用小水量和带支撑的盆，或请人协助搬运。羊毛吸水后会增加重量，这是物理属性，不是你握力的缺陷。
 
 ### 执行前选择路线
 
 1. 标签禁止水洗或要求专业护理：停止，选择合格专业护理。
-2. 标签允许机洗，且机器说明明确有兼容羊毛/精细程序：可以走机洗路线。
+2. 标签允许机洗，且准确机型说明书明确把所选程序标为适用于羊毛：可以走机洗路线。程序只叫“精细/轻柔”但没有写羊毛，不足以通过。
 3. 标签只允许手洗：走手洗路线。
 4. 标签不清、衣物昂贵、结构复杂、有脆弱装饰或已经破损：先暂停，查制造商建议或专业意见。
 
@@ -40,7 +40,7 @@ description: "Human-readable instructions for choosing and completing a label-pe
 
 1. 按标签处理翻面、扣件和洗衣袋；不要与粗糙、重型或可能勾挂的衣物混洗。
 2. 使用羊毛适用洗涤剂和标签剂量，不加漂白剂或临时发明的清洁组合。
-3. 选择说明书确认的羊毛/轻柔程序、标签允许的冷/低温和轻柔脱水。
+3. 选择说明书明确标为适用于羊毛的程序、标签允许的冷/低温和轻柔脱水；不要用名称相似的通用轻柔程序替代。
 4. 程序结束后及时取出，用双手或毛巾托住整件衣物，避免湿重集中拉扯。
 
 ### 手洗执行
@@ -89,14 +89,14 @@ This Skill does not cover leather, fur, tailored suits, or garments that require
 
 ### Preparation and inputs
 
-Read the care label and confirm fibre content, knit construction, embellishment, damage, stains, and value. Prepare a label-compatible mild wool detergent, clean water, a clean towel, and a ventilated flat-drying surface. Machine washing also requires the exact manual and a documented compatible wool/delicate program.
+Read the care label and confirm fibre content, knit construction, embellishment, damage, stains, and value. Prepare a label-compatible mild wool detergent, clean water, a clean towel, and a ventilated flat-drying surface. Machine washing also requires the exact manual and a program that the manual explicitly marks as suitable for wool.
 
-If labels, lifting wet fabric, or floor-level work are inaccessible, prepare a table-height drying area, use a smaller supported basin, or arrange in-person lifting help. Wool gains weight when wet; that is a material property, not a grip-strength failure.
+If the label is too small, uses unfamiliar symbols, or is in an inaccessible language, enlarge a photo, consult the official symbol guide for that label, contact the manufacturer, or have a trusted person read every limit aloud. OCR is only an aid; verify critical limits. Stop home washing if the label is absent or still unresolved—do not infer a route from “feels like wool.” For lifting or floor-level access, prepare a table-height drying area, use a smaller supported basin, or arrange in-person help. Wool gains weight when wet; that is a material property, not a grip-strength failure.
 
 ### Choose the route before execution
 
 1. If the label forbids washing or requires professional care, stop and use qualified professional care.
-2. If machine washing is allowed and the exact manual documents a compatible wool/delicate program, use the machine route.
+2. If machine washing is allowed and the exact manual explicitly says the selected program is suitable for wool, use the machine route. A generic Delicate/Gentle name without wool compatibility is insufficient.
 3. If only hand washing is allowed, use the hand route.
 4. If the label is unclear or the garment is valuable, structured, embellished, or damaged, pause for manufacturer or professional advice.
 
@@ -104,7 +104,7 @@ If labels, lifting wet fabric, or floor-level work are inaccessible, prepare a t
 
 1. Turn, fasten, or bag the garment only as its label allows. Keep it away from rough, heavy, or snagging items.
 2. Use a wool-suitable detergent at the labelled dose. Do not add bleach or improvised cleaner combinations.
-3. Select the documented wool/gentle program, a permitted cool/low temperature, and gentle spin.
+3. Select the program explicitly documented for wool, a permitted cool/low temperature, and gentle spin. Do not substitute a similarly named generic gentle program.
 4. Remove it promptly. Support the whole wet garment with both hands or a towel instead of lifting all weight from one point.
 
 ### Hand-wash execution

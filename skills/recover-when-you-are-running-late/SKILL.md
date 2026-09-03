@@ -2,7 +2,7 @@
 name: recover-when-you-are-running-late
 description: "Human-readable instructions for calculating an honest ETA, reducing scope, notifying people, and arriving or rescheduling safely when late."
 ---
-# 出门前发现又要迟到了 / Recover When You Are Running Late
+# 出门前发现要迟到了 / Recover When You Are Running Late
 
 [中文](#中文) · [English](#english)
 
@@ -38,7 +38,7 @@ description: "Human-readable instructions for calculating an honest ETA, reducin
 
 ### 执行
 
-1. **计算诚实 ETA。** 当前时间 + 最短安全准备 + 现实交通 + 小缓冲。不要把“如果每个红灯都支持我”写进正式估算。
+1. **计算诚实的预计到达时间（ETA）。** 当前时间 + 最短安全准备 + 现实交通 + 小缓冲。不要把“如果每个红灯都支持我”写进估算。
 2. **判断迟到后的活动是否仍成立。**
    - 晚到仍有价值：通知并出发；
    - 可先远程加入：确认链接/电话后采用；
@@ -52,7 +52,7 @@ description: "Human-readable instructions for calculating an honest ETA, reducin
 5. **删除非关键启动项。** 复杂造型、重新整理已经能用的包、临时买咖啡、洗不急的杯子和顺手回消息都进入以后队列。房间可以在你不在时保持未优化。
 6. **选择最快的安全路线。** 比较当前公共交通、步行、正规叫车和驾驶的真实到达时间与成本。不要超速、闯灯、抢行或使用不熟悉的危险捷径。
 7. **出门后不再重新规划全部人生。** 只在交通明显变化时更新一次 ETA；频繁发送“马上到”不会让位置移动更快。
-8. **到达后短句收口。** 说“抱歉让你等了，我到了，我们开始吧。” 必要时承担错过内容、费用或重新安排，不用长篇解释占用更多时间。
+8. **到达后短句收口。** 说“抱歉让你等了，我到了。请告诉我现在从哪里加入。” 必要时承担错过内容、费用或重新安排，不假设你有权重新开始课程、会议或别人的安排。
 9. **事后只记一个补丁。** 如果迟到有可重复原因，写下一项下次提前动作，例如前晚装包、把出门时间写成日历时间、增加换乘缓冲。不要在事件现场重构整个人格。
 
 ### 成功条件
@@ -62,9 +62,9 @@ description: "Human-readable instructions for calculating an honest ETA, reducin
 ### 常见报错与补救
 
 - **ETA 又滑动：** 只有出现实质变化时发一次新时间，并给对方选择继续等、先开始或改期。
-- **联系不上：** 留一条清楚消息，保存发送记录，按活动规则决定是否出发；不要在多个渠道连续轰炸。
+- **联系不上：** 留一条清楚消息，按活动规则决定是否出发；只有涉及费用、票务、工作或规则责任时才需要保存发送记录。不要在多个渠道连续轰炸。
 - **错过车或入口：** 重新计算是否仍值得到达；立即查下一班、改签或取消，而不是假装原计划仍运行。
-- **找不到关键物品：** 给搜索设两分钟上限；无法替代且活动需要它时，通知改期。不要把整屋翻乱后继续迟到。
+- **找不到关键物品：** 给搜索设一个短而明确、符合你行动/视觉/注意力需求的上限；按固定区域搜索，使用声音/定位工具（已有且安全时），或请现场的人协助。仍找不到且活动离不开它时，通知改期；不要把整屋翻乱后继续迟到。
 - **焦虑让你站着不动：** 只做下一步：穿鞋、拿钥匙、发三行消息、出门。动作顺序比完整情绪解释更有用。
 - **这种情况经常发生：** 本次先安全收口；之后单独检查日历估时、转场缓冲、睡眠、注意力或支持需求。一次恢复 Skill 不是长期系统诊断。
 
@@ -99,7 +99,7 @@ Do not message while driving, cycling, or crossing a road. Notify before departu
 
 ### Execution
 
-1. **Calculate an honest ETA.** Current time + minimum safe preparation + real travel + a small buffer. Do not include “if every traffic light supports me” in the production estimate.
+1. **Calculate an honest estimated time of arrival (ETA).** Current time + minimum safe preparation + real travel + a small buffer. Do not include “if every traffic light supports me” in the estimate.
 2. **Decide whether late attendance still works.**
    - Late arrival still has value: notify and leave.
    - Remote joining works: confirm the link or call.
@@ -113,7 +113,7 @@ Do not message while driving, cycling, or crossing a road. Notify before departu
 5. **Delete optional startup work.** Complex styling, repacking an adequate bag, buying coffee, washing a nonurgent cup, and replying to side messages move to a later queue. The room can remain unoptimized while you are gone.
 6. **Choose the fastest safe route.** Compare current public transport, walking, licensed ride, and driving time/cost. Do not speed, run lights, drive aggressively, or use an unfamiliar unsafe shortcut.
 7. **Stop replanning your whole life after departure.** Update the ETA once when travel materially changes. Repeated “almost there” messages do not increase velocity.
-8. **Close briefly on arrival.** Say, “Sorry to keep you waiting. I am here; let us begin.” Accept missed content, cost, or rearrangement without consuming more time with a full defence.
+8. **Close briefly on arrival.** Say, “Sorry to keep you waiting. I am here—where should I join from now?” Accept missed content, cost, or rearrangement without assuming you control a class, meeting, meal, or appointment already in progress.
 9. **Record one patch afterward.** If the cause repeats, choose one next-time action: pack the night before, put leave time in the calendar, or add transfer buffer. Do not refactor your entire personality at the event.
 
 ### Success
@@ -123,9 +123,9 @@ The other party received accurate notice; you chose late, remote, reschedule, or
 ### Common errors and recovery
 
 - **ETA slips again:** Send one new time only after a material change and let the other person wait, start, or reschedule.
-- **You cannot reach them:** Leave one clear message and retain the sent record; follow the event rule. Do not flood every channel.
+- **You cannot reach them:** Leave one clear message and follow the event rule. Retain the sent record only when fees, tickets, work, or formal responsibility make it useful. Do not flood every channel.
 - **You miss transit or entry:** Recalculate whether arrival still has value. Check the next service, rebooking, or cancellation immediately.
-- **A critical item is missing:** Search for two minutes. If it has no substitute and the event requires it, notify and reschedule instead of dismantling the room and remaining late.
+- **A critical item is missing:** Set a short explicit search limit that fits your mobility, vision, and attention needs. Search fixed zones, use an existing safe sound/location aid, or ask someone present to help. If it remains missing and has no substitute, notify and reschedule instead of dismantling the room and remaining late.
 - **Anxiety freezes execution:** Do only the next action: shoes, keys, three-line message, door. Sequence helps more than a complete emotional explanation.
 - **This happens often:** Finish this incident safely, then separately review calendar estimates, transition buffers, sleep, attention, or support needs. One recovery Skill is not a long-term diagnosis.
 

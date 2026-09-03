@@ -25,7 +25,8 @@ A real file looks like this:
     | Side effects / 现实副作用 | Fewer rituals; physics gets no overtime request |
 
     ERR_CRITICAL_ITEM_NOT_FOUND:
-    Search for two minutes. If it has no substitute, notify and reschedule.
+    Set a short explicit search limit that fits your mobility, vision, and attention needs.
+    If it has no substitute, notify and reschedule.
 
 The machine format is serious. The life problem is real. The contrast earns the click; the instructions earn completion.
 

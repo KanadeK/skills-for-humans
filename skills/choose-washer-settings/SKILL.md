@@ -23,9 +23,9 @@ description: "Human-readable instructions for choosing cycle, temperature, spin,
 
 ### 准备与输入
 
-确认这桶衣物的最严格洗护限制、面料/颜色/脏污程度、装载量、洗涤剂类型，以及洗后如何晾晒或烘干。找到品牌、完整型号和对应说明书，拍清面板也可以，但照片不能替代缺失的程序定义。
+确认这桶衣物的最严格洗护限制、面料/颜色/脏污程度、装载量、洗涤剂类型，以及洗后如何晾晒或烘干。找到品牌、完整型号和对应说明书，拍清面板也可以，但照片不能替代缺失的程序定义。标签缺失、褪色、互相矛盾或符号无法确认时，先移出该衣物；拍照放大、对照标签所在地的官方符号表、联系制造商或请可信的人读出。仍无法确认就停止机洗，选择专业护理或等待更多信息。
 
-如果你看不清屏幕、听不到提示音或不方便弯腰操作，使用说明书的无障碍版本、手机放大、触觉标记、远程控制（仅限厂商支持）或现场协助。先确认停止/暂停键的位置，再开始。
+如果你看不清屏幕、听不到提示音，或伸手、握持、弯腰操作不方便，使用说明书的无障碍版本、手机放大、触觉标记、远程控制（仅限厂商支持）或现场协助。先确认停止/暂停键的位置，再开始。
 
 ### 执行
 
@@ -36,8 +36,9 @@ description: "Human-readable instructions for choosing cycle, temperature, spin,
 5. **控制装载。** 服从机器程序的重量/体积说明。被褥、毛巾等高吸水或大件可能需要更小负载或专用程序。能关上门不等于负载已通过验证。
 6. **按洗涤剂标签计量。** 综合机器类型、桶量、脏污和当地水质说明。不要“多一点更干净”；过量可能留下泡沫和残留。
 7. **只为真实需要开附加项。** 预洗、浸泡、加强、额外漂洗等必须被衣物标签、产品和说明书允许。不要把所有按钮点亮来获得完整体验。
-8. **先决定洗后去向。** 哪些平铺、悬挂、阴干或可烘干，在按 Start 前确定，避免湿衣服在桶内进入长期支持周期。
-9. **关门并启动。** 只按说明书的操作顺序。你负责确认进水、转动和排水是否正常，不离开正在显示异常的机器。
+8. **化学品只走获准入口。** 漂白剂或洗衣助剂只有在衣物、产品和机器说明都允许时才使用，并放入说明书指定位置；绝不与氨、酸或其他清洁剂混合。
+9. **先决定洗后去向。** 哪些平铺、悬挂、阴干或可烘干，在按 Start 前确定，避免湿衣服在桶内进入长期支持周期。
+10. **关门并启动。** 只按说明书的操作顺序。你负责确认进水、转动和排水是否正常，不离开正在显示异常的机器。
 
 ### 成功条件
 
@@ -53,7 +54,7 @@ description: "Human-readable instructions for choosing cycle, temperature, spin,
 
 ### 假设、替代与现实副作用
 
-这里假设机器完好、正确安装，并且你有准确说明书。洗衣房规则、水质、洗涤剂浓度和程序名称因地区与设备不同。投币机、公共洗衣房或共享设备还要服从现场规则；无法调整的设置意味着这桶衣物可能需要别的机器或手洗。
+这里假设机器完好、正确安装，并且你有准确说明书。洗衣房规则、水质、洗涤剂浓度和程序名称因地区与设备不同。投币机、公共洗衣房或共享设备还要服从现场规则；无法调整的设置意味着这桶衣物可能需要别的机器，或在标签明确允许时改用手洗。
 
 现实副作用是你会等待一个完整周期，并得到一批仍需晾晒或烘干的湿衣物。完成洗涤不是衣物自动回到衣柜的证明。
 
@@ -69,7 +70,7 @@ Load this Skill after you have a compatible load and the control panel presents 
 
 ### Preparation and inputs
 
-Confirm the load's strictest care limit, fabrics, colours, soil, size, detergent type, and drying destination. Find the brand, full model, and matching manual. A clear panel photo helps, but it cannot supply missing program definitions.
+Confirm the load's strictest care limit, fabrics, colours, soil, size, detergent type, and drying destination. Find the brand, full model, and matching manual. A clear panel photo helps, but it cannot supply missing program definitions. Remove any garment whose label is absent, faded, contradictory, or unresolved. Enlarge a photo, use the official symbol guide for that label, contact the manufacturer, or have a trusted person read it. If the limit remains unknown, stop machine washing that item and use professional care or wait for better information.
 
 If displays, tones, reach, grip, or bending are inaccessible, use an accessible manual, phone magnification, tactile markers, manufacturer-supported remote controls, or in-person assistance. Locate the safe stop/pause control before starting.
 
@@ -82,8 +83,9 @@ If displays, tones, reach, grip, or bending are inaccessible, use an accessible 
 5. **Control the load.** Follow the program's weight and volume limits. Bedding, towels, and other bulky or absorbent items may need a smaller load or dedicated program. A door that closes is not a capacity certificate.
 6. **Measure detergent from its label.** Account for washer type, load, soil, and local water guidance. Extra detergent does not compile into extra cleanliness.
 7. **Enable options for an observed need.** Prewash, soak, intensive, or extra rinse must be permitted by the garment, product, and manual. Lighting every button is not a required acceptance test.
-8. **Choose the drying handoff first.** Decide what will lie flat, hang, dry in shade, or tumble only when permitted before pressing Start.
-9. **Close and start by the manual.** Confirm that filling, movement, and draining appear normal. Do not leave a machine that is already reporting abnormal behaviour.
+8. **Keep chemicals in approved paths.** Use bleach or laundry additives only when garment, product, and machine instructions all allow them, and only in the documented dispenser. Never mix bleach with ammonia, acids, or other cleaners.
+9. **Choose the drying handoff first.** Decide what will lie flat, hang, dry in shade, or tumble only when permitted before pressing Start.
+10. **Close and start by the manual.** Confirm that filling, movement, and draining appear normal. Do not leave a machine that is already reporting abnormal behaviour.
 
 ### Success
 

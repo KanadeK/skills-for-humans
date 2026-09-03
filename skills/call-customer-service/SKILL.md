@@ -36,6 +36,8 @@ description: "Human-readable instructions for preparing and completing an ordina
 
 只准备客服合理需要的身份信息。不要告诉任何人密码、完整支付凭据或一次性验证码；对方索要异常信息时挂断，从官方入口重新核实。
 
+记录只写解决问题需要的信息，遮住不必要的账户数字，并保存在他人不能随手看到的纸张或设备位置；问题结束后按你的实际保留需要处理。
+
 若听觉、语言、说话、注意力或电话操作不方便，先找官方文字客服、邮件、字幕电话、转接服务或授权陪同。替代渠道是正式接口，不是低配模式。
 
 ### 执行
@@ -64,7 +66,7 @@ description: "Human-readable instructions for preparing and completing an ordina
 - **等待超过上限：** 记下时间并挂断，改用回拨、文字/邮件或另一个官方时段。沉没的等待不要求追加等待。
 - **接通后脑中空白：** 直接读四句开场和时间线，不需要即兴表现自然。
 - **对方打断或话太快：** 说“请慢一点，我需要记录”，然后一次复述一个结论。
-- **电话中断：** 用工单号重拨，先说明上一通的时间、人员和已确认内容。
+- **电话中断：** 有工单号就用它重拨；尚未取得编号时，提供上一通的开始时间、进入的部门、客服称呼（若知道）和已确认内容。
 - **你开始生气或疲惫：** 暂停几秒、喝水、回到唯一主问题；必要时结束并另约时间。礼貌不是无限运行时间。
 - **没有权限解决：** 请求转接或书面确认；若仍无路径，查看合同/官方投诉渠道。法律权利问题另找当地合格消费者机构或专业意见。
 
@@ -97,6 +99,8 @@ Get the number only from the official product site, app, bill, or contract. Do n
 
 Prepare only identity information reasonably required by the official process. Never provide a password, complete payment credentials, or a one-time security code. Hang up and verify through the official entry point if a request is abnormal.
 
+Keep only notes needed to resolve the issue, mask unnecessary account digits, and store paper or device notes away from casual access. Dispose of them according to your real retention need after the issue closes.
+
 If hearing, speech, language, attention, or phone controls are inaccessible, find official chat, email, captioned calling, relay service, or an authorized support person first. An alternative channel is a real interface, not a reduced mode.
 
 ### Execution
@@ -125,7 +129,7 @@ You receive one of three results: resolution; a named next step, owner, and time
 - **Hold exceeds your limit:** Record the time, hang up, and use callback, chat/email, or another official service window. Time already held does not authorize more.
 - **Your mind goes blank:** Read the four-line opening and timeline. Natural improvisation is not required.
 - **Speech is too fast or interrupted:** Say, “Please slow down; I need to write this,” then confirm one conclusion at a time.
-- **The call drops:** Call back with the case number and begin with the previous time, representative, and confirmed facts.
+- **The call drops:** Use the case number if one exists. If the call ended before a number was issued, give the prior start time, department, representative name when known, and confirmed facts.
 - **You become angry or exhausted:** Pause, drink water, return to the one issue, or end and reschedule. Politeness does not require unlimited runtime.
 - **The representative lacks authority:** Request a transfer or written answer. If no route exists, use the contract or official complaint channel; take legal-rights questions to a qualified local consumer body or professional.
 

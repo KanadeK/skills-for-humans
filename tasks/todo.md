@@ -113,7 +113,7 @@ Description: enforce the stable contract on Ubuntu and Windows and test actual h
 Acceptance:
 
 - [x] CI runs tests, validator, build, extraction/revalidation, and clean-tree check.
-- [ ] Fresh-context readers review at least five random Skills.
+- [x] Fresh-context readers reviewed six random Skills; all seven Required findings were fixed and passed targeted re-review.
 - [ ] All 15 pass Agent-language, bilingual, safety, dignity, humor, and recovery review.
 
 Verify:

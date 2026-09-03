@@ -86,10 +86,12 @@ Checkpoint: exactly 15 distinct MVP Skills exist; no title-only duplicate or hig
 - [x] Add CONTRIBUTING.md and CHANGELOG.md; never claim human runtime testing without evidence.
 - [x] Add Ubuntu/Windows CI for tests, validator, deterministic build, extraction/revalidation, and clean tracked state.
 - [x] Run automated Agent-voice and safety checks across all 15 Skills.
-- [ ] Have fresh-context Codex readers review at least five randomly selected Skills for no-AI usability, humor balance, assumptions, dignity, and recovery.
+- [x] Have fresh-context Codex readers review at least five randomly selected Skills for no-AI usability, humor balance, assumptions, dignity, and recovery.
 - [ ] Complete five-axis review and resolve every Required/Critical finding.
 
 Checkpoint: the repository is useful to a human reader, not merely structurally valid.
+
+Fresh-reader checkpoint: six randomly selected Skills covered customer service, washer settings, grocery storage, lateness recovery, a new hobby, and wool care. Three independent read-only reviewers found seven Required issues around inaccessible labels, wool-program ambiguity, chemical-source alignment, failed cold storage/containers, raw leakage disposition, arrival authority, and accessible item search. Each issue and two low-cost privacy/disconnected-call findings were corrected; targeted re-review returned no remaining Critical or Required finding.
 
 ## Phase 5: publish v0.1.0
 
