@@ -46,28 +46,28 @@ Checkpoint: the product is differentiated, the slug is available, and no outer f
 
 - [x] Save the confirmed idea, assumptions, MVP, non-goals, full spec, repository rules, plan, and task list.
 - [x] Validate links and scope mechanically where possible.
-- [ ] Commit a minimal documentation-only main baseline.
-- [ ] Create the public GitHub repository and push bootstrap main without creating a release.
+- [x] Commit a minimal documentation-only main baseline.
+- [x] Create the public GitHub repository and push bootstrap main without creating a release.
 
 Checkpoint: public main is a truthful specification baseline, not an empty shell presented as a finished product.
 
 ## Phase 2: Human Skill format and deterministic tooling
 
-- [ ] Add RED tests for frontmatter, Human Runtime fields, bilingual completeness, direct human address, Agent-language rejection, placeholders, local links, duplicate names, flat catalog consistency, safety scope, and high-risk category rejection.
-- [ ] Implement docs/human-skill-format.md, templates/SKILL.md, and scripts/validate_skills.py with no third-party runtime dependency.
-- [ ] Add RED tests for a path-safe deterministic skills-for-humans-v0.1.0.zip and SHA256SUMS.txt.
-- [ ] Implement scripts/build_release.py and prove two builds are byte-identical and the extracted repository revalidates.
+- [x] Add RED tests for frontmatter, Human Runtime fields, bilingual completeness, direct human address, Agent-language rejection, placeholders, local links, duplicate names, flat catalog consistency, safety scope, and high-risk category rejection.
+- [x] Implement docs/human-skill-format.md, templates/SKILL.md, and scripts/validate_skills.py with no third-party runtime dependency.
+- [x] Add RED tests for a path-safe deterministic skills-for-humans-v0.1.0.zip and SHA256SUMS.txt.
+- [x] Implement scripts/build_release.py and prove two builds are byte-identical and the extracted repository revalidates.
 
 Checkpoint: one fixture Human Skill can travel from source tree through validation, release build, extraction, and revalidation.
 
 ## Phase 3: content slices
 
-- [ ] Chores A: market planning, choosing perishables, putting groceries away.
-- [ ] Chores B: sorting laundry, choosing washer settings, washing wool knitwear.
-- [ ] Chores C: planning a meal, substituting ingredients, checking doneness/storing leftovers.
-- [ ] First Attempts: eating alone at an unfamiliar restaurant; trying a hobby before buying full gear.
-- [ ] Awkward Social Tasks: calling customer service; returning a wrong or unsuitable item.
-- [ ] Recovery: rescuing over-salted food; making a realistic late-arrival downgrade.
+- [x] Chores A: market planning, choosing perishables, putting groceries away.
+- [x] Chores B: sorting laundry, choosing washer settings, washing wool knitwear.
+- [x] Chores C: planning a meal, substituting ingredients, checking doneness/storing leftovers.
+- [x] First Attempts: eating alone at an unfamiliar restaurant; trying a hobby before buying full gear.
+- [x] Awkward Social Tasks: calling customer service; returning a wrong or unsuitable item.
+- [x] Recovery: rescuing over-salted food; making a realistic late-arrival downgrade.
 
 Each content slice:
 
@@ -81,15 +81,19 @@ Checkpoint: exactly 15 distinct MVP Skills exist; no title-only duplicate or hig
 
 ## Phase 4: storefront, contribution, and review
 
-- [ ] Write the Chinese-first README first screen with the two approved taglines and a real SKILL.md excerpt.
-- [ ] Write a complete English README and a flat bilingual SKILLS.md catalog grouped by Chores, First Attempts, Awkward Social Tasks, and Recovery.
-- [ ] Add CONTRIBUTING.md and CHANGELOG.md; never claim human runtime testing without evidence.
-- [ ] Add Ubuntu/Windows CI for tests, validator, deterministic build, extraction/revalidation, and clean tracked state.
-- [ ] Run automated Agent-voice and safety checks across all 15 Skills.
-- [ ] Have fresh-context Codex readers review at least five randomly selected Skills for no-AI usability, humor balance, assumptions, dignity, and recovery.
-- [ ] Complete five-axis review and resolve every Required/Critical finding.
+- [x] Write the Chinese-first README first screen with the two approved taglines and a real SKILL.md excerpt.
+- [x] Write a complete English README and a flat bilingual SKILLS.md catalog grouped by Chores, First Attempts, Awkward Social Tasks, and Recovery.
+- [x] Add CONTRIBUTING.md and CHANGELOG.md; never claim human runtime testing without evidence.
+- [x] Add Ubuntu/Windows CI for tests, validator, deterministic build, extraction/revalidation, and clean tracked state.
+- [x] Run automated Agent-voice and safety checks across all 15 Skills.
+- [x] Have fresh-context Codex readers review at least five randomly selected Skills for no-AI usability, humor balance, assumptions, dignity, and recovery.
+- [x] Complete five-axis review and resolve every Required/Critical finding.
 
 Checkpoint: the repository is useful to a human reader, not merely structurally valid.
+
+Fresh-reader checkpoint: six randomly selected Skills covered customer service, washer settings, grocery storage, lateness recovery, a new hobby, and wool care. Three independent read-only reviewers found seven Required issues around inaccessible labels, wool-program ambiguity, chemical-source alignment, failed cold storage/containers, raw leakage disposition, arrival authority, and accessible item search. Each issue and two low-cost privacy/disconnected-call findings were corrected; targeted re-review returned no remaining Critical or Required finding.
+
+Final local checkpoint: 12 tests, 15/15 official quick validations, repository validation, CI YAML parsing, secret scan, two deterministic v0.1.0 builds, checksum verification, and extracted-tree revalidation pass. All 15 Skill paths are complete and every Human test remains Not yet. The nine evidence-seeded rewrites have 0.025–0.068 whole-text similarity to the old Agent instructions; longest shared spans are source URLs or short factual phrases, not copied bodies. Five-axis review found no remaining Critical or Required issue, and the outer workspace Git index hash remains unchanged.
 
 ## Phase 5: publish v0.1.0
 

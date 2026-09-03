@@ -8,7 +8,7 @@ Acceptance:
 
 - [x] Local and remote names are free; target Git root is independent from D:\我的\GitHub.
 - [x] Idea, spec, AGENTS, plan, todo, README, license, and ignore rules exist.
-- [ ] Bootstrap main is committed and pushed to a new public KanadeK/skills-for-humans repository.
+- [x] Bootstrap main is committed and pushed to a new public KanadeK/skills-for-humans repository.
 
 Verify:
 
@@ -24,13 +24,13 @@ Description: create one visible Human Runtime format and a validator that checks
 
 Acceptance:
 
-- [ ] Template frontmatter uses only name and description.
-- [ ] Runtime/status/difficulty/time/requirements/side effects/safety are visible in the first screen.
-- [ ] Both languages cover execution and recovery while Agent-facing wording fails validation.
+- [x] Template frontmatter uses only name and description.
+- [x] Runtime/status/difficulty/time/requirements/side effects/safety are visible in the first screen.
+- [x] Both languages cover execution and recovery while Agent-facing wording fails validation.
 
 Verify:
 
-- [ ] RED tests fail before implementation, then focused tests and official quick_validate pass.
+- [x] RED tests fail before implementation, then five focused tests and official quick_validate pass.
 
 Files: docs/human-skill-format.md, templates/SKILL.md, scripts/validate_skills.py, one test file.
 Dependencies: Task 1.
@@ -41,13 +41,13 @@ Description: package the readable repository without adding an installer or runt
 
 Acceptance:
 
-- [ ] Build produces skills-for-humans-v0.1.0.zip and SHA256SUMS.txt only.
-- [ ] Archive paths are safe, timestamps stable, and two builds match byte-for-byte.
-- [ ] Extracted archive passes the same validator.
+- [x] Build produces skills-for-humans-v0.1.0.zip and SHA256SUMS.txt only.
+- [x] Archive paths are safe, timestamps stable, and two builds match byte-for-byte.
+- [x] Extracted archive passes the same validator.
 
 Verify:
 
-- [ ] RED/GREEN release tests and isolated extraction pass.
+- [x] RED/GREEN release tests and isolated extraction pass.
 
 Files: scripts/build_release.py and one test file.
 Dependencies: Task 2.
@@ -58,14 +58,14 @@ Description: use Harvester sources as factual seeds but replace every Agent-orie
 
 Acceptance:
 
-- [ ] Task 4 ships three grocery Skills.
-- [ ] Task 5 ships three laundry Skills.
-- [ ] Task 6 ships three cooking/food-handling Skills.
-- [ ] All nine include short sources, assumptions, safe stop/recovery, and no forbidden Agent phrases.
+- [x] Task 4 ships three grocery Skills.
+- [x] Task 5 ships three laundry Skills.
+- [x] Task 6 ships three cooking/food-handling Skills.
+- [x] All nine include short sources, assumptions, safe stop/recovery, and no forbidden Agent phrases.
 
 Verify:
 
-- [ ] Validator, official quick_validate, factual comparison, and dedicated food/laundry safety review pass after each group.
+- [x] Validator, official quick_validate, factual comparison, and dedicated food/laundry safety review pass after each group.
 
 Files: three skills/<slug>/SKILL.md files per task.
 Dependencies: Task 2.
@@ -76,14 +76,14 @@ Description: prove the product extends beyond chores without becoming an AI prom
 
 Acceptance:
 
-- [ ] Task 7 ships two First Attempts Skills.
-- [ ] Task 8 ships two Awkward Social Tasks Skills.
-- [ ] Task 9 ships two Recovery Skills.
-- [ ] Cultural, financial, mobility, sensory, and policy assumptions have alternatives.
+- [x] Task 7 ships two First Attempts Skills.
+- [x] Task 8 ships two Awkward Social Tasks Skills.
+- [x] Task 9 ships two Recovery Skills.
+- [x] Cultural, financial, mobility, sensory, and policy assumptions have alternatives.
 
 Verify:
 
-- [ ] Each pair passes validator and an independence/non-duplication review.
+- [x] Each pair passes validator and an independence/non-duplication review.
 
 Files: two skills/<slug>/SKILL.md files per task.
 Dependencies: Task 2.
@@ -94,14 +94,14 @@ Description: make the repository understandable within ten seconds and navigable
 
 Acceptance:
 
-- [ ] Chinese README uses the approved title and taglines plus a real file excerpt.
-- [ ] English README is complete and natural.
-- [ ] SKILLS.md lists exactly 15 Skills in four experience categories with time, difficulty, side effects, and stable links.
-- [ ] CONTRIBUTING and CHANGELOG state honest quality/testing rules.
+- [x] Chinese README uses the approved title and taglines plus a real file excerpt.
+- [x] English README is complete and natural.
+- [x] SKILLS.md lists exactly 15 Skills in four experience categories with time, difficulty, side effects, and stable links.
+- [x] CONTRIBUTING and CHANGELOG state honest quality/testing rules.
 
 Verify:
 
-- [ ] Catalog, reciprocal language links, local links, and 15 paths pass automated checks.
+- [x] Catalog, reciprocal language links, local links, and 15 paths pass automated checks.
 
 Files: README.md, README.en.md, SKILLS.md, CONTRIBUTING.md, CHANGELOG.md.
 Dependencies: Tasks 4–9.
@@ -112,13 +112,13 @@ Description: enforce the stable contract on Ubuntu and Windows and test actual h
 
 Acceptance:
 
-- [ ] CI runs tests, validator, build, extraction/revalidation, and clean-tree check.
-- [ ] Fresh-context readers review at least five random Skills.
-- [ ] All 15 pass Agent-language, bilingual, safety, dignity, humor, and recovery review.
+- [x] CI runs tests, validator, build, extraction/revalidation, and clean-tree check.
+- [x] Fresh-context readers reviewed six random Skills; all seven Required findings were fixed and passed targeted re-review.
+- [x] All 15 pass Agent-language, bilingual, safety, dignity, humor, and recovery review.
 
 Verify:
 
-- [ ] Full local suite and five-axis review have no Required/Critical findings.
+- [x] Twelve tests, 15 official validations, repository/build/extraction checks, and five-axis review pass with no Required/Critical findings.
 
 Files: .github/workflows/ci.yml plus review evidence in the PR description; no fake E2E files.
 Dependencies: Tasks 3 and 10.
