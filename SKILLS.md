@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 整理并补水一小把切花花枝 | Condition Cut-Flower Stems for Display | 15–25 分钟动手，另加浸水等待 / 15–25 minutes active plus hydration wait | 简单 / Easy | 叶子离开水线，花枝准备好进花瓶 / Leaves leave the waterline; stems are ready for a vase | [SKILL.md](skills/condition-cut-flower-stems-for-display/SKILL.md) |
+| 插一瓶稳定的小型切花 | Arrange a Small Cut-Flower Vase | 15–30 分钟 / minutes | 简单 / Easy | 花瓶占据一块台面，并需要后续换水 / A vase takes table space and will need later water care | [SKILL.md](skills/arrange-a-small-cut-flower-vase/SKILL.md) |
+| 用几枝切花扎一束可手持小花束 | Tie a Small Hand Bouquet from Cut Flowers | 15–25 分钟 / minutes | 简单 / Easy | 散花变成一束，茎仍需要水 / Loose stems become a bundle that still needs water | [SKILL.md](skills/tie-a-small-hand-bouquet-from-cut-flowers/SKILL.md) |
+| 给开始走样的切花换水收拾 | Refresh a Fading Cut-Flower Vase | 10–20 分钟 / minutes | 简单 / Easy | 花束可能变小，水会更干净 / The display may get smaller and the water cleaner | [SKILL.md](skills/refresh-a-fading-cut-flower-vase/SKILL.md) |
+| 倒挂风干一小束观赏花 | Air-Dry a Small Bunch of Ornamental Flowers | 15–25 分钟布置，后续多日检查 / 15–25 minutes setup plus checks over days | 简单 / Easy | 花逐渐变脆、可能褪色，空间暂被占用 / Blooms become brittle and may fade; the space stays occupied | [SKILL.md](skills/air-dry-a-small-bunch-of-ornamental-flowers/SKILL.md) |
+| 用吸水纸压平一朵获准观赏花 | Press a Permitted Ornamental Flower Between Paper | 10–20 分钟布置，之后隔日检查 / 10–20 minutes setup plus later checks | 简单 / Easy | 花会失去立体形状，纸也可能留下色迹 / Flower loses depth; paper may stain | [SKILL.md](skills/press-a-permitted-ornamental-flower-between-paper/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
