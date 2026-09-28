@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for cleaning a small reachable furniture patch only under its actual finish rules, then drying and restoring light objects.
 
 ## 0.1.0 - 2026-09-03
 
