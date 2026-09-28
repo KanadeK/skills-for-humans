@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H112 Human Skills for counting all kit parts before ordinary assembly and distinguishing similar fasteners against exact part IDs.
 
 ## 0.1.0 - 2026-09-03
 
