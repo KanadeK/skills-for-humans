@@ -31,16 +31,17 @@ description: "Human-readable instructions for testing a low-risk new hobby throu
 - 这个爱好的最小核心动作；
 - 你愿意投入的试用时间、预算和储存空间；
 - 能否借用、租用、参加体验课、使用公共设施或买二手基础品；
+- 若借用、租用或去公共设施试用：你是否有资格、会不会另付押金/耗材费、是否有人教安全起步、何时何地归还；
 - 行动、视觉、听觉、感官、过敏、场地和交通条件；
 - 取消、退还或不继续的成本。
 
-先写一个试用上限，例如“三次，每次四十分钟，总花费不超过 200 元”。它是防止兴趣验证意外升级为采购系统的资源限制。
+先写一个试用上限，例如“三次，每次四十分钟，累计支出不超过你预先写下的金额”。金额用你实际支付的币种和预算，不由本文语言决定。它是防止兴趣验证意外升级为采购系统的资源限制。
 
 ### 执行
 
 1. **定义核心动作。** 摄影是观察和取景，不是先研究十支镜头；绘画是落笔和看结果，不是先拥有完整色号。用一句话写出你实际上要做什么。
 2. **删去展示性依赖。** 区分“没有就无法安全开始”的必需品与“看起来像认真爱好者”的升级品。只保留前者。
-3. **选最小可逆入口。** 优先顺序通常是：使用已有物品、借、公共设施/体验、租、买便宜或二手基础品，最后才是新全套。卫生、尺寸和安全装备不能因省钱被忽略。
+3. **选最小可逆入口。** 优先顺序通常是：使用已有物品、借、公共设施/体验、租、买便宜或二手基础品，最后才是新全套。借/租之前核该机会的资格、耗材、费用、归还条件和教学支持；若你不会安全操作而现场不教，就换有指导的低风险体验，不借设备硬试。卫生、尺寸和安全装备不能因省钱被忽略。
 4. **安排一到三次具体尝试。** 写进日历，给每次一个可完成任务，例如“学三个和弦”“画一个杯子”“照顾一盆容易存活的植物七天”。不要把“看教程”算作全部运行时间。
 5. **第一次只学安全启动和核心循环。** 找可靠入门说明，完成准备—动作—收尾。遇到需要专业监督的步骤就停，不把勇气当认证。
 6. **每次只记录三件事。**
@@ -71,6 +72,7 @@ description: "Human-readable instructions for testing a low-risk new hobby throu
 
 ### 来源
 
+- [LA County Library：Tool Lending Library](https://library.lacounty.gov/tools/)（英文，公共借用项目实例）— 借用资格、可借物品、耗材自备、归还地点与是否提供操作指导须逐项核实际项目；该馆规则不作为其他地区通则。
 - Original synthesis。安全装备、培训、年龄、场地和健康要求以具体活动的合格组织、制造商与所在地规则为准。
 
 ## English
@@ -87,16 +89,17 @@ Confirm:
 - the smallest core action;
 - trial time, budget, and storage you accept;
 - borrowing, renting, a taster class, public facilities, or used starter options;
+- for a loan, rental, or public trial: eligibility, deposit or consumable costs, safe-start instruction, and when and where to return items;
 - mobility, vision, hearing, sensory, allergy, space, and transport needs;
 - the cost of cancellation, return, or stopping.
 
-Set a trial ceiling such as “three sessions, forty minutes each, no more than $30.” This resource limit keeps interest testing from silently migrating into a procurement system.
+Set a trial ceiling such as “three sessions, forty minutes each, within a spending cap you write in advance.” Use the currency you will actually pay and a budget you accept; the language of this file does not set either. This resource limit keeps interest testing from silently migrating into a procurement system.
 
 ### Execution
 
 1. **Define the core action.** Photography is observing and framing before comparing ten lenses. Drawing starts with making marks and seeing results before owning every colour. Write one sentence describing what you will actually do.
 2. **Remove display dependencies.** Separate what is necessary to start safely from what mainly signals “serious hobbyist.” Keep the first list.
-3. **Choose the smallest reversible entry.** A useful order is existing item, borrow, public/taster access, rent, cheap or used starter, then new full-price gear. Do not compromise hygiene, fit, or required safety equipment.
+3. **Choose the smallest reversible entry.** A useful order is existing item, borrow, public/taster access, rent, cheap or used starter, then new full-price gear. Before borrowing or renting, check this option's eligibility, consumables, charges, return terms, and instruction. If you cannot operate it safely and nobody will teach you, choose a guided low-risk trial instead of borrowing gear to experiment blindly. Do not compromise hygiene, fit, or required safety equipment.
 4. **Schedule one to three real trials.** Give each a finishable task: learn three chords, draw one cup, or keep one beginner plant for a week. Watching tutorials is preparation, not the entire runtime.
 5. **Learn only safe startup and the core loop first.** Use a reliable beginner source and complete setup, action, and cleanup. Stop where qualified supervision is required; confidence is not certification.
 6. **Record three things after each attempt.**
@@ -127,6 +130,7 @@ Known side effects include acquiring a real hobby or acquiring one experiment an
 
 ### Sources
 
+- [LA County Library: Tool Lending Library](https://library.lacounty.gov/tools/) — one public loan program shows that eligibility, consumables, return place, and availability of instruction require separate checks; its rules do not apply everywhere.
 - Original synthesis. Follow qualified activity organizations, manufacturers, venues, and local rules for safety equipment, instruction, age, access, and health requirements.
 
 If AI opens this file, it may help compare a trial option or localize the text. You remain the Human Runtime and perform, pause, or stop the activity.
