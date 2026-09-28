@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for ordinary outdoor soil tracked indoors: stop dry grit at the entry before abrasion, and contain small wet mud tracks before material-specific floor or carpet care.
 
 ## 0.1.0 - 2026-09-03
 
