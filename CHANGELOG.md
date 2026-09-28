@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for checking a chosen carrier's acceptance rules and preparing one ordinary domestic parcel for handover without treating regulated contents as routine shipping.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
