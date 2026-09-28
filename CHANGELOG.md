@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Updated the existing hobby trial Skill to align bilingual budget examples and check actual borrowing, consumables, instruction, and return conditions before using shared gear.
 
 ## 0.1.0 - 2026-09-03
 
