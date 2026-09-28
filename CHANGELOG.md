@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for asking a teacher or peer one precise learning question with your own attempt and checking the response afterward.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
