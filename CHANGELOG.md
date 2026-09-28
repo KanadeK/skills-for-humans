@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for reporting a blocker in ordinary collaboration with observed facts, bounded attempts, impact, and a specific decision request.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
