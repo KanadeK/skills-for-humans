@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for reusable food boxes: clean each maker-removable seal and part, then assess persistent moisture, residue, distortion or poor lid fit before reuse.
 
 ## 0.1.0 - 2026-09-03
 
