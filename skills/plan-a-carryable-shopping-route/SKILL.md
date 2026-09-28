@@ -30,7 +30,7 @@ description: "Human-readable instructions for ordering multiple shopping stops a
 ### 执行
 
 1. **先确定最后一段。** 从预定最后一站到家，写出交通方式、预计时间、需要的换乘或台阶，以及可能的等待。无法可靠回家或保冷时，先删去该次的易腐品或改成另一趟，不先付款再研究出口。
-2. **给每站标记不可交换的条件。** 营业时间、预约取货时间、必须走的无障碍入口和返程班次比地图上的最短线优先。信息不确定时，用商店或运营方当日信息核实，并留一个能安全停下或直接回家的位置。
+2. **给每站标记不可交换的条件。** 营业时间、预约取货时间、可用入口与店内通道、需要的取货协助或休息点、返程班次，都比地图上的最短线优先。信息不确定时，用商店或运营方当日信息核实，并留一个能安全停下或直接回家的位置。
 3. **把预计负重写在站与站之间。** 例如“第一站后两袋，第二站后再多一箱”。使用你自己已知能稳定携带或推动的范围；没有把握，就少买、分两趟、请合适的人协助，或在可用且费用可接受时选择配送。购物车轮子也不会替你通过不存在的电梯。
 4. **再排购物顺序。** 通常先办轻、耐储存的日用品，再拿较重物品；冷藏、冷冻以及生肉海鲜尽量留到最后一站或最后一段，买完直接回家。若营业时间迫使易腐品排在前面，只有你能按标签要求可靠保冷且途中不会继续长时间停留，这条路线才成立；否则拆成两趟或放弃该项。
 5. **在路线卡上写出取舍。** 每站只记“要买的类别、离开时预计负重、下一站或回家”；另标可删的非必需项。生肉、海鲜用防漏包装与即食食品分开，清洁用品与食品分开。选袋和分装时让易碎品不被重物压住，不让袋子或推车挡住交通工具通道。
@@ -70,7 +70,7 @@ Your real capacity to carry, walk, stand, board, and use steps is an input. If y
 ### Execution
 
 1. **Work backward from home.** Write down the route from the proposed final stop to home, including travel time, transfers or steps, and likely waiting. If you cannot get home or keep perishables at their required condition reliably, remove them from this trip or make a separate trip before you pay for them.
-2. **Mark the constraints that cannot move.** Opening hours, pickup windows, a usable accessible entrance, and the return service matter more than the shortest line on a map. Confirm uncertain details with the shop or operator's current information. Identify somewhere you can stop safely or head straight home.
+2. **Mark the constraints that cannot move.** Opening hours, pickup windows, a usable entrance and route inside the shop, needed help reaching goods or a place to rest, and the return service matter more than the shortest line on a map. Confirm uncertain details with the shop or operator's current information. Identify somewhere you can stop safely or head straight home.
 3. **Record the load between stops.** For example, “two bags after stop one, plus a box after stop two.” Use the amount you know you can carry or move steadily. If unsure, buy less, split the trip, arrange suitable help, or choose delivery where available and affordable. A cart does not create an elevator where none exists.
 4. **Order the purchases.** Generally do light, shelf-stable errands first, then heavier items. Leave chilled and frozen food, and raw meat or seafood, until the last stop or final leg, then head home. If opening hours force a perishable purchase earlier, keep that route only if you can reliably meet its labelled storage condition throughout and avoid a prolonged detour. Otherwise split the trip or skip the item.
 5. **Make a small route card.** For each stop, note the item group, expected load on leaving, and next stop or home. Mark optional items you can drop. Keep raw meat and seafood in leak-resistant packaging away from ready-to-eat food, and cleaning products away from food. Do not crush fragile goods under heavier ones or block vehicle aisles with bags or a cart.
