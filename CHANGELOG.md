@@ -5,6 +5,7 @@
 ### Added
 
 - Five bilingual Human Skills for purchase-time label decisions: explicit restrictions, food dates, recall matching, environmental claims, and garment-care feasibility.
+- A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
 
