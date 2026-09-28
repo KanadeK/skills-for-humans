@@ -44,7 +44,7 @@ description: "Human-readable instructions for reducing excessive salt in ordinar
    - 炒菜、馅料、焖菜：增加未调味蔬菜、主食、豆类、蛋白质或同类基底；
    - 面糊、面团、混合物（尚未烹调且配方允许）：按比例增加其余无盐成分，不只加液体；
    - 已完成、不能再混合的成品：搭配无盐主食、蔬菜、酱汁或乳制品（适合时）分散每口咸度。
-5. **过量时先分锅。** 留下一半咸食物，向另一半加入无盐基底修复；如果成功，再决定如何处理剩余部分。分支比一次把整锅稀释到失去身份更可回滚。
+5. **先试小份，再判断整锅是否值得扩容。** 只在安全可尝的阶段取一小份，加入量过的、相容的无盐主体或液体，搅匀并复尝，同时看质地是否仍适合原用途。用小样需要的增量**粗略估算**全锅会多出多少；它不是精确配方。若锅、食用人数或可靠冷藏空间容不下，就只救一份、改作少量调味基底，或停止并弃置。严重过咸时把原锅分成两份，只修其中一份；成功后才决定另一份，不一次把整锅稀释到失去身份。
 6. **酸、甜和脂肪只做最后平衡。** 少量适合菜式的酸、甜或脂肪可能降低咸味感受，但不会移除盐或降低实际钠含量。每次只加一点，并在安全阶段重新尝。
 7. **重建被稀释的其他味道。** 咸度可接受后，再用不含盐的香草、香料、酸或香味成分补回层次。不要重新加入含盐调味完成循环。
 8. **决定新用途。** 仍偏咸但安全的浓味部分，可以少量作为无盐主食、汤、馅料或下一顿菜的调味基底；写上标签并控制每次用量。
@@ -52,14 +52,14 @@ description: "Human-readable instructions for reducing excessive salt in ordinar
 
 ### 成功条件
 
-咸度降到你愿意吃的范围，菜仍有可辨认的结构和味道，食品安全没有被牺牲，并且新增份量有明确去向。若只能得到“可作为少量调味基底”，这也是成功降级。
+你已得到一份咸度可接受、结构仍适用且食品安全可确认的食物，新增份量也有去向；或明确决定只作少量调味基底、停止补救并弃置。后两者是有边界的完成决定，不要求把每一锅都救到可直接上桌。
 
 ### 常见报错与补救
 
 - **ERR_SALT_OVERFLOW 仍存在：** 再分出一部分，继续增加无盐主体；修复成本超过食物价值时可以停止并丢弃。
 - **变得太稀：** 使用与菜相容、无盐的固体主体或允许的增稠方法，而不是继续长时间收汁把盐浓回去。
 - **酸或糖抢走味道：** 停止添加，用更多原主体分散；不要用第三种强味与前两种开会。
-- **份量暴增：** 立即决定分享、下一餐、冷冻（食物适合时）或丢弃，不让锅成为无限扩容服务。
+- **份量暴增：** 停止再加入材料，回到小份试验的记录；只有分享、下一餐或冷冻的条件**已经核实可行**才保留新增部分，否则及时按食品安全指导处理，不让锅成为无限扩容服务。
 - **已经上桌才发现：** 提供无盐主食/配菜，把咸食物当小份配料，并诚实提醒同桌；不要在每个人碗里秘密部署补丁。
 - **安全时间或温度史变得不确定：** 停止补救并按当地指导处理。调味修复不能覆盖食品安全失败。
 
@@ -101,7 +101,7 @@ Do not improvise here for medical sodium limits, severe allergies, infant food, 
    - Stir-fry, filling, or braise: add unsalted vegetables, staple, beans, protein, or matching bulk.
    - Uncooked batter/dough where the recipe permits: scale the other unsalted ingredients proportionally rather than adding only liquid.
    - Finished food that cannot be remixed: serve smaller amounts with an unsalted staple, vegetables, sauce, or suitable dairy.
-5. **Split a severe case first.** Put half aside and repair the other half with unsalted base. If it works, decide how to use the remainder. Branching is more reversible than diluting the entire pot beyond recognition.
+5. **Trial a small safe portion before scaling the whole pot.** Only at a stage safe to taste, add a measured amount of compatible unsalted bulk or liquid to one small portion. Mix, retaste, and check whether the texture still suits its purpose. Use that trial to **roughly estimate** the extra whole-pot volume; it is not an exact recipe. If the pan, diners, or reliable chilling cannot take it, rescue one portion, repurpose a little as seasoning, or stop and discard. For a severe case, split the original pot and repair only one half first. Decide on the rest after a successful trial rather than diluting everything beyond recognition.
 6. **Use acid, sweetness, or fat only for final balance.** A small dish-appropriate amount may reduce perceived saltiness, but it does not remove salt or reduce actual sodium. Add a little and retaste safely.
 7. **Rebuild flavours lost to dilution.** Once salt is acceptable, restore complexity with unsalted herbs, spices, acid, or aromatics. Do not reintroduce salty seasoning and restart the loop.
 8. **Choose a new use if needed.** A safe but concentrated portion can become a small seasoning base for unsalted rice, soup, filling, or another meal. Label it and control each amount.
@@ -109,14 +109,14 @@ Do not improvise here for medical sodium limits, severe allergies, infant food, 
 
 ### Success
 
-Saltiness reaches a range you will eat, the dish retains useful structure and flavour, safety remains intact, and added portions have destinations. A safe “use in small amounts as seasoning” downgrade also counts.
+You have a portion with acceptable saltiness, suitable structure, confirmed food safety, and a destination for the added volume; or you explicitly choose a small seasoning-base use or stop recovery and discard. Those are bounded completed decisions. Every pot need not be returned to direct-serving condition.
 
 ### Common errors and recovery
 
 - **ERR_SALT_OVERFLOW remains:** Split again and add more unsalted bulk. Stop and discard if recovery costs exceed the food's value.
 - **The dish becomes watery:** Add compatible unsalted solids or a permitted thickening method instead of reducing long enough to concentrate the salt again.
 - **Acid or sweetness takes over:** Stop adding it and dilute with the original base. Do not invite a third strong flavour to arbitrate.
-- **Volume grows dramatically:** Decide immediately among sharing, next meal, suitable freezing, or disposal. Do not run the pot as an autoscaling service.
+- **Volume grows dramatically:** Stop adding ingredients and return to the small-portion trial. Keep extra food for sharing, another meal, or suitable freezing only when those conditions are **already confirmed workable**; otherwise handle it promptly under food-safety guidance. Do not run the pot as an autoscaling service.
 - **You discover the problem at the table:** Serve an unsalted staple or side, use the salty food as a small condiment, and tell people honestly. Do not deploy silent patches into individual bowls.
 - **Time or temperature history becomes uncertain:** Stop recovery and follow local safety guidance. Flavour repair cannot overwrite a food-safety failure.
 

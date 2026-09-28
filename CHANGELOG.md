@@ -6,6 +6,10 @@
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
+### Changed
+
+- Clarified the small-portion trial, whole-pot capacity check, and honest stop outcome in `rescue-salty-food`.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
