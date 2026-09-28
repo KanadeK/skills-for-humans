@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H105 Human Skills for checking a multi-piece room layout and the actual access route before a large-item move-in.
 
 ## 0.1.0 - 2026-09-03
 
