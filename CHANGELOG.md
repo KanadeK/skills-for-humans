@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for converting a vague learning intention into a bounded session goal with a visible product and honest check.
 
 ## 0.1.0 - 2026-09-03
 
