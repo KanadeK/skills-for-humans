@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for locating the first evidenced reason an ordinary practice attempt diverged before choosing a matched repair.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
