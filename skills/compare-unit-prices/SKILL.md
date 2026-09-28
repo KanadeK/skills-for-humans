@@ -19,23 +19,23 @@ description: "Human-readable steps for comparing ordinary goods using current pr
 
 ## 中文
 
-当你已选出两件用途符合要求的普通商品，却被不同包装大小或促销标价弄得难以比较时，加载这份 Skill。结果是**同一时点、同一货币和同一数量单位下的价格比较**，不是未来价格预测，也不替你决定需要买多少。先排除不符合用途或限制的商品；易腐食材的状态另行判断。
+当你已选出两件用途符合要求的普通商品，却被不同包装大小弄得难以比较时，加载这份 Skill。结果是**同一时点、同一货币和同一数量单位下的价格比较**，不是未来价格预测，也不替你决定需要买多少。先排除不符合用途或限制的商品；易腐食材的状态另行判断。遇到条件式多买优惠时，先用[固定件数下比较多买优惠](../compare-multibuy-offers/SKILL.md)确认实际适用价格。
 
 ### 准备与输入
 
-记录每件商品当前实际适用的总价、包装标出的净含量及单位，并确认你会买的件数。留意优惠是否要求多买、会员身份或指定时间。比较前确认两件商品能完成你的同一个用途，而且规格差异没有使“同重量 / 同体积 / 同件数”失去意义。大包能否用完、放下或带走，是另一个购买量判断；先不要把多出来的东西算成免费收益。
+记录每件商品当前可确认的总价、包装标出的净含量及单位。比较前确认两件商品能完成你的同一个用途，而且规格差异没有使“同重量 / 同体积 / 同件数”失去意义。大包能否用完、放下或带走，是另一个购买量判断；先不要把多出来的东西算成免费收益。
 
 ### 执行步骤
 
-1. **固定比较口径。** 按商品实际提供的内容选一个共同单位，例如每千克、每升或每件。读净含量，不凭盒子体积猜内容量。若一件只按件标、另一件只按重量标，且没有可靠的实际数量换算，先标为“不可直接比较”；毫升与克也不能凭直觉互换。
-2. **把单位写成同一个。** 例如每 100 克的价格乘 10，才是每千克的价格；750 克是 0.75 千克。两种标签若分别按总净重和沥干重计，而你无法取得同一口径的量，也先停止数值排名。
-3. **核对这次真正适用的价格。** 单件价、会员价、第二件折扣和多件同价只按你实际满足的条件计算。若优惠要求两件而你只买一件，用单件现价；若你会买两件，用两件实际应付总价除以两件的总净含量。税费或其他必须支付的项目如在两项之间处理不同且无法确认，就不要把货架数字当成最终可比价格。
-4. **算或核验同单位价格。** 用“这次适用的总价 ÷ 取得的净数量 × 共同单位数量”。例如同一货币下，A 是 500 克、价 6，B 是 750 克、价 8.25；换算后分别是每千克 12 和 11。若货架已给单位价，先检查它的单位与当前优惠，再用它省去手算。
+1. **固定比较口径。** 按商品实际提供的内容选一个共同单位，例如每千克、每升或每件。读净含量，不凭盒子体积猜内容量。若一件只按件标、另一件只按重量标，且没有可靠的实际数量换算，先标为“不可直接比较”；毫升与克也不能凭直觉互换。片装纸品的每张尺寸不同且均有完整标示时，用[纸面面积比价](../compare-sheet-goods-by-area/SKILL.md)。
+2. **把单位写成同一个。** 例如每 100 克的价格乘 10，才是每千克的价格；750 克是 0.75 千克。两种标签若分别按总净重和沥干重计，不要直接排名；当你会倒掉包装液且两件都有沥干重时，使用[沥干重比价](../compare-price-by-drained-weight/SKILL.md)，否则先停止数值排名。
+3. **核对这次真正适用的价格。** 使用你能确认的当前单件价格。若它依赖会员、件数或其他优惠条件，先核实条件及实际应付额；复杂多买价交给上面的独立流程。税费或其他必须支付的项目如在两项之间处理不同，就用[同一购物篮最终应付额](../compare-final-cart-costs/SKILL.md)核对，别把货架数字当成最终价格。
+4. **算或核验同单位价格。** 用“这次适用的总价 ÷ 取得的净数量 × 共同单位数量”。例如同一货币下，A 是 500 克、价 6，B 是 750 克、价 8.25；换算后分别是每千克 12 和 11。若货架已给单位价，先检查它的单位与当前优惠；明显对不上时用[价格牌算式核对](../check-price-label-arithmetic/SKILL.md)，不要继续信任该数字。
 5. **给出有限结论。** B 在这个例子里每千克便宜 1，但 B 的结账总价仍较高，且多出 250 克。记下“单位价较低者、实际需付金额、额外数量”三项；只在所需数量、使用和储存条件都合适时把单位价较低当成购买理由。
 
 ### 完成与停止
 
-你能说清两个候选在**相同数量单位和实际适用价格**下各是多少钱，并指出促销或额外购买量有没有改变结论，就完成了比较。单位、净含量、优惠资格或必须支付的金额无法核实时，输出“暂不可比”，换一个信息完整的候选或先问清；不要补一个猜测数字。
+你能说清两个候选在**相同数量单位和实际适用价格**下各是多少钱，并指出额外购买量有没有改变结论，就完成了比较。单位、净含量、价格条件或必须支付的金额无法核实时，输出“暂不可比”，换一个信息完整的候选或先问清；不要补一个猜测数字。
 
 ### 常见报错与补救
 
@@ -57,23 +57,23 @@ description: "Human-readable steps for comparing ordinary goods using current pr
 
 ## English
 
-Load this Skill when two ordinary products already meet your needs but different pack sizes or offer labels make their prices hard to compare. Your result is a comparison at the **same observed time, currency, and quantity unit**. It does not predict future prices or decide how much you need. Screen out unsuitable products first; judge the condition of perishables separately.
+Load this Skill when two ordinary products already meet your needs but different pack sizes make their prices hard to compare. Your result is a comparison at the **same observed time, currency, and quantity unit**. It does not predict future prices or decide how much you need. Screen out unsuitable products first; judge the condition of perishables separately. For a conditional multi-buy offer, first use [Compare Multi-Buy Offers for a Fixed Quantity](../compare-multibuy-offers/SKILL.md) to find the price that actually applies.
 
 ### Preparation and inputs
 
-Record each product's price that actually applies now, its labelled net quantity and unit, and how many packs you intend to buy. Check whether an offer requires multiple packs, membership, or a particular time. Confirm that the products serve the same purpose and that their specifications make a shared weight, volume, or count meaningful. Whether you can use, store, or carry an extra amount is a separate quantity decision. Extra stock is not free just because its unit price is low.
+Record each product's current confirmed price and its labelled net quantity and unit. Confirm that the products serve the same purpose and that their specifications make a shared weight, volume, or count meaningful. Whether you can use, store, or carry an extra amount is a separate quantity decision. Extra stock is not free just because its unit price is low.
 
 ### Execution steps
 
-1. **Choose a common basis.** Use the quantity the products actually provide: for example, per kilogram, litre, or item. Read net contents rather than estimating from box size. If one product is priced only by count and the other only by weight, with no reliable quantity conversion, mark them “not directly comparable.” Do not guess a conversion between millilitres and grams either.
-2. **Put the units on the same scale.** A price per 100 grams becomes a price per kilogram when multiplied by 10; 750 grams is 0.75 kilograms. If one label uses total net weight and another drained weight, and you cannot get a matching basis, stop the numerical ranking.
-3. **Check the price you qualify for.** Apply a single-item price, member price, second-item discount, or multi-buy offer only when you meet its conditions. If you buy one but the offer requires two, use the one-item price. If you buy two, divide the total you would actually pay by their combined net quantity. If unavoidable charges are treated differently and you cannot confirm them, do not present shelf prices as final comparable costs.
-4. **Calculate or verify unit prices.** Use “applicable total price ÷ net quantity received × common unit quantity.” In a hypothetical single currency, A costs 6 for 500 g and B costs 8.25 for 750 g. That is 12 and 11 per kilogram respectively. If shelf labels already give unit prices, check their units and current offer terms before using them instead of calculating.
+1. **Choose a common basis.** Use the quantity the products actually provide: for example, per kilogram, litre, or item. Read net contents rather than estimating from box size. If one product is priced only by count and the other only by weight, with no reliable quantity conversion, mark them “not directly comparable.” Do not guess a conversion between millilitres and grams either. When sheet-paper sizes differ and both are fully labelled, use [Compare Sheet Goods by Area](../compare-sheet-goods-by-area/SKILL.md).
+2. **Put the units on the same scale.** A price per 100 grams becomes a price per kilogram when multiplied by 10; 750 grams is 0.75 kilograms. Do not rank a total-net-weight figure against a drained-weight figure. If you discard the liquid and both packs give drained weights, use [Compare Price by Drained Weight](../compare-price-by-drained-weight/SKILL.md); otherwise stop the numerical ranking until you have a matching basis.
+3. **Check the price you qualify for.** Use a current single-item price you can confirm. If it depends on membership, item count, or another offer condition, verify the terms and payable amount first; use the separate multi-buy procedure for a complex offer. If unavoidable charges differ, use [Compare Final Costs for the Same Basket](../compare-final-cart-costs/SKILL.md) instead of presenting shelf prices as final costs.
+4. **Calculate or verify unit prices.** Use “applicable total price ÷ net quantity received × common unit quantity.” In a hypothetical single currency, A costs 6 for 500 g and B costs 8.25 for 750 g. That is 12 and 11 per kilogram respectively. If shelf labels already give unit prices, check their units and current offer terms. If a figure looks wrong, use [Check Price Label Arithmetic](../check-price-label-arithmetic/SKILL.md) rather than trusting it.
 5. **Make a limited conclusion.** B costs 1 less per kilogram in this example, yet its checkout total is higher and it adds 250 g. Note the lower unit price, actual amount payable, and extra quantity. Treat the lower unit price as a reason to buy only if the amount, use, and storage also work for you.
 
 ### Success and stop conditions
 
-You can state each candidate's cost at the **same quantity unit and applicable price**, and whether a promotion or extra pack changed the result. If you cannot confirm the unit, net contents, offer eligibility, or mandatory amount payable, output “not comparable yet.” Choose an option with clearer information or ask for the missing fact rather than inventing a number.
+You can state each candidate's cost at the **same quantity unit and applicable price**, and whether an extra pack changed the result. If you cannot confirm the unit, net contents, price conditions, or mandatory amount payable, output “not comparable yet.” Choose an option with clearer information or ask for the missing fact rather than inventing a number.
 
 ### Common errors and recovery
 
