@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Bilingual Human Skills for checking conditional multi-buy prices at a fixed item count and mixed bundles against an identical separate-item list.
 
 ## 0.1.0 - 2026-09-03
 
