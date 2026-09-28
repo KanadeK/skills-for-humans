@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H196 Human Skill for stating one ordinary disagreement with a reason, response space and an honest next decision state.
 
 ## 0.1.0 - 2026-09-03
 
