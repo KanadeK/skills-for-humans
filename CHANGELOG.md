@@ -4,6 +4,7 @@
 
 ### Added
 
+- Five bilingual ordinary outdoor ornamental Skills for transplanting hardened seedlings, planting known bulbs, mulching clear of crowns, deadheading permitted blooms, and responding to a current frost warning.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
