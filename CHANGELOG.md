@@ -4,6 +4,8 @@
 
 ### Added
 
+- A bilingual Human Skill for deciding whether a low-risk reusable household item needs replacement, an arranged repair, or a confirmed borrowing route before adding it to a shopping list.
+- A bilingual Human Skill for confirming one ordinary item can actually be borrowed or rented before treating it as an alternative to purchase.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
