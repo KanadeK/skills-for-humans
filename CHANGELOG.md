@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for rearranging a parcel delivery or collection conflict and verifying the provider's accepted new handover.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
