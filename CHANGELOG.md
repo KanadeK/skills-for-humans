@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for screening a short maintained trail by official surface, slope, length, exit, and current status against the reader's own limits.
 
 ## 0.1.0 - 2026-09-03
 
