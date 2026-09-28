@@ -17,6 +17,14 @@ SEEDED_SLUGS = {
     "substitute-an-ingredient-by-function",
     "check-doneness-and-store-leftovers",
 }
+V010_SLUGS = SEEDED_SLUGS | {
+    "eat-alone-at-an-unfamiliar-restaurant",
+    "try-a-hobby-before-buying-the-gear",
+    "call-customer-service",
+    "return-the-wrong-item",
+    "rescue-salty-food",
+    "recover-when-you-are-running-late",
+}
 AGENT_PHRASES = (
     "ask the user",
     "the user operates",
@@ -55,14 +63,13 @@ class PublicSurfaceTests(unittest.TestCase):
             english,
         )
 
-    def test_catalog_lists_exactly_fifteen_skills_in_four_experience_groups(self) -> None:
+    def test_catalog_lists_every_skill_once_in_four_experience_groups(self) -> None:
         catalog = (ROOT / "SKILLS.md").read_text(encoding="utf-8")
         linked = re.findall(
             r"\(skills/([a-z0-9]+(?:-[a-z0-9]+)*)/SKILL\.md\)", catalog
         )
 
-        self.assertEqual(len(linked), 15)
-        self.assertEqual(len(set(linked)), 15)
+        self.assertEqual(len(linked), len(set(linked)))
         self.assertEqual(set(linked), {path.name for path in (ROOT / "skills").iterdir()})
         for heading in (
             "Chores / 家务",
@@ -80,6 +87,11 @@ class PublicSurfaceTests(unittest.TestCase):
             "文件",
         ):
             self.assertIn(label, catalog)
+
+    def test_v010_baseline_skills_remain_available(self) -> None:
+        self.assertEqual(len(V010_SLUGS), 15)
+        available = {path.name for path in (ROOT / "skills").iterdir()}
+        self.assertTrue(V010_SLUGS <= available)
 
     def test_release_and_contribution_surfaces_exist(self) -> None:
         contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")

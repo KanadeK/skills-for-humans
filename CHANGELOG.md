@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- A bilingual Human Skill for checking and confirming an upcoming automatic household-goods order before the provider processes it.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added

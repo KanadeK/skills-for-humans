@@ -2,7 +2,7 @@
 
 [中文首页](README.md) · [English README](README.en.md)
 
-v0.1.0 包含 15 个 flat、稳定路径的 Human Skills。分类服务于浏览，不改变文件地址。
+v0.1.0 发布了 15 个 flat、稳定路径的 Human Skills；本目录也列出尚未发布的新增内容。分类服务于浏览，不改变文件地址。
 
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
@@ -19,6 +19,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
+| 自动补货前复核这一单 | Review an Upcoming Auto-Delivery | 5–10 分钟 + 平台确认 / plus provider confirmation | 中等 / Moderate | 下一箱可能延后 / The next box may arrive later | [SKILL.md](skills/review-an-upcoming-auto-delivery/SKILL.md) |
 
 ## First Attempts / 第一次尝试
 
