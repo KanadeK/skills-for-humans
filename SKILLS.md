@@ -4,6 +4,8 @@
 
 v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
+The catalog also includes Unreleased Skills under review; the v0.1.0 release contained 15.
+
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
 ## Chores / 家务
@@ -41,3 +43,4 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
+| 只修一个失效的收纳位置 | Reset One Failing Storage Place | 15–25 分钟 + 后续取放试用 / plus later retrieval checks | 简单 / Easy | 一处旧地址退役 / One old address retires | [SKILL.md](skills/reset-one-failing-storage-place/SKILL.md) |
