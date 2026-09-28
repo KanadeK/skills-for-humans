@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H187 Human Skill for manually sending one calendar invitation with correct recipients, time, place and privacy, while separating sent from accepted.
 
 ## 0.1.0 - 2026-09-03
 
