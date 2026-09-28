@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for ordinary paper making: fold one sheet into a self-standing zigzag without blades or glue, and assemble an original flat collage from owned paper pieces with compatible low-risk adhesive.
 
 ## 0.1.0 - 2026-09-03
 
