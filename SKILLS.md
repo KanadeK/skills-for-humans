@@ -2,7 +2,7 @@
 
 [中文首页](README.md) · [English README](README.en.md)
 
-v0.1.0 包含 15 个 flat、稳定路径的 Human Skills。分类服务于浏览，不改变文件地址。
+v0.1.0 发布了 15 个 flat、稳定路径的 Human Skills；本目录也列出尚未发布的新增内容。分类服务于浏览，不改变文件地址。
 
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
@@ -19,6 +19,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
+| 给重复购买踩刹车 | Pause a Repeat Purchase | 5–10 分钟 + 必要时回家核对 / plus a home check if needed | 简单 / Easy | 购物车可能少一件 / The cart may lose one item | [SKILL.md](skills/pause-a-repeat-purchase/SKILL.md) |
+| 别让两个人同时补同一件 | Prevent Overlapping Household Orders | 5–10 分钟 + 回复时间 / plus response time | 简单 / Easy | 多一条明确的购买人消息 / One clear buyer message | [SKILL.md](skills/prevent-overlapping-household-orders/SKILL.md) |
 
 ## First Attempts / 第一次尝试
 
