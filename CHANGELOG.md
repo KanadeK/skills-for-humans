@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual H108 Human Skills for agreeing on shared-facility access, dividing recurring common-area care and establishing a housemate concern/change channel.
 
 ## 0.1.0 - 2026-09-03
 
