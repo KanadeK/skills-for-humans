@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H147 Human Skills for deciding whether a planned rail interchange has workable time and access, then navigating the actual station transfer to a verified live boarding area.
 
 ## 0.1.0 - 2026-09-03
 
