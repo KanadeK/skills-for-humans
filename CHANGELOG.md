@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for testing a sour or sweet correction in a small, safe finished-food sample before changing the full batch.
 
 ## 0.1.0 - 2026-09-03
 
