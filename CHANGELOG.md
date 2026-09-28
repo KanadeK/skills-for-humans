@@ -4,6 +4,7 @@
 
 ### Added
 
+- Five bilingual indoor-plant Skills for evidence-based feeding, leaf dust removal, limited pruning, species-permitted stem cuttings, and retiring a plant with material containment.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
