@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for visible-edge, one-at-a-time kitchen-knife washing, drying, and protected storage.
+- A bilingual Human Skill for cleaning and assigning a cutting board by material, raw/ready-to-eat history, wear, and dryness.
 
 ## 0.1.0 - 2026-09-03
 
