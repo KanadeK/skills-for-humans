@@ -18,6 +18,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
+| 开蒸前核对锅、蒸篮和水位 | Check an Open-Pot Steamer Setup | 5–10 分钟 / minutes | 简单 / Easy | 临时容器可能退场 / An improvised container may retire | [SKILL.md](skills/check-an-open-pot-steamer-setup/SKILL.md) |
+| 让蒸汽能到达每一份食物 | Arrange Food for Even Steaming | 每批 3–6 分钟 / per batch | 简单 / Easy | 满篮可能拆成两批 / A full basket may become two batches | [SKILL.md](skills/arrange-food-for-even-steaming/SKILL.md) |
+| 蒸制中维持蒸汽，不让锅干烧 | Maintain Steam During Cooking | 按配方计时并留意 / Recipe-timed and attended | 中等 / Moderate | 锅底水保住岗位 / Water at the bottom keeps its job | [SKILL.md](skills/maintain-steam-during-cooking/SKILL.md) |
+| 蒸锅缺水时先停热再判断 | Respond to Low Steamer Water | 先停热并等可安全检查 / Stop heat and wait for safe inspection | 中等 / Moderate | 本批可能暂停 / This batch may pause | [SKILL.md](skills/respond-to-low-steamer-water/SKILL.md) |
+| 多层蒸锅分时下料 | Stage Food in a Multi-Tier Steamer | 排程约 10 分钟，加各食物蒸制 / 10 minutes planning plus food times | 中等 / Moderate | 每层有自己的时钟 / Each tier gets its own clock | [SKILL.md](skills/stage-food-in-a-multi-tier-steamer/SKILL.md) |
+| 蒸好后避开蒸汽开盖取食 | Open and Unload a Steamer Safely | 3–8 分钟，加器具冷却 / 3–8 minutes plus cooling | 中等 / Moderate | 盖子仍需冷却 / The lid still needs cooling | [SKILL.md](skills/open-and-unload-a-steamer-safely/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
