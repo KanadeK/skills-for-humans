@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 看着实物画一张轮廓草图 | Sketch One Object from Observed Edges | 10–20 分钟 / minutes | 简单 / Easy | 一张观察记录 / An observation record | [SKILL.md](skills/sketch-one-object-from-observed-edges/SKILL.md) |
+| 给眼前物体画一张三档明暗小图 | Map Three Values on an Observed Object | 10–20 分钟 / minutes | 简单 / Easy | 一张光向小图 / A small light-direction study | [SKILL.md](skills/map-three-values-on-an-observed-object/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
