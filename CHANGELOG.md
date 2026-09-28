@@ -6,6 +6,10 @@
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
+### Changed
+
+- Clarified item-specific return methods and the distinction between requesting a return, handing an item over, seller receipt, and refund in the existing bilingual return Skill.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
