@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 - Three bilingual pre-purchase checks for induction-pan base fit, washer programme capacity, and shelf load ratings against real use.
 
 ## 0.1.0 - 2026-09-03
