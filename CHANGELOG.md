@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for tracking the owner, holder, location, and verified return state of one borrowed or lent ordinary item.
 
 ## 0.1.0 - 2026-09-03
 
