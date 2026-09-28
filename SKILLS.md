@@ -27,6 +27,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 选择渠道并确认航班值机状态 | Complete and Confirm Airline Check-In | 5–15 分钟 + 柜台等待 / plus desk wait | 中等 / Moderate | 登机牌或明确柜台待办 / Pass or pending desk action | [SKILL.md](skills/complete-and-confirm-airline-check-in/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 

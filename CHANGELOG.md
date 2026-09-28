@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H153 Human Skill for choosing a check-in channel permitted for the actual flight and verifying a boarding pass or a pending airline-desk action.
 
 ## 0.1.0 - 2026-09-03
 
