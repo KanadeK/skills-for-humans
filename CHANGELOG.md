@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H126 Human Skills for preflighting ordinary form fields and resolving one ambiguous field with its actual issuer before answering.
 
 ## 0.1.0 - 2026-09-03
 
