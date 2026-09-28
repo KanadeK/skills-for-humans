@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for naming and filing an ordinary digital file by purpose and version, then retrieving the right contents.
 
 ## 0.1.0 - 2026-09-03
 
