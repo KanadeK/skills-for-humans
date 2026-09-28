@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for checking usable stock and a real use before payment, and coordinating one buyer for a shared household item.
 
 ## 0.1.0 - 2026-09-03
 

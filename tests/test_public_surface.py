@@ -17,6 +17,14 @@ SEEDED_SLUGS = {
     "substitute-an-ingredient-by-function",
     "check-doneness-and-store-leftovers",
 }
+V010_SLUGS = SEEDED_SLUGS | {
+    "eat-alone-at-an-unfamiliar-restaurant",
+    "try-a-hobby-before-buying-the-gear",
+    "call-customer-service",
+    "return-the-wrong-item",
+    "rescue-salty-food",
+    "recover-when-you-are-running-late",
+}
 AGENT_PHRASES = (
     "ask the user",
     "the user operates",
@@ -79,6 +87,11 @@ class PublicSurfaceTests(unittest.TestCase):
             "文件",
         ):
             self.assertIn(label, catalog)
+
+    def test_v010_baseline_skills_remain_available(self) -> None:
+        self.assertEqual(len(V010_SLUGS), 15)
+        available = {path.name for path in (ROOT / "skills").iterdir()}
+        self.assertTrue(V010_SLUGS <= available)
 
     def test_release_and_contribution_surfaces_exist(self) -> None:
         contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
