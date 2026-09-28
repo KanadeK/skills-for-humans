@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H167 Human Skills for a physical service line and a separate officially numbered waiting system, with local rule and access checks.
 
 ## 0.1.0 - 2026-09-03
 
