@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H118 Human Skills for identifying the exact owned item without disassembly and matching its official user or assembly document before action.
 
 ## 0.1.0 - 2026-09-03
 
