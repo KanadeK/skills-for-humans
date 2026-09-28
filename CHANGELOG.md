@@ -6,6 +6,10 @@
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
+### Changed
+
+- Clarified that sending a late-arrival notice does not prove receipt or permission, and that a rescheduling request is not an approved new slot.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added

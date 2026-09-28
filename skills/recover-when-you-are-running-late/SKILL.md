@@ -40,11 +40,11 @@ description: "Human-readable instructions for calculating an honest ETA, reducin
 
 1. **计算诚实的预计到达时间（ETA）。** 当前时间 + 最短安全准备 + 现实交通 + 小缓冲。不要把“如果每个红灯都支持我”写进估算。
 2. **判断迟到后的活动是否仍成立。**
-   - 晚到仍有价值：通知并出发；
-   - 可先远程加入：确认链接/电话后采用；
-   - 会错过入口、票次或关键部分：立刻问能否改期/改场；
+   - 实际规则允许晚到且仍有价值：通知并出发；
+   - 可先远程加入：向实际组织者确认许可、链接/电话后采用；
+   - 会错过入口、票次或关键部分：向负责方问能否改期/改场，不把提议当已批准；
    - 到达已失去意义：取消并承担必要后果。
-3. **发送三行通知。**
+3. **发送三行通知。** 选你能做到的一项，通过对方实际可用的渠道发出；若尚无回复，记“已发送、未确认”，不要替对方同意晚到、远程或改期。
    - 对不起，我会迟到。
    - 我现在预计在 [具体时间] 到。
    - [请先开始 / 我到后直接加入 / 如果不方便我可以改期]。
@@ -57,12 +57,12 @@ description: "Human-readable instructions for calculating an honest ETA, reducin
 
 ### 成功条件
 
-对方收到准确通知；你选择了晚到、远程、改期或取消之一；必要依赖仍在；交通和身体安全没有为几分钟让路。到达后的损害可理解、可处理，不再靠不断承诺“马上”维持。
+你已向正确对象通过可用渠道发出准确通知；接收、晚到许可、远程加入和改期分别只按实际确认记录。你已选择安全可行的晚到、远程、改期请求或取消路径；必要依赖仍在，交通和身体安全没有为几分钟让路。不靠不断承诺“马上”维持未知状态。
 
 ### 常见报错与补救
 
 - **ETA 又滑动：** 只有出现实质变化时发一次新时间，并给对方选择继续等、先开始或改期。
-- **联系不上：** 留一条清楚消息，按活动规则决定是否出发；只有涉及费用、票务、工作或规则责任时才需要保存发送记录。不要在多个渠道连续轰炸。
+- **联系不上：** 留一条清楚消息并标“已发送、未确认”，按活动规则决定是否出发；涉及费用、票务、工作或规则责任时保留发送记录。不要在多个渠道连续轰炸，也不要把沉默当作晚到获准。
 - **错过车或入口：** 重新计算是否仍值得到达；立即查下一班、改签或取消，而不是假装原计划仍运行。
 - **找不到关键物品：** 给搜索设一个短而明确、符合你行动/视觉/注意力需求的上限；按固定区域搜索，使用声音/定位工具（已有且安全时），或请现场的人协助。仍找不到且活动离不开它时，通知改期；不要把整屋翻乱后继续迟到。
 - **焦虑让你站着不动：** 只做下一步：穿鞋、拿钥匙、发三行消息、出门。动作顺序比完整情绪解释更有用。
@@ -101,11 +101,11 @@ Do not message while driving, cycling, or crossing a road. Notify before departu
 
 1. **Calculate an honest estimated time of arrival (ETA).** Current time + minimum safe preparation + real travel + a small buffer. Do not include “if every traffic light supports me” in the estimate.
 2. **Decide whether late attendance still works.**
-   - Late arrival still has value: notify and leave.
-   - Remote joining works: confirm the link or call.
-   - You will miss entry, transport, or the essential part: ask immediately about a later slot.
+   - The actual rule permits late arrival and it still has value: notify and leave.
+   - Remote joining may work: confirm permission and the link or call with the organizer.
+   - You will miss entry, transport, or the essential part: ask the responsible service about a later slot without treating the request as approved.
    - Arrival would be pointless: cancel and accept the necessary consequence.
-3. **Send three lines.**
+3. **Send three lines.** Choose one you can actually do and use a channel the person can receive. Without a reply, mark “sent, unconfirmed”; do not consent to late entry, remote attendance, or a new date for them.
    - Sorry, I am running late.
    - My current ETA is [specific time].
    - [Please start / I will join directly / I can reschedule if that no longer works].
@@ -118,12 +118,12 @@ Do not message while driving, cycling, or crossing a road. Notify before departu
 
 ### Success
 
-The other party received accurate notice; you chose late, remote, reschedule, or cancel; essential dependencies remained; and travel/body safety did not yield to a few minutes. The remaining impact is understandable and manageable rather than supported by repeated “soon.”
+You sent accurate notice to the right person through a usable channel; receipt, permission for late or remote attendance, and rescheduling are recorded only when actually confirmed. You chose a safe, workable late arrival, remote option, rescheduling request, or cancellation path; essential dependencies remained, and travel/body safety did not yield to a few minutes. Repeated “soon” is not used to conceal an unknown state.
 
 ### Common errors and recovery
 
 - **ETA slips again:** Send one new time only after a material change and let the other person wait, start, or reschedule.
-- **You cannot reach them:** Leave one clear message and follow the event rule. Retain the sent record only when fees, tickets, work, or formal responsibility make it useful. Do not flood every channel.
+- **You cannot reach them:** Leave one clear message marked “sent, unconfirmed” and follow the event rule. Retain the sent record when fees, tickets, work, or formal responsibility make it useful. Do not flood every channel or treat silence as permission for late entry.
 - **You miss transit or entry:** Recalculate whether arrival still has value. Check the next service, rebooking, or cancellation immediately.
 - **A critical item is missing:** Set a short explicit search limit that fits your mobility, vision, and attention needs. Search fixed zones, use an existing safe sound/location aid, or ask someone present to help. If it remains missing and has no substitute, notify and reschedule instead of dismantling the room and remaining late.
 - **Anxiety freezes execution:** Do only the next action: shoes, keys, three-line message, door. Sequence helps more than a complete emotional explanation.
