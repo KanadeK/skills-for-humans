@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H199 Human Skill for closing one ordinary conversation with real handoffs and a clear exit without demanding a final reply.
 
 ## 0.1.0 - 2026-09-03
 
