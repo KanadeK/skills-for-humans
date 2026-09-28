@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Two bilingual H002 Human Skills for choosing a package quantity from expected use and confirming exact shares before a group multipack purchase.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
