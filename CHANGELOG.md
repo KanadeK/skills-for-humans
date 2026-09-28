@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H161 Human Skill for checking the right building, permitted visitor door, current opening and accessible approach rather than treating a map pin as an entrance.
 
 ## 0.1.0 - 2026-09-03
 
