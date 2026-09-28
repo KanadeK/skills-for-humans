@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for finding a real shared time for a small voluntary group and closing the search honestly when no overlap exists.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03

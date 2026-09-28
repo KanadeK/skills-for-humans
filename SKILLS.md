@@ -33,6 +33,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 / prep plus call | 中等 / Moderate | 工单号和循环音乐 / A case number and hold music | [SKILL.md](skills/call-customer-service/SKILL.md) |
+| 为小群体找一个真正能成行的时间 | Find a Workable Time for a Small Group | 10–20 分钟组织 + 回复 / organizing plus replies | 中等 / Moderate | 可能发现没有共同空档 / There may be no shared slot | [SKILL.md](skills/find-a-workable-time-for-a-small-group/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回 / prep plus return | 中等 / Moderate | 一张凭证，少一个错误物品 / Evidence and one fewer wrong object | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
 
 ## Recovery / 失败与恢复
