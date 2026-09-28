@@ -18,6 +18,9 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
+| 不加热成餐前逐项确认可直接食用 | Confirm Ready-to-Eat Food for a No-Heat Meal | 每项 1–3 分钟 / per item | 中等 / Moderate | 可疑材料离开名单 / Uncertain items leave the list | [SKILL.md](skills/confirm-ready-to-eat-food-for-a-no-heat-meal/SKILL.md) |
+| 用已确认即食的材料组成一餐 | Assemble a No-Heat Meal From Ready Food | 10–15 分钟 / minutes | 简单 / Easy | 不需启动发热部件 / No heating hardware required | [SKILL.md](skills/assemble-a-no-heat-meal-from-ready-food/SKILL.md) |
+| 没有冷藏条件时用常温即食物当场成餐 | Assemble a Shelf-Stable No-Heat Meal | 10–15 分钟 / minutes | 中等 / Moderate | 只开本餐能吃的量 / Open only this meal's amount | [SKILL.md](skills/assemble-a-shelf-stable-no-heat-meal/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
