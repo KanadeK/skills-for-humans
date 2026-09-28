@@ -28,7 +28,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按明确限制核对商品 | Check a Product Against a Restriction | 每件 3–8 分钟 / per item | 简单 / Easy | 不明商品可能留在货架 / An unclear item may stay on the shelf | [SKILL.md](skills/check-a-product-against-a-restriction/SKILL.md) |
 | 付款前读懂食品日期 | Read a Food Date Before Buying | 每件 2–5 分钟 / per item | 中等 / Moderate | 特价可能失去时间优势 / A discount may lose its timing advantage | [SKILL.md](skills/read-a-food-date-before-buying/SKILL.md) |
 | 用召回公告核对商品 | Match a Product to a Recall Notice | 5–10 分钟 / minutes | 中等 / Moderate | 可能放弃一件看似正常的商品 / An ordinary-looking item may stay behind | [SKILL.md](skills/match-a-product-to-a-recall-notice/SKILL.md) |
-| 查清商品的环保宣称 | Check an Environmental Product Claim | 5–10 分钟，必要时回家查 / or check later | 中等 / Moderate | “绿色”贴纸可能失去投票权 / A green sticker may lose its vote | [SKILL.md](skills/check-an-environmental-product-claim/SKILL.md) |
+| 付款前核对回收去向 | Check a Disposal Route Before Buying | 5–10 分钟，必要时稍后查 / or check later | 中等 / Moderate | 绿色标记可能失去加分 / A green mark may lose its bonus | [SKILL.md](skills/check-a-disposal-route-before-buying/SKILL.md) |
 | 买衣服前核对洗护负担 | Check Garment Care Before Buying | 每件 3–7 分钟 / per garment | 简单 / Easy | 衣服可能留在衣架 / A garment may stay on its hanger | [SKILL.md](skills/check-garment-care-before-buying/SKILL.md) |
 
 ## First Attempts / 第一次尝试
