@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H155 Human Skill for staging ordinary carry-on items under the actual security lane's current directions and checking belongings afterward.
 
 ## 0.1.0 - 2026-09-03
 
