@@ -21,6 +21,13 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
+## Before Purchase / 付款前判断
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 买二手商品前核对实际状态 | Check a Secondhand Item's Condition | 每件 8–15 分钟 / per item | 中等 / Moderate | “几乎全新”需要细节 / “Like new” needs detail | [SKILL.md](skills/check-a-secondhand-item-condition/SKILL.md) |
+| 付款前确认食品是否必须烹调 | Check If Packaged Food Needs Cooking | 每件 3–7 分钟 / per item | 中等 / Moderate | 外观失去表决权 / Appearance loses its vote | [SKILL.md](skills/check-if-packaged-food-needs-cooking/SKILL.md) |
+
 ## First Attempts / 第一次尝试
 
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
