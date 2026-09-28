@@ -4,6 +4,8 @@
 
 v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
+The catalog also includes Unreleased Skills under review; the v0.1.0 release contained 15.
+
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
 ## Chores / 家务
@@ -13,6 +15,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 去菜市场前做计划 | Plan a Market Trip | 15–25 分钟 / minutes | 简单 / Easy | 一张减少冲动购买的清单 / A list that reduces impulse purchases | [SKILL.md](skills/plan-a-market-trip/SKILL.md) |
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
+| 把展示样品对到实际售卖品 | Match a Display Sample to the Sale Item | 5–10 分钟 / minutes | 简单 / Easy | “看起来一样”要补上型号 / A model number joins “looks alike” | [SKILL.md](skills/match-a-display-sample-to-the-sale-item/SKILL.md) |
+| 开箱商品要看这一件 | Inspect an Open-Box Item Before Buying | 10–15 分钟 / minutes | 中等 / Moderate | 成色变成单件记录 / Condition becomes an item-level record | [SKILL.md](skills/inspect-an-open-box-item-before-buying/SKILL.md) |
+| 买前找到自己能用的商品说明 | Get Usable Product Instructions Before Buying | 5–15 分钟 / minutes | 简单 / Easy | 说明能真正打开 / Instructions actually open | [SKILL.md](skills/get-usable-product-instructions-before-buying/SKILL.md) |
+| 买前问清商品后续维修资料 | Check Repair Support Before Buying | 10–20 分钟 / minutes | 中等 / Moderate | 多一条可查的支持路径 / A checkable support route | [SKILL.md](skills/check-repair-support-before-buying/SKILL.md) |
+| 买智能商品前查更新支持期 | Check Smart-Device Update Support Before Buying | 5–15 分钟 / minutes | 中等 / Moderate | 智能多了一个日期字段 / Smart gains a date field | [SKILL.md](skills/check-smart-device-update-support-before-buying/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
