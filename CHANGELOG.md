@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H106 Human Skill for making the first-day sleep, washing and other needed areas of a new home actually usable before full unpacking.
 
 ## 0.1.0 - 2026-09-03
 
