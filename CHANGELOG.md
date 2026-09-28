@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Four bilingual Human Skills for ordinary washable clothing stains: assess an unknown mark, pretreat a fresh drink spill, pretreat light food grease, and check a remaining mark before heat drying.
 
 ## 0.1.0 - 2026-09-03
 

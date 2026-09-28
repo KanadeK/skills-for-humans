@@ -16,6 +16,10 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
+| 未知污渍先别乱洗 | Assess an Unknown Stain on Washable Clothing | 5–10 分钟判断 / to decide | 简单 / Easy | 可能暂缓入桶 / May wait outside the load | [SKILL.md](skills/assess-an-unknown-stain-on-washable-clothing/SKILL.md) |
+| 刚洒上饮料先局部处理 | Pretreat a Fresh Drink Stain | 5–15 分钟局部处理 / spot work | 简单 / Easy | 洗后仍需复查 / Check after washing | [SKILL.md](skills/pretreat-a-fresh-drink-stain-on-washable-clothing/SKILL.md) |
+| 衣服沾了少量油脂先预处理 | Pretreat a Light Food-Grease Stain | 5–15 分钟预处理 / pretreatment | 简单 / Easy | 油印需再看一次 / Recheck the oil mark | [SKILL.md](skills/pretreat-a-light-food-grease-stain/SKILL.md) |
+| 洗完还有印，先别烘 | Check a Remaining Stain Before Drying | 5–10 分钟判断 / to decide | 简单 / Easy | 烘干排队暂停 / Dryer queue pauses | [SKILL.md](skills/check-a-remaining-stain-before-drying/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
