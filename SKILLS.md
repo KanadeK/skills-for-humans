@@ -21,6 +21,14 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
+## Before Purchase / 买前核对
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 买前核对模块家具配件是否成套 | Check Modular Furniture Parts Before Buying | 15–25 分钟 / minutes | 中等 / Moderate | 抽屉不能自带想象中的轨道 / Drawers lack imaginary rails | [SKILL.md](skills/check-modular-furniture-parts-fit/SKILL.md) |
+| 买前核对 Matter 配件与现有控制器 | Check a Matter Accessory Against Your Controller | 15–25 分钟 / minutes | 中等 / Moderate | 一个标志不能包办整套网络 / One logo cannot stand for a network | [SKILL.md](skills/check-a-matter-accessory-with-your-controller/SKILL.md) |
+| 买前核对电脑外设是否支持现有系统 | Check a Computer Peripheral Against Your System | 15–25 分钟 / minutes | 中等 / Moderate | 即插即用需指明功能 / Plug and play must name a feature | [SKILL.md](skills/check-computer-peripheral-support/SKILL.md) |
+
 ## First Attempts / 第一次尝试
 
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
