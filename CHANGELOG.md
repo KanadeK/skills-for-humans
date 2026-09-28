@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual H003 checks for a complete modular-furniture part set, a Matter accessory against an existing controller, and an ordinary computer peripheral's feature support.
 
 ## 0.1.0 - 2026-09-03
 
