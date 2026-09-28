@@ -30,7 +30,7 @@ description: "Human-readable instructions for choosing how much of one ordinary 
 ### 执行
 
 1. **写出缺口。** 用“次数 × 每次用量 − 已知可用存量”得到这段时间真正缺的量。例：两次各用 150 克，家里还有确定可用的 100 克，缺口是 200 克。存量状态不明时，先核实，别用想象抵扣。
-2. **给每个包装设可用窗口。** 食物同时看预计使用日、包装日期、储存和开封后说明；能否冷冻或分装，只按该商品标签和你已有的可靠条件判断，不能把计划中的冰箱空间当作已经存在。标有 *use-by* 的食品按其安全界限处理；*best-before* 通常关乎品质，不自动等于安全截止日。其他地区按当地标签及权威解释，不从英文词汇猜规则。普通无日期日用品则按下一次补货前的真实用量和空间判断。
+2. **给每个包装设可用窗口。** 食物同时看预计使用日、包装日期、储存和开封后说明；能否冷冻或分装，只按该商品标签和你已有的可靠条件判断，不能把计划中的冰箱空间当作已经存在。标有 *use-by* 的食品按其安全界限处理；*best-before* 通常关乎品质，不自动等于安全截止日。其他地区按当地标签及权威解释，不从英文词汇猜规则。有日期或开封后期限的日用品也按其自身说明缩短窗口；只有没有这类期限的普通日用品，才按下次补货前的真实用量和空间判断。
 3. **算能用掉的量。** 同一种适用商品把包装净量换成同一单位，逐个问：在上述窗口内，我能用掉多少？大包装剩余部分若没有可信用途，就不计为“省到的量”。独立密封小包与一开封就受限制的整包，按各自标签分别判断，不假设保质条件相同。
 4. **先排除不可执行的选项。** 装不下、拎不动、超出今天付款上限、日期赶不上，或必须靠未经确认的人接手剩余量才能成立的包装，都不进入最后比较。优惠券不会替多出来的东西安排日程。
 5. **选能覆盖缺口且余量可解释的数量。** 可以是一包、几包小份、按需散买，或今天不买。若多个选项都合适，再用同一现场的实际总支出选你能承担的方案；精细的同单位价格比较归独立任务，不能凭“大包”二字推断划算。
@@ -57,6 +57,7 @@ description: "Human-readable instructions for choosing how much of one ordinary 
 
 - [美国 EPA：Preventing Wasted Food At Home](https://www.epa.gov/recycle/preventing-wasted-food-home) — 购买量应对应预计使用量；大量购买只有在变质前用完才可能省钱。
 - [英国政府：Best before and use-by dates](https://www.gov.uk/understanding-food-labelling/best-before-and-use-by-dates) — 英国标签中 use-by 与 best-before 的不同含义，以及储存和开封说明的重要性；其他地区须查当地规则。
+- [英国政府：Consumer products: cosmetics](https://www.gov.uk/guidance/consumer-products-cosmetics) — 英国普通个人护理用品可能标明开封后可用期限；其他地区按实际商品与当地规则。
 - [美国 FTC：The case of the shrinking packaging](https://consumer.ftc.gov/consumer-alerts/2024/10/case-shrinking-packaging) — 外观相似的包装净含量可能改变，应读实际数量。
 
 ## English
@@ -72,7 +73,7 @@ For each suitable option, read its net amount or count rather than judging the b
 ### Execution
 
 1. **Calculate the gap.** Use “number of uses × amount per use − known usable stock.” For example, two uses of 150 g with 100 g already usable leave a 200 g gap. Verify uncertain stock before subtracting it.
-2. **Set a usable window for each pack.** For food, compare your planned use dates with the package date, storage directions, and after-opening instructions. Count freezing or portioning only when the product instructions and your actual facilities support it. For food marked *use-by*, respect its safety limit; *best-before* generally concerns quality and is not automatically a safety deadline. Check the local authority and label outside the UK rather than inferring rules from English words. For ordinary undated household goods, use your real demand until restock and available space.
+2. **Set a usable window for each pack.** For food, compare your planned use dates with the package date, storage directions, and after-opening instructions. Count freezing or portioning only when the product instructions and your actual facilities support it. For food marked *use-by*, respect its safety limit; *best-before* generally concerns quality and is not automatically a safety deadline. Check the local authority and label outside the UK rather than inferring rules from English words. Household products with a date or period-after-opening instruction have their own shorter window. Only for ordinary goods without such a limit should you use real demand until restock and available space.
 3. **Estimate what you can use.** Convert net quantities of the same suitable product to one unit. Ask how much of each pack you would actually use within its window. Surplus without a credible use is not a saving. Check individually sealed portions and one container opened at once against their own instructions; do not assume they keep equally well.
 4. **Remove impossible options.** A pack is out if you cannot store or carry it, it exceeds today's spending limit, its date does not fit, or it only works if an unconfirmed person takes the excess. A sale sticker cannot schedule the surplus for you.
 5. **Choose a quantity that covers the gap with an explainable remainder.** That may be one pack, several smaller packs, a loose amount, or no purchase today. If several options work, compare their observed total spending with what you can afford. Detailed like-for-like unit-price ranking belongs to a separate task; a large pack is not proof of value.
@@ -99,4 +100,5 @@ You might shop more often or waste less. Both costs are more real than the type 
 
 - [US EPA: Preventing Wasted Food At Home](https://www.epa.gov/recycle/preventing-wasted-food-home) — match food purchases to expected uses; a large-quantity deal only saves money if you use it before spoilage.
 - [UK government: Best before and use-by dates](https://www.gov.uk/understanding-food-labelling/best-before-and-use-by-dates) — UK date-label meanings and the importance of storage and after-opening instructions; check local rules elsewhere.
+- [UK government: Consumer products: cosmetics](https://www.gov.uk/guidance/consumer-products-cosmetics) — UK personal-care goods may have a period-after-opening label; use the actual product and local rules elsewhere.
 - [US FTC: The case of the shrinking packaging](https://consumer.ftc.gov/consumer-alerts/2024/10/case-shrinking-packaging) — familiar-looking packs can contain a different net amount.
