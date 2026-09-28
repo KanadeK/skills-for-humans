@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 一张纸折出能站住的小结构 | Fold a Self-Standing Paper Zigzag | 10–20 分钟 / minutes | 简单 / Easy | 纸结构不承重 / Paper form bears no load | [SKILL.md](skills/fold-a-self-standing-paper-zigzag/SKILL.md) |
+| 用自己有权使用的纸片装成小拼贴 | Assemble a Paper Collage From Owned Pieces | 20–40 分钟加干燥 / plus drying | 简单 / Easy | 占用干燥平面 / Takes drying space | [SKILL.md](skills/assemble-a-paper-collage-from-owned-pieces/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
