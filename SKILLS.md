@@ -27,6 +27,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 跨时区把约定说成同一瞬间 | Agree on One Time Across Time Zones | 5–12 分钟 + 回确认 / plus readback | 中等 / Moderate | 两边日期可能不同 / Local dates may differ | [SKILL.md](skills/agree-on-one-time-across-time-zones/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
