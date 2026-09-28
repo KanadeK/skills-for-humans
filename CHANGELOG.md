@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for trialling a recipe-specific warm-water repair of split chocolate-and-cream ganache while rechecking its intended use.
 
 ## 0.1.0 - 2026-09-03
 
