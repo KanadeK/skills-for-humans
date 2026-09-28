@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for shared laundry: use and hand off one machine under posted rules, and respond when a machine is occupied without assuming permission over another person's clothes.
 
 ## 0.1.0 - 2026-09-03
 
