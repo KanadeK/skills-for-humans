@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Three bilingual purchase-time label Skills for actual food portions, appliance energy estimates, and toy age/small-parts warnings.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added

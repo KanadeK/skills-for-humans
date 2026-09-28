@@ -2,7 +2,7 @@
 
 [中文首页](README.md) · [English README](README.en.md)
 
-v0.1.0 包含 15 个 flat、稳定路径的 Human Skills。分类服务于浏览，不改变文件地址。
+v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
@@ -19,6 +19,14 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
+
+## Before Purchase / 付款前判断
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 按实际份量读营养表 | Read Nutrition Values for Your Portion | 每件 3–8 分钟 / per item | 中等 / Moderate | 一包可能不止一份 / One pack may be several servings | [SKILL.md](skills/read-nutrition-values-for-your-portion/SKILL.md) |
+| 买家电前读能耗标签 | Read an Appliance Energy Label | 每组 5–10 分钟 / per pair | 中等 / Moderate | 标签不再预言账单 / A label no longer predicts the bill | [SKILL.md](skills/read-an-appliance-energy-label/SKILL.md) |
+| 买玩具前核对年龄与小零件警示 | Check Toy Age and Small-Parts Warnings | 每件 3–8 分钟 / per toy | 中等 / Moderate | 礼物可能改为另一件 / The gift may change | [SKILL.md](skills/check-toy-age-and-small-parts-warnings/SKILL.md) |
 
 ## First Attempts / 第一次尝试
 
