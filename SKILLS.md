@@ -12,6 +12,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 去菜市场前做计划 | Plan a Market Trip | 15–25 分钟 / minutes | 简单 / Easy | 一张减少冲动购买的清单 / A list that reduces impulse purchases | [SKILL.md](skills/plan-a-market-trip/SKILL.md) |
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
+| 核对价格牌上的单价和折扣算式 | Check Price Label Arithmetic | 每张 3–6 分钟 / per label | 中等 / Moderate | 价格牌可能变成待核对输入 / A price label may become an input to verify | [SKILL.md](skills/check-price-label-arithmetic/SKILL.md) |
 | 固定件数下比较多买优惠 | Compare Multi-Buy Offers for a Fixed Quantity | 每组 3–7 分钟 / per comparison | 中等 / Moderate | 优惠变成可核对的总数 / The offer becomes a checkable total | [SKILL.md](skills/compare-multibuy-offers/SKILL.md) |
 | 把混合套装与同清单单买比较 | Compare a Bundle With Separate Items | 每组 5–10 分钟 / per comparison | 中等 / Moderate | “套装省钱”失去自动通过权限 / Bundle savings lose automatic approval | [SKILL.md](skills/compare-a-bundle-with-separate-items/SKILL.md) |
 | 按标示用量比较每次费用 | Compare Cost per Stated Use | 每组 5–10 分钟 / per comparison | 中等 / Moderate | 大瓶可能不再看似划算 / A large bottle may no longer look economical | [SKILL.md](skills/compare-cost-per-stated-use/SKILL.md) |
