@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H110 Human Skills for keeping basic routines possible during a moving-goods delay and tracing a box not observed at handoff.
 
 ## 0.1.0 - 2026-09-03
 
