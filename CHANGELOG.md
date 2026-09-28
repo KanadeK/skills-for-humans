@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for completing an ordinary lodging check-in through the actual staffed or self-service method and tracking failed access.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
