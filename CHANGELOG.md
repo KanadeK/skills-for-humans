@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for checking an ordinary file's effective direct, link, and visible inherited sharing access in an authorized interface.
 
 ## 0.1.0 - 2026-09-03
 
