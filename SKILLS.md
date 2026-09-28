@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 给读到的一条说法留下可回查的依据 | Anchor One Reading Claim to a Source Location | 5–15 分钟 / minutes | 简单 / Easy | 一条短注可回查原文 / One retrievable claim note | [SKILL.md](skills/anchor-one-reading-claim-to-a-source-location/SKILL.md) |
+| 把读不懂的一段变成能回到原文的问题 | Turn a Confusing Passage into a Locatable Question | 5–15 分钟 / minutes | 简单 / Easy | 一个可回答或未解问题 / An answerable or open question | [SKILL.md](skills/turn-a-confusing-passage-into-a-locatable-question/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
