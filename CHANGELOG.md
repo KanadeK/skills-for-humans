@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for triaging a small batch of Downloads or Desktop files into keep, pending action, and individually confirmed trash candidates.
 
 ## 0.1.0 - 2026-09-03
 
