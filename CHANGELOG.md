@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for adapting a small non-load-bearing craft to available materials by testing the missing material's function before making the revised version.
 
 ## 0.1.0 - 2026-09-03
 
