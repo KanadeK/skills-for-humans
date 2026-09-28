@@ -4,6 +4,7 @@
 
 ### Added
 
+- Three bilingual H002 Human Skills for converting usable food yield to a buying amount, counting the needed types in a mixed pack, and checking a variable-weight purchase before payment.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
