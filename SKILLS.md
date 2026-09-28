@@ -40,4 +40,6 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
+| 做好了却不够分 | Serve a Meal When Portions Run Short | 5–15 分钟决定 / to decide | 简单 / Easy | 份量变透明 / Portion size becomes visible | [SKILL.md](skills/serve-a-meal-when-portions-run-short/SKILL.md) |
+| 成品菜不能上桌时改这一餐 | Replan Service When a Finished Dish Is Unavailable | 5–15 分钟决定 / to decide | 简单 / Easy | 菜单会如实少一道 / The menu honestly loses a dish | [SKILL.md](skills/replan-service-when-a-finished-dish-is-unavailable/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |

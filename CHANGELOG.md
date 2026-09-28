@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for a finished meal that cannot be served as planned: one handles too few portions, and one handles a missing dish whose role and safe replacement must be decided at the table.
 
 ## 0.1.0 - 2026-09-03
 
