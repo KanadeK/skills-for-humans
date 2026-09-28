@@ -4,6 +4,7 @@
 
 ### Added
 
+- Five bilingual purchase-time label Skills for actual food portions, appliance energy estimates, toy age/small-parts warnings, household-cleaner precautions, and cosmetic opening periods.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
