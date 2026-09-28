@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for observing one ordinary object: a contour sketch checked against real edges, and a separate three-value light/dark study.
 
 ## 0.1.0 - 2026-09-03
 
