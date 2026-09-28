@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H173 Human Skills for temporary wet-item isolation and ordinary fragile-item impact protection inside short-trip luggage.
 
 ## 0.1.0 - 2026-09-03
 
