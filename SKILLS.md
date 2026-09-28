@@ -33,6 +33,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 / prep plus call | 中等 / Moderate | 工单号和循环音乐 / A case number and hold music | [SKILL.md](skills/call-customer-service/SKILL.md) |
+| 为这一次任务减少可避免的干扰 | Reduce Avoidable Interruptions for One Task | 5–10 分钟准备 + 任务段 / setup plus work interval | 简单 / Easy | 部分普通通知晚些看到 / Ordinary notices may wait | [SKILL.md](skills/reduce-avoidable-interruptions-for-one-task/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回 / prep plus return | 中等 / Moderate | 一张凭证，少一个错误物品 / Evidence and one fewer wrong object | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
 
 ## Recovery / 失败与恢复
