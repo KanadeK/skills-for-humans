@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Four bilingual pre-purchase checks for bulky-item fit, storage-box usable capacity, exact-model replacement consumables, and clothing size charts.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
