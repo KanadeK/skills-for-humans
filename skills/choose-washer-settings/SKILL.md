@@ -34,7 +34,7 @@ description: "Human-readable instructions for choosing cycle, temperature, spin,
 3. **选择温度。** 不超过最严格标签上限；在能处理普通脏污的前提下选择较低兼容温度。卫生或重污需求若要求特殊温度，必须同时符合衣物、产品和当地指导。
 4. **选择脱水。** 精细、易皱、易变形衣物使用标签和机器允许的较低转速；结实衣物可用合适转速减少含水量。不可脱水的衣物不要因“只转一分钟”获得例外。
 5. **控制装载。** 服从机器程序的重量/体积说明。被褥、毛巾等高吸水或大件可能需要更小负载或专用程序。能关上门不等于负载已通过验证。
-6. **按洗涤剂标签计量。** 综合机器类型、桶量、脏污和当地水质说明。不要“多一点更干净”；过量可能留下泡沫和残留。
+6. **按洗涤剂标签计量。** 综合机器类型、桶量、脏污和当地水质说明，确认本机要求的洗涤剂种类与投放位置。若机器有自动投放，先按准确机型说明核对储槽里实际产品的类型、浓度、设定剂量，以及本次程序是否启用自动投放；不要在已自动投放时又手动加入一份。若这些信息不明，暂停投放，查产品和机器说明。不要“多一点更干净”；过量可能留下泡沫和残留。
 7. **只为真实需要开附加项。** 预洗、浸泡、加强、额外漂洗等必须被衣物标签、产品和说明书允许。不要把所有按钮点亮来获得完整体验。
 8. **化学品只走获准入口。** 漂白剂或洗衣助剂只有在衣物、产品和机器说明都允许时才使用，并放入说明书指定位置；绝不与氨、酸或其他清洁剂混合。
 9. **先决定洗后去向。** 哪些平铺、悬挂、阴干或可烘干，在按 Start 前确定，避免湿衣服在桶内进入长期支持周期。
@@ -47,6 +47,7 @@ description: "Human-readable instructions for choosing cycle, temperature, spin,
 ### 常见报错与补救
 
 - **泡沫或洗涤剂残留：** 按说明书确认是否允许额外漂洗；下次减少剂量，并检查是否用了适合该机器的产品。
+- **自动投放储槽换了新产品：** 在下次启动前核对新产品浓度与机器设定；不要沿用旧设定或再手动补一份来“保险”。
 - **洗后仍有污渍或气味：** 先识别原因和标签允许的处理，再决定局部处理或重洗；不要立刻叠加洗涤剂。
 - **衣物严重缠绕或桶失衡：** 按说明书安全暂停，重新均匀分布或减少负载；不要在机器仍运动或锁定时伸手。
 - **选错程序但尚未开始：** 取消并重新设置。面板没有情绪，不需要为了礼貌让它跑完。
@@ -62,6 +63,8 @@ description: "Human-readable instructions for choosing cycle, temperature, spin,
 
 - [Samsung：洗衣程序与设置说明](https://www.samsung.com/us/support/answer/ANS10001016/) — 支持程序定义必须结合具体机型、负载和面料。
 - [香港消费者委员会：洗衣机使用建议](https://www.consumer.org.hk/tc/shopping-guide/tips/2022-tips-washing-machine) — 支持按衣物、装载和洗涤剂说明选择设置。
+- [Samsung：自动投放设置示例](https://www.samsung.com/us/support/answer/ANS10000980/) — 部分机型可设洗涤剂类型、浓度和用量；具体菜单只以本机说明为准。
+- [LG：自动与手动投放](https://www.lg.com/us/support/help-library/lg-washing-machine-how-to-use-the-automatic-dispenser-CT10000012-20154848235227) — 自动和手动投放有不同入口，部分设定会按程序保留。
 - [美国 CDC：使用漂白剂清洁和消毒](https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html) — 支持不要把漂白剂与其他清洁剂混合。
 
 ## English
@@ -81,7 +84,7 @@ If displays, tones, reach, grip, or bending are inaccessible, use an accessible 
 3. **Choose temperature.** Stay at or below the strictest label ceiling and use the lowest compatible temperature that meets ordinary soil needs. A special hygiene or heavy-soil need must also agree with garment, product, and local guidance.
 4. **Choose spin.** Use a lower permitted speed for delicate, wrinkle-prone, or distortion-prone items; use a suitable higher speed for sturdy items when helpful. “Only one minute” does not override a no-spin label.
 5. **Control the load.** Follow the program's weight and volume limits. Bedding, towels, and other bulky or absorbent items may need a smaller load or dedicated program. A door that closes is not a capacity certificate.
-6. **Measure detergent from its label.** Account for washer type, load, soil, and local water guidance. Extra detergent does not compile into extra cleanliness.
+6. **Measure detergent from its label.** Account for washer type, load, soil, and local water guidance, then confirm the detergent type and dispenser location required by your machine. If it has automatic dispensing, use its exact manual to check the product actually in the reservoir, its concentration and dose settings, and whether dispensing is enabled for this cycle. Do not add a manual dose on top of an automatic one. If any of these inputs is unknown, pause dispensing and check both product and machine instructions. Extra detergent does not compile into extra cleanliness.
 7. **Enable options for an observed need.** Prewash, soak, intensive, or extra rinse must be permitted by the garment, product, and manual. Lighting every button is not a required acceptance test.
 8. **Keep chemicals in approved paths.** Use bleach or laundry additives only when garment, product, and machine instructions all allow them, and only in the documented dispenser. Never mix bleach with ammonia, acids, or other cleaners.
 9. **Choose the drying handoff first.** Decide what will lie flat, hang, dry in shade, or tumble only when permitted before pressing Start.
@@ -94,6 +97,7 @@ You can explain the basis for program, temperature, spin, load, detergent, optio
 ### Common errors and recovery
 
 - **Foam or detergent remains:** Use a manual-permitted extra rinse when appropriate. Reduce the next dose and confirm the product suits the washer.
+- **A new product replaced the one in the auto-dispenser:** Check its concentration against the machine setting before the next cycle. Do not keep the old setting or add a manual dose as insurance.
 - **Stain or odour remains:** Identify the cause and label-safe treatment before spot treatment or rewashing. Do not immediately stack more detergent.
 - **The load tangles or becomes unbalanced:** Pause safely according to the manual, redistribute, or remove items. Never reach into moving or locked equipment.
 - **You selected the wrong program before starting:** Cancel and reset it. The panel has no feelings and does not need to finish out of politeness.
@@ -109,6 +113,8 @@ Known side effects include waiting for a full cycle and receiving wet clothing t
 
 - [Samsung: Cycles, Settings, and Features on Your Washer](https://www.samsung.com/us/support/answer/ANS10001016/) — program meaning depends on the exact model, load, and fabric.
 - [Hong Kong Consumer Council: Washing-machine guidance](https://www.consumer.org.hk/tc/shopping-guide/tips/2022-tips-washing-machine) — matching settings, load, and detergent directions.
+- [Samsung: Auto-dispenser settings example](https://www.samsung.com/us/support/answer/ANS10000980/) — some models set detergent type, concentration, and dose; follow the manual for the machine in front of you.
+- [LG: Automatic and manual dispensing](https://www.lg.com/us/support/help-library/lg-washing-machine-how-to-use-the-automatic-dispenser-CT10000012-20154848235227) — the two routes use different compartments, and some settings persist by cycle.
 - [US CDC: Cleaning and Disinfecting with Bleach](https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html) — the boundary against mixing bleach with other cleaners.
 
 If AI opens this file, it may help you find a manual term or localize the wording. You remain the Human Runtime and operate the physical machine.

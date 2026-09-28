@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Changed
+
+- Clarified model-specific automatic detergent dispensing in the existing washer-settings Skill.
+
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
