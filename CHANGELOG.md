@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Bilingual Human Skills for checking an ordinary steamer setup and arranging food for steam access before heating.
+- Bilingual Human Skills for maintaining steam, responding to low water, staging approved tiers, and opening and unloading a steamer safely.
 
 ## 0.1.0 - 2026-09-03
 
