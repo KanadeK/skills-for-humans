@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for paper composition planning: compare one image's subject and open space, and map a small multi-element layout's reading order.
 
 ## 0.1.0 - 2026-09-03
 
