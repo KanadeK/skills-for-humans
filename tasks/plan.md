@@ -110,10 +110,10 @@ Rollback: do not rewrite a published tag or Release. Stop promotion and use a re
 
 ## Phase 6: restore Harvester identity
 
-- [ ] In D:\我的\GitHub\codex-skill-harvester, create a separate codex/ branch from clean current main.
-- [ ] Make the minimum README/documentation correction: Harvester is the backend discovery/evidence/deduplication engine; link Skills for Humans; label v0.2.0 an immutable historical technical prototype.
-- [ ] Run its documentation tests and full relevant validator.
-- [ ] Open a separate PR, wait for Ubuntu/Windows CI, review, and merge. Do not tag or release Harvester.
+- [x] In D:\我的\GitHub\codex-skill-harvester, create a separate codex/ branch from clean current main.
+- [x] Make the minimum README/documentation correction: Harvester is the backend discovery/evidence/deduplication engine; link Skills for Humans; label v0.2.0 a retained historical technical prototype.
+- [x] Run its documentation tests and full relevant validator.
+- [x] Open separate PRs #14 and #15, wait for Ubuntu/Windows CI, review, and merge. Harvester received no new tag or Release.
 
 Checkpoint: the two repositories have separate histories, responsibilities, PRs, and release policies.
 
@@ -132,3 +132,7 @@ Checkpoint: the two repositories have separate histories, responsibilities, PRs,
 ## Open questions
 
 No identity-level question blocks v0.1.0. Later language architecture, real human-runtime badges, and any helper installer require new evidence and approval.
+
+## After v0.1.0: coordinated expansion
+
+The controller owns the [30-batch expansion program](expansion-program.md). New conversations receive one batch ID each, work in isolated Git worktrees, and submit review PRs. Candidate topics are not publication quotas; the controller merges sequentially after deduplication and quality review.
