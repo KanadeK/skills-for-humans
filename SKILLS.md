@@ -27,6 +27,10 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 把一件可借馆藏确实登记到自己名下 | Check Out a Physical Library Item | 5–15 分钟加排队 / plus queue | 简单 / Easy | 一笔有到期日借阅 / A dated loan | [SKILL.md](skills/check-out-a-physical-library-item/SKILL.md) |
+| 为暂时拿不到的馆藏提交一次预约 | Place a Library Hold for Later Pickup | 5–15 分钟，等待另计 / plus wait | 简单 / Easy | 一条待处理预约 / A pending hold | [SKILL.md](skills/place-a-library-hold-for-later-pickup/SKILL.md) |
+| 给一笔现有馆藏借阅确认续借结果 | Renew an Eligible Library Loan | 5–10 分钟 / minutes | 简单 / Easy | 到期日可能改变 / Due date may change | [SKILL.md](skills/renew-an-eligible-library-loan/SKILL.md) |
+| 归还馆藏并核对它已从借阅清单消失 | Return and Verify a Library Item | 5–15 分钟交付加核销 / hand-in plus check-in | 简单 / Easy | 借阅责任待馆方核销 / Loan awaits library check-in | [SKILL.md](skills/return-and-verify-a-library-item/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
