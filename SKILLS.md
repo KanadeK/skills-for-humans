@@ -13,6 +13,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 去菜市场前做计划 | Plan a Market Trip | 15–25 分钟 / minutes | 简单 / Easy | 一张减少冲动购买的清单 / A list that reduces impulse purchases | [SKILL.md](skills/plan-a-market-trip/SKILL.md) |
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
+| 返程后按时效拆包 | Unpack a Bag After a Trip | 10–25 分钟 + 后续处理 / plus downstream tasks | 简单 / Easy | 空包不再充当临时仓库 / Bags stop being temporary storage | [SKILL.md](skills/unpack-a-bag-after-a-trip/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |

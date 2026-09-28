@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for unpacking after a trip by routing perishable, wet, and daily-use items before ordinary storage.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
