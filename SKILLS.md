@@ -18,6 +18,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
+| 按配方选烤箱模式与层位 | Match Oven Mode and Rack to a Recipe | 开烤前 5–10 分钟 + 预热 / 5–10 minutes setup plus preheat | 中等 / Moderate | 模式旋钮有依据 / The mode dial has a reason | [SKILL.md](skills/match-oven-mode-and-rack-to-a-recipe/SKILL.md) |
+| 烤盘摆放要给热风留路 | Space Bakeware for Oven Airflow | 开烤前 3–8 分钟 / 3–8 minutes before baking | 简单 / Easy | 可能分两轮烤 / Baking may take two rounds | [SKILL.md](skills/space-bakeware-for-oven-airflow/SKILL.md) |
+| 烤箱真正就绪后再开始计时 | Start and Check an Oven Bake | 按配方，加预热和检查 / Recipe-dependent plus preheat and checks | 中等 / Moderate | 计时器从食物入炉开始 / Timer starts with food | [SKILL.md](skills/start-and-check-an-oven-bake/SKILL.md) |
+| 烤箱计时结束后按成品证据停下 | Check an Oven Bake's Endpoint | 每次检查 2–6 分钟 / 2–6 minutes per check | 中等 / Moderate | 计时器成为提醒员 / Timer becomes a reminder | [SKILL.md](skills/check-an-oven-bakes-endpoint/SKILL.md) |
+| 烤箱上色不匀时先查位置 | Respond to Uneven Oven Browning | 检查调整 3–8 分钟 / 3–8 minutes to assess | 中等 / Moderate | 热点失去伪装 / Hot spots lose their disguise | [SKILL.md](skills/respond-to-uneven-oven-browning/SKILL.md) |
+| 烤箱异常冒烟时停止这次烘烤 | Stop a Smoking Oven | 立即停热，冷却另计 / Stop heat now, cooling later | 中等 / Moderate | 这盘可能取消 / The tray may be cancelled | [SKILL.md](skills/stop-a-smoking-oven/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
