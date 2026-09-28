@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for serving a finished dish that cooled before the meal, checking its time and temperature history before choosing a safe serve, thorough reheat, or stop.
 
 ## 0.1.0 - 2026-09-03
 
