@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for triaging a safely cooked rice or noodle staple that is too wet or too dry, using a small test before serving, repurposing, or stopping.
 
 ## 0.1.0 - 2026-09-03
 
