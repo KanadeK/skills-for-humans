@@ -55,7 +55,7 @@ class PublicSurfaceTests(unittest.TestCase):
             english,
         )
 
-    def test_catalog_lists_every_skill_once_in_four_experience_groups(self) -> None:
+    def test_catalog_lists_every_skill_once_in_experience_groups(self) -> None:
         catalog = (ROOT / "SKILLS.md").read_text(encoding="utf-8")
         linked = re.findall(
             r"\(skills/([a-z0-9]+(?:-[a-z0-9]+)*)/SKILL\.md\)", catalog
@@ -65,6 +65,7 @@ class PublicSurfaceTests(unittest.TestCase):
         self.assertEqual(set(linked), {path.name for path in (ROOT / "skills").iterdir()})
         for heading in (
             "Chores / 家务",
+            "Before Purchase / 付款前判断",
             "First Attempts / 第一次尝试",
             "Awkward Social Tasks / 尴尬但普通的社会任务",
             "Recovery / 失败与恢复",
