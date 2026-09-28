@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Changed
+
+- Clarified lint-shedding and lint-attracting compatibility in the existing laundry-sorting Skill.
+
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.

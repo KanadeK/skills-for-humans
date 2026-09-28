@@ -26,7 +26,7 @@ description: "Human-readable instructions for reading care labels and separating
 把衣物摊到干燥、光线足够的位置。先确认：
 
 - 每件衣物的洗涤、漂白、干燥、熨烫和专业护理符号或文字；
-- 颜色、面料、是否第一次洗、是否曾经掉色；
+- 颜色、面料、是否第一次洗、是否曾经掉色，以及会掉绒或容易粘绒的衣物；
 - 普通脏污、明显污渍或需要特殊处理的污染；
 - 你能使用的洗涤与干燥方式；
 - 贵重、结构复杂、装饰多、破损或没有可读标签的衣物。
@@ -40,6 +40,7 @@ description: "Human-readable instructions for reading care labels and separating
 3. **按不兼容条件拆分。**
    - 白色/浅色与可能掉色的新深色分开；
    - 羊毛、精细面料与结实棉织物分开；
+   - 毛巾等明显掉绒的衣物与容易粘绒的面料分开；深色衣物上残绒也更显眼；
    - 重污与普通衣物分开；
    - 温度、搅动、脱水、漂白或干燥上限不同且无法共同满足时分开；
    - 防水、超大或高吸水物品若机器说明要求专用程序或单洗，就另组。
@@ -58,6 +59,7 @@ description: "Human-readable instructions for reading care labels and separating
 - **ERR_ONE_RED_SOCK：** 新的或已知掉色的鲜艳衣物单洗、与同类深色洗，或先按标签做可靠掉色测试；不要让全桶替你收集证据。
 - **标签缺失或模糊：** 暂停，查品牌/材质信息或选择专业护理。最温和程序也不是所有未知衣物的通用恢复模式。
 - **桶太小不值得洗：** 等待同类衣物、手洗（标签允许时），或接受一次较小负载；不要为了装满而合并不兼容限制。
+- **洗完一桶出现大片绒毛：** 下次分开掉绒物与粘绒物，并按本机说明检查装载量；已沾绒的衣物先按其标签处理，不盲目加洗涤剂重洗。
 - **已经混进去才发现：** 在启动前取出；若已启动且安全可暂停，按机器说明暂停处理。不要把手伸进仍在运动或锁定的设备。
 - **误用了不兼容化学品：** 离开暴露区域、保持通风并按产品标签/当地应急建议处理；不要加入另一种化学品“中和”。
 
@@ -71,6 +73,7 @@ description: "Human-readable instructions for reading care labels and separating
 
 - [加拿大政府：服装与纺织品洗护符号指南](https://ised-isde.canada.ca/site/office-consumer-affairs/en/product-safety-recalls-and-labelling/guide-apparel-and-textile-care-symbols) — 支持洗涤、漂白、干燥、熨烫与专业护理符号的解释边界。
 - [美国 CDC：使用漂白剂清洁和消毒](https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html) — 支持不要把家用漂白剂与其他清洁剂混合的安全边界。
+- [Whirlpool：减少洗后大量绒毛](https://producthelp.whirlpool.com/Laundry/Washers/Product_Info/Washer_Tips_and_Tricks/Preventing_Excessive_Lint_on_a_Washer_Load) — 支持把掉绒与粘绒面料分开，并遵守机器负载说明。
 
 ## English
 
@@ -81,7 +84,7 @@ Load this Skill when a pile of clothes is attempting to enter one machine under 
 Spread the clothing on a dry, well-lit surface. Confirm:
 
 - washing, bleaching, drying, ironing, and professional-care symbols or text;
-- colour, fabric, first-wash status, and known dye transfer;
+- colour, fabric, first-wash status, known dye transfer, and lint-shedding or lint-attracting items;
 - ordinary soil, visible stains, or unusual contamination;
 - washing and drying methods available to you;
 - valuable, structured, embellished, damaged, or unreadable-label items.
@@ -95,6 +98,7 @@ Enlarge a label photo, use the matching official symbol guide, or ask someone to
 3. **Separate incompatible conditions.**
    - whites/lights from new or known colour bleeders;
    - wool/delicates from sturdy cottons;
+   - obvious lint shedders such as towels from lint-attracting fabrics; residual lint also shows more clearly on dark items;
    - heavily soiled from ordinary clothing;
    - incompatible temperature, agitation, spin, bleach, or drying limits;
    - waterproof, oversized, or highly absorbent items when the machine manual requires a special cycle or separate load.
@@ -113,6 +117,7 @@ Each load has an item list, the strictest controlling label, exclusions with rea
 - **ERR_ONE_RED_SOCK:** Wash a new or known bleeder separately, with compatible darks, or use a label-safe reliable colourfastness check. Do not make the entire load gather evidence.
 - **The label is absent or unclear:** Stop and check brand/material information or choose professional care. The gentlest cycle is not a universal recovery mode for unknown garments.
 - **A compatible load is very small:** Wait for similar items, hand-wash if permitted, or accept a small load. Do not merge incompatible limits to fill the drum.
+- **A finished load has widespread lint:** Separate shedders from lint-attracting fabrics next time and check the load size against your washer manual. Treat affected garments according to their labels rather than adding detergent and blindly rewashing.
 - **You notice an item after loading:** Remove it before starting. If the cycle has started and the manual permits safe pausing, follow the machine instructions. Never reach into moving or locked equipment.
 - **Incompatible chemicals were mixed:** Leave the exposure area, ventilate, and follow product labels and local emergency guidance. Do not add another chemical to “neutralize” it.
 
@@ -126,5 +131,6 @@ Known side effects include temporary clothing clusters and discovering that one 
 
 - [Government of Canada: Guide to Apparel and Textile Care Symbols](https://ised-isde.canada.ca/site/office-consumer-affairs/en/product-safety-recalls-and-labelling/guide-apparel-and-textile-care-symbols) — washing, bleaching, drying, ironing, and professional-care symbol boundaries.
 - [US CDC: Cleaning and Disinfecting with Bleach](https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html) — the boundary against mixing household bleach with other cleaners.
+- [Whirlpool: Preventing Excessive Lint on a Washer Load](https://producthelp.whirlpool.com/Laundry/Washers/Product_Info/Washer_Tips_and_Tricks/Preventing_Excessive_Lint_on_a_Washer_Load) — separating lint shedders from collectors and respecting load size.
 
 If AI opens this file, it may help explain a visible symbol. You remain the Human Runtime and sort every physical item.
