@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 在有效公交站点找到等车位置 | Wait at an Active Bus Boarding Point | 到站后 3–8 分钟 + 候车 / on arrival plus wait | 简单 / Easy | 可能需移至正式替代站 / May move to a verified replacement stop | [SKILL.md](skills/wait-at-an-active-bus-boarding-point/SKILL.md) |
+| 核对来车并按当地规则上车 | Board and Pay on the Right Bus | 来车后 2–6 分钟 / after arrival | 中等 / Moderate | 可能放过同号不同终点的车 / May let a mismatched bus go | [SKILL.md](skills/board-and-pay-on-the-right-bus/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 

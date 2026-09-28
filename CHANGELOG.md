@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H142 Human Skills for finding an active, safe waiting position at a chosen bus stop, then checking the actual vehicle and validating the locally accepted fare while boarding.
 
 ## 0.1.0 - 2026-09-03
 
