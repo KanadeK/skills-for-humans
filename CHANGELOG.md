@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for confirming a held parcel is ready, collecting it with authorized proof, and checking its exterior at a staffed point.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
