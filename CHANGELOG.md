@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for searching a bounded physical area for one missing ordinary small item and stopping with an honest, resumable next action.
 
 ## 0.1.0 - 2026-09-03
 
