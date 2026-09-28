@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for restoring enough physical desk space for one current task without losing unfinished work or moving someone else's materials.
 
 ## 0.1.0 - 2026-09-03
 
