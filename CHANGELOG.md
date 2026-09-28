@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for verifying the real accessibility conditions and confirmed help at every node of one transit itinerary.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
