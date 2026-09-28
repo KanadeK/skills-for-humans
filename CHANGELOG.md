@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for rice cooked by measured-water absorption and dry pasta cooked in surplus water then safely drained.
 
 ## 0.1.0 - 2026-09-03
 
