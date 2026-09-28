@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for containing a small known household liquid spill, isolating slip and electrical hazards before routing each contacted surface to its own care.
 
 ## 0.1.0 - 2026-09-03
 
