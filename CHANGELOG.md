@@ -4,6 +4,7 @@
 
 ### Added
 
+- Five bilingual outdoor ornamental Skills for careful hand-weeding, herbaceous support, permitted clump division, traceable seed collection, and cutting a small vase of flowers.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
