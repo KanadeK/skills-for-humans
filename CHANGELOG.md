@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Three bilingual H005 Human Skills for asking about missing product information, checking the scope of a shelf claim, and retaining the identity of an unpackaged refill before purchase.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
