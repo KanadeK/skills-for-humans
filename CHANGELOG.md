@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for comparing today's payable price and the conditional net after actual eligible container-deposit redemption for the same beverage amount.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
