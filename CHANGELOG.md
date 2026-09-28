@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 - Three bilingual H005 Human Skills for asking about missing product information, checking the scope of a shelf claim, and retaining the identity of an unpackaged refill before purchase.
 
 ## 0.1.0 - 2026-09-03
