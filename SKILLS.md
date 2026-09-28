@@ -41,3 +41,4 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
+| 收到反馈后修订一份普通成果 | Revise Ordinary Work from Feedback | 10–20 分钟分拣 + 修订 / triage plus edits | 中等 / Moderate | 有一份新的当前稿 / One new current draft | [SKILL.md](skills/revise-ordinary-work-from-feedback/SKILL.md) |
