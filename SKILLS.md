@@ -21,6 +21,16 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
+## Before Purchase / 买前核对
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 买前核对锅具能否用于电磁炉 | Check a Pan for Induction Fit | 10–20 分钟 / minutes | 中等 / Moderate | 锅沿直径不再冒充锅底 / Rim diameter stops impersonating the base | [SKILL.md](skills/check-a-pan-for-induction-fit/SKILL.md) |
+| 买前核对洗衣机容量 | Check Washer Capacity Before Buying | 20–30 分钟 / minutes | 中等 / Moderate | 大容量宣传需要程序证据 / “Large capacity” needs programme evidence | [SKILL.md](skills/check-washer-capacity-before-buying/SKILL.md) |
+| 买前核对置物架承重 | Check a Shelf's Load Rating Before Buying | 15–25 分钟 / minutes | 中等 / Moderate | 每层负载有独立上限 / Each shelf has its own limit | [SKILL.md](skills/check-shelf-load-rating/SKILL.md) |
+| 买前核对空气净化器覆盖范围 | Match an Air Cleaner to a Room | 15–25 分钟 / minutes | 中等 / Moderate | 适用面积需说明条件 / Room coverage needs stated conditions | [SKILL.md](skills/match-an-air-cleaner-to-a-room/SKILL.md) |
+| 买前核对 USB-C 线缆能做什么 | Check USB-C Cable Capabilities Before Buying | 15–25 分钟 / minutes | 中等 / Moderate | 接头形状不再代表全部功能 / Plug shape no longer implies every feature | [SKILL.md](skills/check-usb-c-cable-capabilities/SKILL.md) |
+
 ## First Attempts / 第一次尝试
 
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
