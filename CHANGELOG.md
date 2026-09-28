@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for labelling one ordinary closed storage box so its outside tells a reader whether opening it is worth the effort.
 
 ## 0.1.0 - 2026-09-03
 
