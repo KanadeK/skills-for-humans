@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Five bilingual H003 purchase checks for room cooling, daily dehumidification, SD recording media, printer paper paths, and replacement-bulb fit and brightness.
 
 ## 0.1.0 - 2026-09-03
 
