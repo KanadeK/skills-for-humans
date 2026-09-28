@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for an early-arriving guest, with honest wait/entry options and a safe revised or cancelled visit.
 
 ## 0.1.0 - 2026-09-03
 
