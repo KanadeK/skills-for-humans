@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H182 Human Skill for turning a voluntary invitation acceptance into a mutually confirmed activity, time, place and necessary terms.
 
 ## 0.1.0 - 2026-09-03
 
