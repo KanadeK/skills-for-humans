@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for closing a short ordinary garment seam where stitches failed but both fabric edges remain sound.
+- A bilingual Human Skill for supporting a small low-stress hole in sound woven clothing with a sewn fabric patch.
 
 ## 0.1.0 - 2026-09-03
 
