@@ -9,6 +9,7 @@
 - Bilingual Human Skills for comparing labelled cost per use and the final payable total of an identical basket across sellers.
 - A bilingual Human Skill for checking displayed unit-price and percentage-off arithmetic before using a price label.
 - A bilingual Human Skill for comparing solids packed in liquid by labelled drained weight when the liquid will be discarded.
+- A bilingual Human Skill for comparing suitable sheet-paper packs by labelled total area when sheet sizes vary.
 
 ## 0.1.0 - 2026-09-03
 

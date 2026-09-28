@@ -27,7 +27,7 @@ description: "Human-readable steps for comparing ordinary goods using current pr
 
 ### 执行步骤
 
-1. **固定比较口径。** 按商品实际提供的内容选一个共同单位，例如每千克、每升或每件。读净含量，不凭盒子体积猜内容量。若一件只按件标、另一件只按重量标，且没有可靠的实际数量换算，先标为“不可直接比较”；毫升与克也不能凭直觉互换。
+1. **固定比较口径。** 按商品实际提供的内容选一个共同单位，例如每千克、每升或每件。读净含量，不凭盒子体积猜内容量。若一件只按件标、另一件只按重量标，且没有可靠的实际数量换算，先标为“不可直接比较”；毫升与克也不能凭直觉互换。片装纸品的每张尺寸不同且均有完整标示时，用[纸面面积比价](../compare-sheet-goods-by-area/SKILL.md)。
 2. **把单位写成同一个。** 例如每 100 克的价格乘 10，才是每千克的价格；750 克是 0.75 千克。两种标签若分别按总净重和沥干重计，不要直接排名；当你会倒掉包装液且两件都有沥干重时，使用[沥干重比价](../compare-price-by-drained-weight/SKILL.md)，否则先停止数值排名。
 3. **核对这次真正适用的价格。** 使用你能确认的当前单件价格。若它依赖会员、件数或其他优惠条件，先核实条件及实际应付额；复杂多买价交给上面的独立流程。税费或其他必须支付的项目如在两项之间处理不同，就用[同一购物篮最终应付额](../compare-final-cart-costs/SKILL.md)核对，别把货架数字当成最终价格。
 4. **算或核验同单位价格。** 用“这次适用的总价 ÷ 取得的净数量 × 共同单位数量”。例如同一货币下，A 是 500 克、价 6，B 是 750 克、价 8.25；换算后分别是每千克 12 和 11。若货架已给单位价，先检查它的单位与当前优惠；明显对不上时用[价格牌算式核对](../check-price-label-arithmetic/SKILL.md)，不要继续信任该数字。
@@ -65,7 +65,7 @@ Record each product's current confirmed price and its labelled net quantity and 
 
 ### Execution steps
 
-1. **Choose a common basis.** Use the quantity the products actually provide: for example, per kilogram, litre, or item. Read net contents rather than estimating from box size. If one product is priced only by count and the other only by weight, with no reliable quantity conversion, mark them “not directly comparable.” Do not guess a conversion between millilitres and grams either.
+1. **Choose a common basis.** Use the quantity the products actually provide: for example, per kilogram, litre, or item. Read net contents rather than estimating from box size. If one product is priced only by count and the other only by weight, with no reliable quantity conversion, mark them “not directly comparable.” Do not guess a conversion between millilitres and grams either. When sheet-paper sizes differ and both are fully labelled, use [Compare Sheet Goods by Area](../compare-sheet-goods-by-area/SKILL.md).
 2. **Put the units on the same scale.** A price per 100 grams becomes a price per kilogram when multiplied by 10; 750 grams is 0.75 kilograms. Do not rank a total-net-weight figure against a drained-weight figure. If you discard the liquid and both packs give drained weights, use [Compare Price by Drained Weight](../compare-price-by-drained-weight/SKILL.md); otherwise stop the numerical ranking until you have a matching basis.
 3. **Check the price you qualify for.** Use a current single-item price you can confirm. If it depends on membership, item count, or another offer condition, verify the terms and payable amount first; use the separate multi-buy procedure for a complex offer. If unavoidable charges differ, use [Compare Final Costs for the Same Basket](../compare-final-cart-costs/SKILL.md) instead of presenting shelf prices as final costs.
 4. **Calculate or verify unit prices.** Use “applicable total price ÷ net quantity received × common unit quantity.” In a hypothetical single currency, A costs 6 for 500 g and B costs 8.25 for 750 g. That is 12 and 11 per kilogram respectively. If shelf labels already give unit prices, check their units and current offer terms. If a figure looks wrong, use [Check Price Label Arithmetic](../check-price-label-arithmetic/SKILL.md) rather than trusting it.

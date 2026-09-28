@@ -14,6 +14,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 核对价格牌上的单价和折扣算式 | Check Price Label Arithmetic | 每张 3–6 分钟 / per label | 中等 / Moderate | 价格牌可能变成待核对输入 / A price label may become an input to verify | [SKILL.md](skills/check-price-label-arithmetic/SKILL.md) |
 | 倒掉浸泡液时按沥干重比价 | Compare Price by Drained Weight | 每组 3–6 分钟 / per comparison | 简单 / Easy | 液体不再冒充固体份量 / Liquid no longer impersonates solid quantity | [SKILL.md](skills/compare-price-by-drained-weight/SKILL.md) |
+| 纸品每张大小不同时按面积比价 | Compare Sheet Goods by Area | 每组 5–10 分钟 / per comparison | 中等 / Moderate | “大卷”需接受面积核对 / A big roll must face an area check | [SKILL.md](skills/compare-sheet-goods-by-area/SKILL.md) |
 | 固定件数下比较多买优惠 | Compare Multi-Buy Offers for a Fixed Quantity | 每组 3–7 分钟 / per comparison | 中等 / Moderate | 优惠变成可核对的总数 / The offer becomes a checkable total | [SKILL.md](skills/compare-multibuy-offers/SKILL.md) |
 | 把混合套装与同清单单买比较 | Compare a Bundle With Separate Items | 每组 5–10 分钟 / per comparison | 中等 / Moderate | “套装省钱”失去自动通过权限 / Bundle savings lose automatic approval | [SKILL.md](skills/compare-a-bundle-with-separate-items/SKILL.md) |
 | 按标示用量比较每次费用 | Compare Cost per Stated Use | 每组 5–10 分钟 / per comparison | 中等 / Moderate | 大瓶可能不再看似划算 / A large bottle may no longer look economical | [SKILL.md](skills/compare-cost-per-stated-use/SKILL.md) |
