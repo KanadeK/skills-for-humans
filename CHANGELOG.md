@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H111 Human Skills for matching an intact manual screwdriver to an ordinary screw head and turning that screw only to its instructed non-structural endpoint.
 
 ## 0.1.0 - 2026-09-03
 
