@@ -57,6 +57,7 @@ description: "Human-readable steps for turning a vague food or everyday-supply r
 ### 来源
 
 - [美国环保署：Preventing Wasted Food At Home](https://www.epa.gov/recycle/preventing-wasted-food-home) — 支持购物前检查冰箱、冷冻室和橱柜，并按预期使用做清单；只用于食品部分。
+- [美国环保署：Think Green Before You Shop](https://www.epa.gov/recycle/think-green-you-shop-text-only) — 支持在购买普通物品前核对是否需要、是否会用和是否已有；不据此推断具体商品规格。
 - [香港食物安全中心：减少厨余](https://www.cfs.gov.hk/english/consumer_zone/other_foodsafety/reduce_foodwaste.html) — 支持先查存量，同时不以减少浪费替代食品安全核实；食品日期规则须按当地标签和适用指引判断。
 - [RNIB：Cooking，Shopping and labelling](https://www.rnib.org.uk/living-with-sight-loss/independent-living/cooking/) — 支持可及的食品辨认和标签辅助方式。
 - 日用品的用途、权限与缺口分栏是 Original synthesis；不把上述食品来源扩展成日用品安全或价格规则。
@@ -101,6 +102,7 @@ This is a needs check for ordinary food and low-risk household supplies. Sharing
 ### Sources
 
 - [US EPA: Preventing Wasted Food At Home](https://www.epa.gov/recycle/preventing-wasted-food-home) — supports checking refrigerator, freezer, and pantry before shopping and listing food against expected use; applied to food only.
+- [US EPA: Think Green Before You Shop](https://www.epa.gov/recycle/think-green-you-shop-text-only) — supports asking whether you need and will use an ordinary item, and whether you already own it; it does not settle product specifications.
 - [Hong Kong Centre for Food Safety: Food Waste Reduction](https://www.cfs.gov.hk/english/consumer_zone/other_foodsafety/reduce_foodwaste.html) — supports checking stock without setting food safety aside; interpret date labels under applicable local guidance.
 - [RNIB: Cooking, Shopping and labelling](https://www.rnib.org.uk/living-with-sight-loss/independent-living/cooking/) — supports accessible ways to identify food and read labels.
 - The use, permission, and gap columns for household supplies are Original synthesis; the food sources are not presented as rules for household-product safety or pricing.
