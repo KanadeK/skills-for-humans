@@ -33,6 +33,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 / prep plus call | 中等 / Moderate | 工单号和循环音乐 / A case number and hold music | [SKILL.md](skills/call-customer-service/SKILL.md) |
+| 把讨论、决定和待办分别记清 | Record Decisions, Actions, and Open Points | 会议期间 + 10–20 分钟整理 / during meeting plus tidy-up | 简单 / Easy | 可能发现事情尚未决定 / Some items may still be open | [SKILL.md](skills/record-decisions-actions-and-open-points/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回 / prep plus return | 中等 / Moderate | 一张凭证，少一个错误物品 / Evidence and one fewer wrong object | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
 
 ## Recovery / 失败与恢复
