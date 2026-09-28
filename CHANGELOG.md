@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H139 Human Skill for tracking one specific ordinary provider promise against later official status and observed results.
 
 ## 0.1.0 - 2026-09-03
 
