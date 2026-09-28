@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H116 Human Skill for organising light ordinary items on a stable surface with a releasable square knot, explicitly excluding any load or safety role.
 
 ## 0.1.0 - 2026-09-03
 
