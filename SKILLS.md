@@ -4,6 +4,8 @@
 
 v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
+The catalog also includes Unreleased Skills under review; the v0.1.0 release contained 15.
+
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
 ## Chores / 家务
@@ -14,6 +16,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 一组物品先配合适的搬运容器 | Choose a Container for One Moving Group | 每组 5–10 分钟 / per group | 简单 / Easy | 大箱不自动胜出 / Big boxes do not win by default | [SKILL.md](skills/choose-a-container-for-one-moving-group/SKILL.md) |
+| 搬之前决定谁来帮手 | Decide Moving Help Before Lifting | 每件 5–10 分钟 / per load | 中等 / Moderate | “我一个人应该行”需证据 / “I can do it alone” needs evidence | [SKILL.md](skills/decide-moving-help-before-lifting/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
