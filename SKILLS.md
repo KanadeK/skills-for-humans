@@ -11,6 +11,9 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 去菜市场前做计划 | Plan a Market Trip | 15–25 分钟 / minutes | 简单 / Easy | 一张减少冲动购买的清单 / A list that reduces impulse purchases | [SKILL.md](skills/plan-a-market-trip/SKILL.md) |
+| 从可用量倒推购买量 | Convert Food Yield to a Buying Amount | 每项 5–10 分钟 / per item | 中等 / Moderate | 总重量不再冒充可用量 / Total weight stops impersonating usable yield | [SKILL.md](skills/convert-food-yield-to-buying-amount/SKILL.md) |
+| 按各类需要核对混合装 | Count Usable Items in a Mixed Pack | 每种组合 5–10 分钟 / per assortment | 中等 / Moderate | 总件数不再掩盖各类缺口 / Total count stops hiding type gaps | [SKILL.md](skills/count-usable-items-in-a-mixed-pack/SKILL.md) |
+| 给称重商品设购买范围 | Set a Weight Range for Loose Goods | 每项 3–8 分钟 / per item | 简单 / Easy | 付款前可能再称一次 / Perhaps one more weighing before payment | [SKILL.md](skills/set-a-weight-range-for-loose-goods/SKILL.md) |
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
