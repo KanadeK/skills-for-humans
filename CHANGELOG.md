@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for stating a workable dish or portion choice at an ordinary shared meal without pressuring a remake or guessing food safety.
 
 ## 0.1.0 - 2026-09-03
 
