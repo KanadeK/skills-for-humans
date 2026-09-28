@@ -14,6 +14,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 手工清除小花坛里已辨认的杂草 | Hand-Weed a Small Ornamental Bed | 15–30 分钟 / minutes | 简单 / Easy | 鞋上可能多一点土 / Possibly more soil on shoes | [SKILL.md](skills/hand-weed-a-small-ornamental-bed/SKILL.md) |
+| 支撑一株倾倒的观赏多年生草本 | Support a Leaning Ornamental Perennial | 15–30 分钟 + 复看 / plus review | 中等 / Moderate | 绑带需要以后调节 / Ties need later adjustment | [SKILL.md](skills/support-a-leaning-ornamental-perennial/SKILL.md) |
+| 分株一丛适合的小型观赏多年生草本 | Divide a Small Clumping Ornamental Perennial | 30–60 分钟 + 观察 / plus checks | 中等 / Moderate | 多个新位置待复查 / More sites to review | [SKILL.md](skills/divide-a-small-clumping-ornamental-perennial/SKILL.md) |
+| 收集并标记获准观赏植物的成熟种子 | Collect and Label Permitted Ornamental Seed | 15–30 分钟 + 干燥 / plus drying | 中等 / Moderate | 一包有来源的种子 / One traceable seed lot | [SKILL.md](skills/collect-and-label-permitted-ornamental-seed/SKILL.md) |
+| 剪取获准的花做一小瓶插花 | Cut Permitted Flowers for a Small Vase | 15–30 分钟 + 换水 / plus water checks | 简单 / Easy | 一瓶需要换水的花 / A vase requiring water | [SKILL.md](skills/cut-permitted-flowers-for-a-small-vase/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
