@@ -40,4 +40,6 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
+| 普通餐后把厨房台面复位 | Reset a Kitchen Counter After Ordinary Food | 5–15 分钟 / minutes | 简单 / Easy | 清洁布也要处理 / Cloth needs cleaning | [SKILL.md](skills/reset-a-kitchen-counter-after-ordinary-food/SKILL.md) |
+| 生食汁碰到台面后的复位 | Reset a Counter After Raw-Food Juice Contact | 10–20 分钟加产品时间 / plus product time | 中等 / Moderate | 即食备餐暂停 / Ready-food prep pauses | [SKILL.md](skills/reset-a-counter-after-raw-food-juice-contact/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
