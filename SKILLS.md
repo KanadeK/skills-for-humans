@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 从散笔记做一页能用来完成任务的简报 | Make a Task Brief from Scattered Notes | 15–30 分钟 / minutes | 简单 / Easy | 一份有来源短简报 / A sourced short brief | [SKILL.md](skills/make-a-task-brief-from-scattered-notes/SKILL.md) |
+| 把已有笔记做成少量可自测的问题卡 | Turn Notes into a Small Self-Check Sheet | 15–25 分钟 / minutes | 简单 / Easy | 几道可遮答案的问题 / A few hideable-answer prompts | [SKILL.md](skills/turn-notes-into-a-small-self-check-sheet/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
