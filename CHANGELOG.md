@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H151 Human Skill for planning airport arrival and departure-day checkpoints from the operating airline's actual cutoffs and personal travel buffers.
 
 ## 0.1.0 - 2026-09-03
 
