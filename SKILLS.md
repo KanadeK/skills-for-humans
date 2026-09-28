@@ -21,6 +21,16 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
+## Before Purchase / 买前核对
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 买前核对房间空调制冷量 | Size a Room Air Conditioner Before Buying | 15–25 分钟 / minutes | 中等 / Moderate | 越大越凉失去免审通行证 / Bigger loses its free pass | [SKILL.md](skills/size-a-room-air-conditioner/SKILL.md) |
+| 买前核对便携除湿机能力 | Size a Portable Dehumidifier Before Buying | 15–25 分钟 / minutes | 中等 / Moderate | 水箱不再冒充每日除湿能力 / Bucket size is not removal rate | [SKILL.md](skills/size-a-portable-dehumidifier/SKILL.md) |
+| 买前核对 SD 卡与设备适配 | Match an SD Card to a Device | 10–20 分钟 / minutes | 中等 / Moderate | 大容量先过主机接口 / Capacity must pass the host slot | [SKILL.md](skills/match-an-sd-card-to-a-device/SKILL.md) |
+| 买前核对纸张是否适合打印机 | Check Paper Against Printer Media Limits | 10–20 分钟 / minutes | 中等 / Moderate | 托盘能放下不是兼容证书 / Tray fit is not media support | [SKILL.md](skills/check-paper-against-printer-media-limits/SKILL.md) |
+| 买前核对灯泡亮度与灯具限制 | Check a Bulb for a Fixture and Task | 10–20 分钟 / minutes | 中等 / Moderate | 瓦数等效不再冒充输入功率 / Watt equivalence is not input power | [SKILL.md](skills/check-a-bulb-for-a-fixture-and-task/SKILL.md) |
+
 ## First Attempts / 第一次尝试
 
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
