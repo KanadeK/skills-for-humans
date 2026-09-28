@@ -4,7 +4,7 @@
 
 ### Added
 
-- Three bilingual purchase-time label Skills for actual food portions, appliance energy estimates, and toy age/small-parts warnings.
+- Four bilingual purchase-time label Skills for actual food portions, appliance energy estimates, toy age/small-parts warnings, and household-cleaner precautions.
 
 ## 0.1.0 - 2026-09-03
 

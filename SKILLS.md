@@ -27,6 +27,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按实际份量读营养表 | Read Nutrition Values for Your Portion | 每件 3–8 分钟 / per item | 中等 / Moderate | 一包可能不止一份 / One pack may be several servings | [SKILL.md](skills/read-nutrition-values-for-your-portion/SKILL.md) |
 | 买家电前读能耗标签 | Read an Appliance Energy Label | 每组 5–10 分钟 / per pair | 中等 / Moderate | 标签不再预言账单 / A label no longer predicts the bill | [SKILL.md](skills/read-an-appliance-energy-label/SKILL.md) |
 | 买玩具前核对年龄与小零件警示 | Check Toy Age and Small-Parts Warnings | 每件 3–8 分钟 / per toy | 中等 / Moderate | 礼物可能改为另一件 / The gift may change | [SKILL.md](skills/check-toy-age-and-small-parts-warnings/SKILL.md) |
+| 买清洁用品前核对警示条件 | Check a Cleaner Warning Before Buying | 每件 3–8 分钟 / per item | 中等 / Moderate | 商品可能不适合家中条件 / It may not suit the home | [SKILL.md](skills/check-a-household-cleaner-warning-before-buying/SKILL.md) |
 
 ## First Attempts / 第一次尝试
 
