@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H144 Human Skill for safely resetting after riding past a planned bus stop and choosing a verified walk, return service or pause.
 
 ## 0.1.0 - 2026-09-03
 
