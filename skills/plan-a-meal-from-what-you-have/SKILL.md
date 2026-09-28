@@ -27,6 +27,7 @@ description: "Human-readable instructions for turning available ingredients, tim
 
 - 几个人吃、何时开饭、是否希望留剩菜；
 - 已有食材、数量、开封/储存状态和应优先使用的东西；
+- 若要用冷冻食材，确认它能否按该食品说明和当地安全指导及时解冻，或是否明确允许直接从冷冻状态烹调；
 - 灶眼、锅具、烤箱、电饭锅等真实可用设备；
 - 你的烹饪熟练度，以及此刻能同时照看的任务数；
 - 普通忌口和你已经明确执行的过敏避让规则。
@@ -42,7 +43,7 @@ description: "Human-readable instructions for turning available ingredients, tim
 3. **把食材按功能分组。** 主食/淀粉、蛋白质、蔬菜、脂肪、酸、咸鲜、香味和口感。缺一项时可以省略或按功能替代，不因为名字相似就互换。
 4. **核对设备和注意力。** 一个新手只有一口锅时，不同时安排油炸、收汁和三分钟必须翻面的菜。先使用能自己稳定运行的步骤，再安排需要盯住的火候。
 5. **从开饭时间倒排。**
-   - 先处理解冻、浸泡或长时间烹饪；
+   - 只把能按适用安全方法赶上开饭时间的解冻、浸泡或长时间烹饪排进菜单；不能靠室温台面加速解冻；
    - 再完成可共用的清洗与切配；
    - 生肉、禽、海鲜的工具和区域与即食食物分开；
    - 高温、刀具、热油和最后调味放在你能持续看守的时间；
@@ -61,6 +62,7 @@ description: "Human-readable instructions for turning available ingredients, tim
 - **ERR_TOO_MANY_DISHES：** 立刻删除装饰菜和重复配菜，保留能组成一顿饭的最小集合。
 - **开始晚了：** 换更快切法、减少菜数、使用安全的现成主食，或诚实延后开饭时间；不要用更大火力补偿所有延迟。
 - **某个食材不能用：** 按它承担的功能替代，或修改菜式；不要让一个缺料阻塞整顿饭。
+- **冷冻食材来不及安全解冻：** 改用确实可用的食材、按包装允许直接从冷冻状态烹调的方案，或改菜单和开饭时间；不要把它放在室温等到“差不多”。
 - **两件高注意力任务冲突：** 一件降级为低维护做法，或顺序执行。Human Runtime 默认没有隐藏线程池。
 - **锅中冒烟、热油失控、出现明火、燃气异味或设备故障：** 停止烹饪并按当地消防/紧急指导离开危险、求助。只在安全时关闭热源；不要自行维修燃气或电器。
 
@@ -75,6 +77,7 @@ description: "Human-readable instructions for turning available ingredients, tim
 - [香港食物安全中心：减少厨余](https://www.cfs.gov.hk/tc_chi/consumer_zone/other_foodsafety/reduce_foodwaste.html) — 支持先计划、检查库存、按需要准备和安排剩菜。
 - [香港食物安全中心：烹煮食物的食物安全五要点](https://www.cfs.gov.hk/tc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html) — 支持彻底烹煮、生熟分开和食用前检查。
 - [美国消防局：烹饪防火](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) — 支持烹饪时看守和火灾停止边界。
+- [香港食物安全中心：正确解冻冷藏食品](https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_defrosting.html) — 解冻前须预留时间，不应在室温下解冻；具体方法与后续使用按食品和当地指引。
 
 ## English
 
@@ -86,6 +89,7 @@ Confirm:
 
 - how many people, serving time, and whether you want leftovers;
 - available ingredients, amounts, opened/storage state, and use-first items;
+- for any frozen ingredient, whether its own directions and local safety guidance allow timely safe thawing or explicitly permit cooking from frozen;
 - burners, pans, oven, rice cooker, and other equipment that actually works;
 - your cooking confidence and how many tasks you can safely watch at once;
 - ordinary dislikes and allergy-avoidance rules you already know.
@@ -101,7 +105,7 @@ If cutting, standing, gripping pans, seeing timers, or hearing alarms is difficu
 3. **Group ingredients by function.** Identify starch, protein, vegetables, fat, acid, salt/umami, aroma, and texture. A missing function can be omitted or replaced by function; similar names do not prove interchangeability.
 4. **Check equipment and attention.** A beginner with one pan should not schedule frying, reducing sauce, and three-minute turning at once. Start stable unattended work before high-attention heat.
 5. **Work backward from serving.**
-   - Begin thawing, soaking, and long cooking first.
+   - Include thawing, soaking, and long cooking only when an applicable safe method fits the serving time; a room-temperature counter is not a shortcut for thawing.
    - Share washing and cutting only where cross-contamination stays controlled.
    - Keep raw meat, poultry, and seafood tools away from ready-to-eat food.
    - Schedule knives, high heat, hot oil, and final seasoning when you can watch them.
@@ -120,6 +124,7 @@ You have a bounded meal, explainable portions, only genuinely missing shopping i
 - **ERR_TOO_MANY_DISHES:** Delete decorative and duplicate sides. Keep the smallest set that still forms a meal.
 - **You started late:** Use faster safe preparation, remove dishes, use a safe ready-made staple, or move serving time honestly. Do not compensate for every delay with maximum heat.
 - **One ingredient is unusable:** Replace its function or change the dish. One missing dependency should not block dinner.
+- **A frozen ingredient cannot be safely thawed in time:** Use an actually available ingredient, a product-directed cook-from-frozen route, or change the meal or serving time. Do not leave it at room temperature until it seems ready.
 - **Two high-attention tasks collide:** Downgrade one to a low-maintenance method or run them sequentially. Human Runtime has no hidden thread pool.
 - **Smoke, uncontrolled oil, flame, gas odour, or appliance failure:** Stop cooking and follow local fire/emergency guidance to leave danger and get help. Turn off heat only when safe; do not repair gas or electrical equipment.
 
@@ -134,5 +139,6 @@ Known side effects include dishes to wash, a possible lunch portion, and learnin
 - [Hong Kong Centre for Food Safety: Reduce Food Waste](https://www.cfs.gov.hk/tc_chi/consumer_zone/other_foodsafety/reduce_foodwaste.html) — planning, checking stock, preparing needed amounts, and handling leftovers.
 - [Hong Kong Centre for Food Safety: Five Keys to Food Safety in Cooking Food](https://www.cfs.gov.hk/tc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html) — thorough cooking, separation, and checks before eating.
 - [US Fire Administration: Cooking Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) — active attention and fire stop boundaries.
+- [Hong Kong Centre for Food Safety: Properly defrosting frozen food](https://www.cfs.gov.hk/english/consumer_zone/safefood_all/five_keys_defrosting.html) — plan thawing time ahead and avoid room-temperature thawing; match the method and later use to the food and local guidance.
 
 If AI opens this file, it may explain a term or localize the plan. You remain the Human Runtime and choose, cut, heat, check, and serve the food.
