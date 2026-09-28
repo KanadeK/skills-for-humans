@@ -27,7 +27,7 @@ description: "Human-readable steps for choosing a feasible way to obtain an ordi
 
 ### 执行
 
-1. **固定商品，不假装它已变轻。** 核对候选方式能提供你选定的品名、规格和数量。若允许商家换货，先写清哪些替代可接受；无法确认关键规格时，此方式仍未合格。商品本身还能换形式时，可先尝试商品替代的流程。
+1. **固定商品，不假装它已变轻。** 核对候选方式能提供你选定的品名、规格和数量。若允许商家换货，先写清哪些替代可接受；无法确认关键规格时，此方式仍未合格。若短保质期食品必须留到某天使用，还要核对该渠道的日期承诺是否满足；无法确认就别把它算作那天可用的食品。商品本身还能换形式时，可先尝试商品替代的流程。
 2. **画完最后一段路。** 店员协助拿上货架、路边取货或送到楼门口，仍可能把重物留给你。对每种方式确认商品会到达哪个可实际接收的位置、谁完成门槛与楼梯、是否需要你在现场等候。只选“交到你能接手的点”的方式；配送二字不会自动修复楼梯。
 3. **核对可得性和全部费用。** 在承诺前查看当地当前是否提供此服务、可送/取时段、最低购买额、配送或代带费用、所需身份条件，以及费用是否仍在预算内。不要为了凑最低额加入本来不需要的商品。朋友或熟人代带也要先确认对方愿意、能带的数量和交付时间；不能把尚未答应当作已安排。
 4. **遇到需冷藏品，单独过关。** 问清配送或代带过程是否能满足该商品的温度要求、何时有人接收，以及接收后是否有可靠冷藏。**没有家中冷藏时，送货不能把易腐品变成常温品。** 低温条件不能确认，就不把该方式用于这件商品；改选合格常温品或延期。
@@ -54,6 +54,7 @@ description: "Human-readable steps for choosing a feasible way to obtain an ordi
 - [英国 Tower Hamlets 政府：Food shopping](https://www.towerhamlets.gov.uk/lgnl/health__social_care/Health-and-adult-social-care/ASC/Adults_Health_and_Wellbeing/Staying_independent/Getting_out_and_about/Food_shopping.aspx) — 店内协助、送货与同行是可能方式；送货可能有最低额或费用，须核实当地服务。
 - [英国国家统计局：Disabled people's experiences with activities, goods and services](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/bulletins/disabledpeoplesexperienceswithactivitiesgoodsandservicesuk/februarytomarch2022) — 受访者报告送货停在难以接收的位置，说明交付点应在下单前核对；这是英国经验，不保证个别商家行为。
 - [FoodSafety.gov：Tips for Meal Kit and Food Delivery Safety](https://akaprod-www.foodsafety.gov/blog/tips-meal-kit-and-food-delivery-safety) — 冷藏食品送货前须核对低温处理与有人接收，送达后仍需安全储存；具体条件以商品标签和当地指导为准。
+- [香港消费者委员会：网上超市实试](https://www.consumer.org.hk/en/press-release/530-online-grocery-shopping) — 调查中有食品在送达当天到期，说明有特定使用日期时不能只核对商品名称与送达时段；实试结果不代表当前每家商户。
 
 ## English
 
@@ -65,7 +66,7 @@ Write down the exact item, amount, and latest useful arrival time. Identify the 
 
 ### Execution
 
-1. **Hold the item fixed.** Confirm each option can supply the chosen identity, specification, and amount. If the seller may substitute, state which alternatives you would accept. An option with an unconfirmed essential specification is not yet viable. If a different product form would solve the problem, consider that separate product-substitution route first.
+1. **Hold the item fixed.** Confirm each option can supply the chosen identity, specification, and amount. If the seller may substitute, state which alternatives you would accept. An option with an unconfirmed essential specification is not yet viable. If short-life food must remain usable on a particular day, also check whether the channel's date commitment meets that need; if you cannot confirm it, do not count the food as available for that day. If a different product form would solve the problem, consider that separate product-substitution route first.
 2. **Trace the final leg.** Help retrieving an item, curbside pickup, or delivery to the building entrance may still leave you carrying it. For each option, find the place where the item will be handed over, who covers steps and thresholds, and whether you must wait there. Choose only a point you can actually receive from. The word “delivery” does not carry a bag upstairs.
 3. **Check availability and full cost.** Before committing, confirm the service serves your location and this order, the delivery or pickup slot, minimum order, service or helper cost, any eligibility conditions, and your actual total. Do not add unwanted items just to reach a minimum. For a friend or other trusted helper, confirm they agree, can handle the amount, and know the time. A person who has not agreed is not a logistics plan.
 4. **Give chilled food its own check.** Ask whether the service or helper can meet the product's cold requirements, whether someone can receive it promptly, and whether you have reliable cold storage afterward. **Delivery does not turn perishables into shelf-stable food when your fridge is unavailable.** If you cannot confirm the cold conditions, reject this route for that item; choose a suitable shelf-stable product or defer it.
@@ -92,5 +93,6 @@ Services, charges, slots, and delivery floor vary by region and order. The sourc
 - [Tower Hamlets Council: Food shopping](https://www.towerhamlets.gov.uk/lgnl/health__social_care/Health-and-adult-social-care/ASC/Adults_Health_and_Wellbeing/Staying_independent/Getting_out_and_about/Food_shopping.aspx) — shop assistance, delivery, and going with someone are possible options; local minimum spend and charges need checking.
 - [UK Office for National Statistics: Disabled people's experiences with activities, goods and services](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/bulletins/disabledpeoplesexperienceswithactivitiesgoodsandservicesuk/februarytomarch2022) — interviewees reported drop-offs at inaccessible places; check the actual handoff point. This is UK evidence, not a promise about any seller.
 - [FoodSafety.gov: Tips for Meal Kit and Food Delivery Safety](https://akaprod-www.foodsafety.gov/blog/tips-meal-kit-and-food-delivery-safety) — check cold handling and attended receipt before ordering perishable food; storage is still needed after arrival, subject to the actual label and local guidance.
+- [Hong Kong Consumer Council: Online Grocery Shopping Survey](https://www.consumer.org.hk/en/press-release/530-online-grocery-shopping) — one trial received food expiring on its delivery day; if you need a later use date, item identity and delivery slot alone do not establish it. This historical survey does not describe every current seller.
 
 If AI opens this file, it may help organize the options. You confirm the conditions and choose whether to commit.
