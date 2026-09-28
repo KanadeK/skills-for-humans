@@ -4,6 +4,7 @@
 
 ### Added
 
+- Two bilingual Human Skills for resolving overlapping ordinary commitments and restoring an overlooked upcoming commitment to a personal plan.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
