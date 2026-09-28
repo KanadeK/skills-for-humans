@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual Human Skills for one household dishwasher cycle: screen item suitability, load and start the exact model, then unload and inspect each item's cleaning and drying result.
 
 ## 0.1.0 - 2026-09-03
 
