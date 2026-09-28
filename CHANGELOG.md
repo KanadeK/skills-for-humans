@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Two bilingual pre-purchase compatibility checks for induction-pan base fit and washer programme capacity against real use.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
