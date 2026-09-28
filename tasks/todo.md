@@ -147,13 +147,19 @@ Description: restore codex-skill-harvester as the backend engine and point reade
 
 Acceptance:
 
-- [ ] Only Harvester documentation changes on its own branch and PR.
-- [ ] v0.2.0 is described as immutable historical prototype, not deleted or rewritten.
-- [ ] Harvester gets no new tag or Release.
+- [x] Only Harvester documentation changed on its own branches and PRs (#14 and #15).
+- [x] v0.2.0 is described as a retained historical prototype, not deleted or rewritten.
+- [x] Harvester received no new tag or Release.
 
 Verify:
 
-- [ ] Relevant tests/validator and Ubuntu/Windows CI pass before merge.
+- [x] Relevant tests/validator and Ubuntu/Windows CI passed before merge.
 
 Files: minimal Harvester README/docs/tests needed for truthful identity.
 Dependencies: Task 12.
+
+## Task 14: coordinate the next Human Skill batches
+
+- [x] Define unique batch ownership, overlap boundaries, worktree rules, PR gates, and 30 reviewable batch briefs in [expansion-program.md](expansion-program.md).
+- [ ] Start B01, B13, and B19 in separate new conversations; collect their PR links and five-item decisions.
+- [ ] Review and merge each PR serially after current-main validation; then assign the next three batches.
