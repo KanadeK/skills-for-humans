@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for starting a book or long article with a purpose-based path, one actually read segment, and a precise next entry.
 
 ## 0.1.0 - 2026-09-03
 
