@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for clarifying missed words or unclear meaning in an ordinary conversation before acting on guessed information.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
