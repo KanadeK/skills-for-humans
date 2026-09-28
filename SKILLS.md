@@ -26,6 +26,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 新环境第一天前核对到场信息 | Confirm First-Day Arrival Details | 15–25 分钟 / minutes | 简单 / Easy | 少走一次错门 / Less wrong-door wandering | [SKILL.md](skills/confirm-first-day-arrival-details/SKILL.md) |
+| 到新环境后先找到报到人和当天起点 | Establish a First-Day Check-In Point | 10–20 分钟 / minutes | 简单 / Easy | 有真实的首日起点 / A real first-day starting point | [SKILL.md](skills/establish-a-first-day-check-in-point/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
