@@ -26,6 +26,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 买前核对锅具能否用于电磁炉 | Check a Pan for Induction Fit | 10–20 分钟 / minutes | 中等 / Moderate | 锅沿直径不再冒充锅底 / Rim diameter stops impersonating the base | [SKILL.md](skills/check-a-pan-for-induction-fit/SKILL.md) |
 | 买前核对洗衣机容量 | Check Washer Capacity Before Buying | 20–30 分钟 / minutes | 中等 / Moderate | 大容量宣传需要程序证据 / “Large capacity” needs programme evidence | [SKILL.md](skills/check-washer-capacity-before-buying/SKILL.md) |
+| 买前核对置物架承重 | Check a Shelf's Load Rating Before Buying | 15–25 分钟 / minutes | 中等 / Moderate | 每层负载有独立上限 / Each shelf has its own limit | [SKILL.md](skills/check-shelf-load-rating/SKILL.md) |
 
 ## First Attempts / 第一次尝试
 

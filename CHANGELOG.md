@@ -4,7 +4,7 @@
 
 ### Added
 
-- Two bilingual pre-purchase compatibility checks for induction-pan base fit and washer programme capacity against real use.
+- Three bilingual pre-purchase checks for induction-pan base fit, washer programme capacity, and shelf load ratings against real use.
 
 ## 0.1.0 - 2026-09-03
 
