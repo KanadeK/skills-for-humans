@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for identifying which boarding-pass, baggage, check-in, screening and terminal steps an actual flight connection requires.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
