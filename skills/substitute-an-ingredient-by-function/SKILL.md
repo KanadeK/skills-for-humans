@@ -1,6 +1,6 @@
 ---
 name: substitute-an-ingredient-by-function
-description: "Human-readable instructions for replacing one missing cooking ingredient by function, with a small test and an honest expected difference."
+description: "Human-readable instructions for choosing a function-based replacement for one missing cooking ingredient before or during cooking, with an honest expected difference."
 ---
 # 按功能替代缺少的食材 / Substitute an Ingredient by Function
 
@@ -19,13 +19,13 @@ description: "Human-readable instructions for replacing one missing cooking ingr
 
 ## 中文
 
-当菜做到一半才发现某个食材不存在，而你需要一个能工作的替代方案时，加载这份 Skill。先找它在这道菜里的功能，再看家里有什么；名字相似不等于接口兼容。
+当你开工前核对配方发现少一样食材，或菜做到一半才发现它不存在，而你需要一个能工作的替代方案时，加载这份 Skill。先找它在这道菜里的功能，再看家里有什么；名字相似不等于接口兼容。开工前还有改菜单或等材料的选择，不必为了测试替代而先把锅烧热。
 
 这份 Skill 只处理普通家庭烹饪。过敏替代、婴幼儿食品、罐藏保存、发酵控制和其他安全关键配方不做临场改写。
 
 ### 准备与输入
 
-拿到完整配方或至少当前步骤，确认：
+开工前拿到完整配方；若已在做，至少拿到当前和后续步骤。确认：
 
 - 缺少什么、原用量和加入时机；
 - 菜的类型、烹饪方法和剩余步骤；
@@ -51,19 +51,21 @@ description: "Human-readable instructions for replacing one missing cooking ingr
    - 它能接管哪些功能；
    - 哪些功能会丢失；
    - 味道、颜色、体积、质地或时间会怎么变。
+
+   开工前若没有候选能承担必要功能，先改菜式、取得原食材或停做；不要把不成立的替代留到锅热后再决定。
 4. **从保守用量开始。** 调味、液体、酸、增稠剂和辛辣通常可以分次增加；先加较少并留出观察点。不要用看似精确的比例掩盖不同品牌和菜式的差异。
 5. **做连带调整。**
    - 更湿的替代品可能需要减少其他液体或延长加热；
    - 更干的替代品可能需要补少量液体或脂肪；
    - 酸碱/膨松变化会影响体积和组织，不能只换名字；
    - 已含盐、糖或强烈风味的替代品要求相应减少原调味。
-6. **先测试最小可行部分。** 可以舀一勺酱汁、分一小份面糊或先调少量馅料时，就先验证稠度与味道。不要用生肉、生蛋或其他未到安全阶段的混合物试吃。
+6. **只在适合时测试最小可行部分。** 可以舀一勺酱汁、分一小份面糊或先调少量馅料时，就先验证稠度与味道。开工前若配方不允许有意义的小测试、关键结构又无法核实，改用经过验证的做法或改菜单；不要靠整锅实验。不要用生肉、生蛋或其他未到安全阶段的混合物试吃。
 7. **记录预期差异。** 接受“能吃且符合用途”与“完全一样”是两个成功等级。替代不是时间旅行。
 8. **再提交整锅。** 小测试合理后，分次加入剩余用量，每次观察质地、味道和反应。
 
 ### 成功条件
 
-你能说出选中的替代品、它接管的功能、起始用量、需要同步调整的液体/脂肪/酸甜咸/时间、预期差异、观察点和失败后的退路。
+开工前若选择替代，你能说出替代品、它接管的功能、起始用量、需要同步调整的液体/脂肪/酸甜咸/时间、预期差异、安全可行的小测试或无法测试的理由，以及失败后的退路；也可以明确改菜单或等材料。若已在做，则在这些信息之外确认当前步骤还能安全继续。
 
 ### 常见报错与补救
 
@@ -86,13 +88,13 @@ description: "Human-readable instructions for replacing one missing cooking ingr
 
 ## English
 
-Load this Skill when cooking has already started and one ingredient turns out not to exist. Identify what it does in this dish, then inspect what you actually have. Similar names do not prove interface compatibility.
+Load this Skill when a recipe check before cooking reveals one missing ingredient, or when the gap appears after cooking has begun. Identify its job in this dish, then inspect what you actually have. Similar names do not prove interface compatibility. Before you start, changing the meal or waiting for the original ingredient remains an option; you need not heat the pan just to test a substitute.
 
 This Skill covers ordinary home cooking only. Do not improvise allergy substitutions, infant food, tested canning/preservation recipes, fermentation controls, or other safety-critical formulas.
 
 ### Preparation and inputs
 
-Use the full recipe or at least the current step. Confirm:
+Before cooking, use the full recipe. If you have already started, use at least the current and remaining steps. Confirm:
 
 - the missing ingredient, original amount, and when it enters;
 - dish type, cooking method, and remaining steps;
@@ -115,19 +117,21 @@ If precise measuring is inaccessible, choose a forgiving route that allows small
    - colour, garnish, or texture.
 2. **Separate primary and secondary functions.** Wine in a stir-fry may mainly add aroma; an egg in baking may add moisture, structure, and emulsification at once. More functions make a one-item replacement less likely.
 3. **Compare only available candidates.** For each, state what it preserves, what disappears, and how flavour, colour, volume, texture, or timing will change.
+
+   If no candidate can perform an essential function before cooking begins, change the dish, obtain the original ingredient, or stop. Do not postpone an impossible substitution until the pan is hot.
 4. **Start conservatively.** Seasoning, liquid, acid, thickener, and heat can often be added in stages. Begin below the likely final amount and leave a checkpoint. Do not hide brand and recipe differences behind an impressive-looking exact ratio.
 5. **Make connected adjustments.**
    - A wetter replacement may require less other liquid or more cooking.
    - A drier replacement may require a little compatible liquid or fat.
    - Acid, alkaline, or leavening changes affect volume and structure, not just ingredient names.
    - A salty, sweetened, or strongly flavoured replacement requires reducing the corresponding seasoning.
-6. **Test the smallest viable portion.** Check a spoonful of sauce, a small batter portion, or a little filling when possible. Do not taste raw meat, raw egg, or any mixture that has not reached a safe stage.
+6. **Test the smallest viable portion only when it makes sense.** Check a spoonful of sauce, a small batter portion, or a little filling when possible. Before cooking, if the recipe offers no meaningful small test and a critical structure cannot be verified, choose a tested method or change the meal rather than experimenting with the whole batch. Do not taste raw meat, raw egg, or any mixture that has not reached a safe stage.
 7. **Record the expected difference.** “Works for the meal” and “identical to the original” are different success levels. Substitution is not time travel.
 8. **Commit to the full batch gradually.** After the test behaves acceptably, add the remaining amount in stages and observe texture, flavour, and reaction.
 
 ### Success
 
-You can name the chosen substitute, the function it preserves, starting amount, linked liquid/fat/acid/sweet/salt/time adjustments, expected difference, checkpoint, and recovery route.
+Before cooking, if you choose a substitute, you can name it, the function it preserves, its starting amount, linked liquid/fat/acid/sweet/salt/time adjustments, expected difference, a safe small test or why none is possible, and a recovery route. You can also explicitly change the meal or wait for the ingredient. If already cooking, confirm that the current step can still continue safely with that plan.
 
 ### Common errors and recovery
 
