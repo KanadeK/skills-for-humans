@@ -40,4 +40,6 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
+| 沙发布点清前先查面料代码 | Check Upholstery Care Before Spot Cleaning | 5–10 分钟判断 / to decide | 简单 / Easy | 家具可能暂时不能坐 / Seat may be held | [SKILL.md](skills/check-upholstery-care-before-spot-cleaning/SKILL.md) |
+| 可用水的布沙发小污点轻点清 | Spot-Clean a Water-Compatible Upholstery Mark | 10–20 分钟加干燥 / plus drying | 简单 / Easy | 座位需干透 / Seat needs drying | [SKILL.md](skills/spot-clean-a-water-compatible-upholstery-mark/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
