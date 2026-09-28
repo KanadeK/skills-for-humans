@@ -41,3 +41,4 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
+| 按用途挑选并整理一组照片 | Select and Organize Photos for a Purpose | 15–30 分钟 / minutes | 简单 / Easy | 原相库仍在，精选更好找 / Source library remains; selection is easier to find | [SKILL.md](skills/select-and-organize-photos-for-a-purpose/SKILL.md) |
