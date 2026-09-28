@@ -23,7 +23,7 @@ description: "Human-readable instructions for choosing how much of one ordinary 
 
 ### 准备与输入
 
-先确认这次购买要覆盖到什么时候（例如下次补货前），其间你**实际会用几次、每次多少**，以及手头已知可用的存量。若使用频率没有依据，就只按一次真实用途估算，不把“以后总会用到”算作需求。
+先确认这次购买要覆盖到什么时候（例如下次补货前），其间你**实际会用几次、每次多少**，以及手头已知可用的存量。买过同款时，可参考上次实际用掉的量和经过的时间；一次聚会或暂时停用的周期不能直接代表平常。没有可靠记录时，只把已确定的用途和商品说明中适用的每次用量计入估算，不把“以后总会用到”算作需求。
 
 对每个适用的候选包装，读实际净含量或件数，而非盒子的视觉大小；同时记下现场总价、日期、储存条件和开封后说明。确认你有足够的预算、放置空间和携带能力。看不清标签时，放大照片、查看商家可读的商品信息，或请店员读出具体数量与日期；仍不清楚就先不买。
 
@@ -44,7 +44,7 @@ description: "Human-readable instructions for choosing how much of one ordinary 
 - **ERR_FAMILY_SIZE：** 大包装单价看似低，但你只会用其中一部分。回到可用窗口和真实缺口，改看小包或散装；别为了证明折扣正确而临时发明需求。
 - **ERR_OLD_BOX_MEMORY：** 你记得的“这盒够三次”与现售净含量不符。重新读数字；外观相同不保证里面一样多。
 - **ERR_DATE_AFTER_OPEN：** 未开封日期够远，开封后却用不完。按开封后的说明重算，或选独立密封、可逐份使用的选项；条件不明就停止该包装的购买决定。
-- **ERR_UNKNOWN_RATE：** 第一次使用，没有可靠消耗速度。先买能完成一次用途的最小合适量，用完后再按实际速度决定下次；不要承诺大包装会成为新习惯。
+- **ERR_UNKNOWN_RATE：** 第一次使用，没有可靠消耗速度。若只确定一次用途，先买能完成它的最小合适量。若下次可补货前已有多次确定用途，可按适用的商品说明估算每次用量并标明“估计”；说明也不清楚时先核实或选用量明确的商品，不能声称已覆盖整个周期。
 - **ERR_NO_ACCESS：** 标签太小、价格缺失或需要帮助拿取。用可访问的信息或请店员确认；关键数字仍拿不到，就不以猜测结账。
 
 ### 假设、替代与现实副作用
@@ -65,7 +65,7 @@ Load this Skill when you have chosen an ordinary food or household consumable bu
 
 ### Preparation and inputs
 
-Set the period this purchase must cover, such as until your next realistic restock. Estimate **how many real uses and how much per use** fall within it, then note any stock you know is usable. If you have no evidence for a use rate, plan only one actual use; “I will probably need it someday” is not a quantity.
+Set the period this purchase must cover, such as until your next realistic restock. Estimate **how many real uses and how much per use** fall within it, then note any stock you know is usable. If you bought the same item before, use the amount actually consumed over that period as evidence; a party or a pause in use does not automatically represent an ordinary week. Without a reliable record, count only confirmed uses and any applicable per-use amount on the product instructions. “I will probably need it someday” is not a quantity.
 
 For each suitable option, read its net amount or count rather than judging the box by sight. Note today's total price, date marking, storage conditions, and any after-opening instructions. Confirm that you can pay for, carry, and place the pack. If print is hard to read, enlarge a clear photo, use accessible seller information, or ask staff for the exact amount and date. If a key fact stays unknown, pause the purchase.
 
@@ -86,7 +86,7 @@ Before checkout, you can state **how many packs, the actual amount in each, whic
 - **ERR_FAMILY_SIZE:** A large pack looks cheaper per unit, but you would use only part of it. Return to the gap and usable window; choose a smaller or loose amount instead of inventing extra demand.
 - **ERR_OLD_BOX_MEMORY:** The familiar-looking pack no longer holds what you remember. Read its current net contents and recalculate.
 - **ERR_DATE_AFTER_OPEN:** The unopened date is distant but you cannot finish the pack after opening. Recalculate from its opening instructions or choose separately sealed portions. Stop on that pack if the conditions remain unclear.
-- **ERR_UNKNOWN_RATE:** It is your first use, so buy the smallest suitable amount for one real attempt. Use that experience to set the next purchase quantity.
+- **ERR_UNKNOWN_RATE:** It is your first use, so if you have only one confirmed use, buy the smallest suitable amount for that attempt. If several uses are already certain before you can restock, estimate each from applicable product instructions and mark the result as an estimate. If instructions are also unclear, verify them or choose a product with a stated use amount; do not claim the whole period is covered.
 - **ERR_NO_ACCESS:** Small print, missing price, or an unreachable shelf blocks a key input. Use accessible information or ask staff; if the number is still unknown, do not guess at checkout.
 
 ### Assumptions, alternatives, and side effects
