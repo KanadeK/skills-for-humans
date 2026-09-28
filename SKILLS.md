@@ -40,4 +40,5 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
+| 用小样试调过酸或过甜的成品 | Trial a Sour-Sweet Adjustment | 5–15 分钟 / minutes | 简单 / Easy | 可能增加份量或改变质地 / May add volume or change texture | [SKILL.md](skills/trial-a-sour-sweet-adjustment/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
