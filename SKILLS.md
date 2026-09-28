@@ -14,6 +14,9 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 把一张带不回的采购清单拆成几趟 | Split an Overloaded Shopping List into Trips | 出门前 10–20 分钟 / 10–20 minutes before leaving | 中等 / Moderate | 清单变成几张能回家的小清单 / One list becomes several lists that can get home | [SKILL.md](skills/split-an-overloaded-shopping-list/SKILL.md) |
+| 付款前检查这一篮能否带回家 | Check a Shopping Load Before Paying | 付款前 5–10 分钟 / 5–10 minutes before paying | 简单 / Easy | 可能把一件“顺手拿的”放回货架 / A casual extra may return to the shelf | [SKILL.md](skills/check-a-shopping-load-before-paying/SKILL.md) |
+| 选一家买完还能回家的店 | Choose a Shop with a Workable Return | 出门前 5–15 分钟 / 5–15 minutes before leaving | 简单 / Easy | 最近的店未必入选 / The nearest shop may not win | [SKILL.md](skills/choose-a-shop-with-a-workable-return/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
