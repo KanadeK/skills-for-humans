@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H122 Human Skill for preparing one ordinary appointment's materials against the institution's current exact-service checklist.
 
 ## 0.1.0 - 2026-09-03
 
