@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for finishing a tea infusion and brewing a cup of manual filter coffee with product-specific directions and accessible hot-water handling.
 
 ## 0.1.0 - 2026-09-03
 
