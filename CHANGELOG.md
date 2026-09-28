@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H159 Human Skill for reconciling a changed flight's official itinerary and notifying affected people with confirmed versus estimated facts.
 
 ## 0.1.0 - 2026-09-03
 
