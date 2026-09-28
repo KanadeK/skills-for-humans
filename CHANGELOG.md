@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for wet washed clothing left in a closed washer or basket: reconstruct the delay, choose prompt drying, compatible rewashing, or a stop, and check washer issues separately.
 
 ## 0.1.0 - 2026-09-03
 
