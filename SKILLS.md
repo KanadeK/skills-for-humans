@@ -14,6 +14,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 文件出门到预约处两头都要点数 | Carry a Paper Packet to the Right Appointment | 出发/抵达各 3–5 分钟 + 路程 / each end plus travel | 简单 / Easy | 抵达也要核实份数 / Count again on arrival | [SKILL.md](skills/carry-a-paper-packet-to-the-right-appointment/SKILL.md) |
+| 纸本文件到场后交给真正接收的人 | Hand Over Paper Documents to the Intended Recipient | 5–15 分钟 + 排队 / plus queue | 简单 / Easy | 交接有实际收退状态 / Transfer gets observed states | [SKILL.md](skills/hand-over-paper-documents-to-the-intended-recipient/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
