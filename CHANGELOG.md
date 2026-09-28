@@ -4,6 +4,7 @@
 
 ### Added
 
+- Two bilingual Human Skills for reporting a checked bag missing at arrival or a received checked bag with damage or missing ordinary contents.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
