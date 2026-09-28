@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Bilingual Human Skills for matching a reliable bake to an actual oven mode, rack, and pan arrangement.
+- Bilingual Human Skills for oven timing and checkpoints, recipe-specific endpoint checks, uneven-browning response, and stopping for unexpected smoke.
 
 ## 0.1.0 - 2026-09-03
 
