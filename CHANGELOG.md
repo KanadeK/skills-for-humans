@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual H027 Human Skills for dividing one meal's work, assigning raw-food station handoffs, and scheduling a kitchen shared by separate meals.
 
 ## 0.1.0 - 2026-09-03
 
