@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 报名社区课程前核对自己能否真正参加 | Check a Community Class Before Joining | 10–20 分钟 / minutes | 简单 / Easy | 一次参加或退出决定 / A go or no-go decision | [SKILL.md](skills/check-a-community-class-before-joining/SKILL.md) |
+| 到对社区课程现场并参加第一节 | Join the First Session of a Community Class | 10–20 分钟核对加课时 / checks plus class | 简单 / Easy | 一次真实参与和下次入口 / Participation and next step | [SKILL.md](skills/join-the-first-session-of-a-community-class/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
