@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Bilingual Human Skills for checking microwave containers and arranging ordinary food so mid-cook redistribution is possible.
+- Bilingual Human Skills for food-specific microwave settings, redistribution and standing, multi-point completion checks, and stopping for sparks or smoke.
 
 ## 0.1.0 - 2026-09-03
 
