@@ -4,6 +4,7 @@
 
 ### Added
 
+- Five bilingual everyday houseplant Skills for choosing a real indoor position, checking and watering one pot, evidence-based repotting, isolating suspected pests, and consenting care handoff during an absence.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03

@@ -14,6 +14,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 给室内盆栽找合适位置 | Match a Houseplant to an Indoor Spot | 10–20 分钟 + 复看 / plus review | 简单 / Easy | 一块房间被盆栽占用 / A patch of room is occupied | [SKILL.md](skills/match-a-houseplant-to-an-indoor-spot/SKILL.md) |
+| 判断并浇灌一盆室内植物 | Water One Potted Houseplant | 5–15 分钟 + 排水 / plus drainage | 简单 / Easy | 托盘需要倒水 / A saucer needs emptying | [SKILL.md](skills/water-one-potted-houseplant/SKILL.md) |
+| 给确需换盆的室内植物换盆 | Repot a Root-Bound Houseplant | 20–45 分钟 + 复看 / plus review | 中等 / Moderate | 桌面要清理盆土 / Potting mix needs clearing | [SKILL.md](skills/repot-a-root-bound-houseplant/SKILL.md) |
+| 隔离疑似有虫害的室内植物 | Isolate a Houseplant with Suspected Pests | 10–20 分钟 + 复查 / plus checks | 中等 / Moderate | 一盆植物占用隔离位置 / A plant occupies a separate spot | [SKILL.md](skills/isolate-a-houseplant-with-suspected-pests/SKILL.md) |
+| 外出期间交接室内植物照料 | Handoff Houseplant Care During an Absence | 15–30 分钟准备 + 检查 / prep plus checks | 中等 / Moderate | 一张逐盆照料清单 / A per-plant care note | [SKILL.md](skills/handoff-houseplant-care-during-an-absence/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
