@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H005 Human Skills for obtaining exact-feature connected-product requirements and clarifying necessary versus optional data collection before buying.
 
 ## 0.1.0 - 2026-09-03
 
