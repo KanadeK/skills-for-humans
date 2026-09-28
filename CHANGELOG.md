@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for a community class: verify level, materials, terms, and registration before committing, then join the actual first session.
 
 ## 0.1.0 - 2026-09-03
 
