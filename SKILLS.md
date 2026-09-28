@@ -4,6 +4,8 @@
 
 v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
+The catalog also includes Unreleased Skills under review; the v0.1.0 release contained 15.
+
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
 ## Chores / 家务
@@ -34,6 +36,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 / prep plus call | 中等 / Moderate | 工单号和循环音乐 / A case number and hold music | [SKILL.md](skills/call-customer-service/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回 / prep plus return | 中等 / Moderate | 一张凭证，少一个错误物品 / Evidence and one fewer wrong object | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
+| 请店员演示一项商品动作 | Request an In-Store Product Demo | 5–10 分钟 / minutes | 简单 / Easy | 能用多一行条件 / “Works” gains conditions | [SKILL.md](skills/request-an-in-store-product-demo/SKILL.md) |
 
 ## Recovery / 失败与恢复
 
