@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual Human Skills for household tumble drying: screen a compatible safe load, map garment limits to the exact model's cycle, and inspect actual dryness when the cycle ends.
 
 ## 0.1.0 - 2026-09-03
 
