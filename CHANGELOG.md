@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual H002 Human Skill for allocating separately sealed units across confirmed use dates before deciding today's package count.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
