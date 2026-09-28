@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H101 Human Skills for setting one move's transport scope and grouping selected goods by destination, handler and restriction before packing.
 
 ## 0.1.0 - 2026-09-03
 
