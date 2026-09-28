@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H029 Human Skill for handing off an in-progress meal's observed state and active heat before leaving.
 
 ## 0.1.0 - 2026-09-03
 
