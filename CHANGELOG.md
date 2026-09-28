@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H125 Human Skill for finding and matching one ordinary product's paper receipt line without financial reconciliation.
 
 ## 0.1.0 - 2026-09-03
 
