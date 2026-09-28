@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for checking retained learning with a different task after time passes, without promising a universal review interval.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
