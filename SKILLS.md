@@ -21,6 +21,15 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
+## Before Purchase / 买前核对
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 买前核对显示器目标画面模式 | Match a Monitor Mode to a Computer | 15–25 分钟 / minutes | 中等 / Moderate | 最高刷新率需注明输入口 / Top refresh rate needs an input port | [SKILL.md](skills/match-a-monitor-mode-to-a-computer/SKILL.md) |
+| 买前核对工作椅调节范围 | Check a Desk Chair's Adjustment Range | 15–25 分钟 / minutes | 中等 / Moderate | 人体工学需展示调节范围 / Ergonomic needs an adjustment range | [SKILL.md](skills/check-desk-chair-adjustability/SKILL.md) |
+| 买前核对步行鞋的实际合脚 | Check Walking-Shoe Fit | 15–25 分钟 / minutes | 简单 / Easy | 旧鞋号不再直接下单 / The old shoe size stops ordering for you | [SKILL.md](skills/check-walking-shoe-fit/SKILL.md) |
+| 买前核对移动电源够不够用 | Check a Power Bank for a Day Away | 15–25 分钟 / minutes | 中等 / Moderate | mAh 与 W 分别记账 / mAh and W get separate columns | [SKILL.md](skills/check-a-power-bank-for-a-day/SKILL.md) |
+
 ## First Attempts / 第一次尝试
 
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
