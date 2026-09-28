@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- A bilingual Human Skill for choosing an obtainable handoff method before paying when the selected product cannot be carried home personally.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
