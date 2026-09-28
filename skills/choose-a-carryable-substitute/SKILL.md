@@ -54,6 +54,7 @@ description: "Human-readable steps for choosing a usable grocery or ordinary hou
 
 - [香港消费者委员会：A Guide to Laundry: A Comparison between Laundry Products](https://www.consumer.org.hk/en/shopping-guide/features/2020-laundry_product) — 不同洗衣用品的建议用量、每次成本和实际表现不能仅凭液体、粉末或胶囊名称推断；该文旧价格不作现价。
 - [香港消费者委员会：Laundry Detergent Varies in Stain Removal](https://www.consumer.org.hk/en/press-release/493-laundry-detergents) — 洗衣用品按具体包装的建议剂量使用，过量不等于效果更好。
+- [香港消费者委员会：补充装、裸买日用品指南](https://www.consumer.org.hk/sc/sustainable-consumption/574-naked-shopping-and-refill-products/574-naked-shopping-and-refill-products-package-survey-findings) — 调查中的补充装包装通常较轻，但原装与补充装容量不一，不能只看“补充装”字样推断整包负担。
 - Original synthesis — 以实际用途、整包负担和你的承载上限筛选替代，不设通用体力数值。
 
 ## English
@@ -93,6 +94,7 @@ This covers ordinary groceries and household supplies, not medicines, supplement
 
 - [Hong Kong Consumer Council: A Guide to Laundry](https://www.consumer.org.hk/en/shopping-guide/features/2020-laundry_product) — recommended dose, cost per wash, and performance vary by product form; its historical prices are not current quotes.
 - [Hong Kong Consumer Council: Laundry Detergent Varies in Stain Removal](https://www.consumer.org.hk/en/press-release/493-laundry-detergents) — use the dosage on the particular package; more detergent does not guarantee better results.
+- [Hong Kong Consumer Council: Refills of Personal and Household Necessities](https://www.consumer.org.hk/en/press-release/p-574-naked-shopping-and-refill-products) — refill packaging can weigh less, while pack quantities vary; the word “refill” alone does not establish the load you will carry.
 - Original synthesis — compare the real job and full carried load against your own capacity, without a universal strength target.
 
 If AI opens this file, it may clarify the comparison. You read the package, choose, and carry the purchase.
