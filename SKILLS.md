@@ -40,4 +40,6 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
+| 洗手台普通污垢按材质复位 | Reset a Bathroom Sink After Ordinary Use | 10–20 分钟 / minutes | 简单 / Easy | 布需洗和晾 / Cloth needs washing | [SKILL.md](skills/reset-a-bathroom-sink-after-ordinary-use/SKILL.md) |
+| 浴室可及表面的普通皂膜怎么清 | Clean Ordinary Soap Film From a Bath Surface | 10–20 分钟加产品时间 / plus product time | 中等 / Moderate | 地面可能需干燥 / Floor may need drying | [SKILL.md](skills/clean-ordinary-soap-film-from-a-bath-surface/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
