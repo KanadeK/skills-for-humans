@@ -34,6 +34,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 / prep plus call | 中等 / Moderate | 工单号和循环音乐 / A case number and hold music | [SKILL.md](skills/call-customer-service/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回 / prep plus return | 中等 / Moderate | 一张凭证，少一个错误物品 / Evidence and one fewer wrong object | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
+| 这次做客要不要带东西 | Decide Whether to Bring a Host Gift | 5–10 分钟决定 / 5–10 minutes to decide | 简单 / Easy | 可能无需新增储物任务 / Possibly no new storage job | [SKILL.md](skills/decide-whether-to-bring-a-host-gift/SKILL.md) |
 
 ## Recovery / 失败与恢复
 
