@@ -4,6 +4,8 @@
 
 v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
+The catalog also includes Unreleased Skills under review; the v0.1.0 release contained 15.
+
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
 ## Chores / 家务
@@ -34,6 +36,9 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 给客服打电话 | Call Customer Service | 10 分钟准备 + 通话 / prep plus call | 中等 / Moderate | 工单号和循环音乐 / A case number and hold music | [SKILL.md](skills/call-customer-service/SKILL.md) |
 | 把买错或不合适的东西退回去 | Return the Wrong Item | 15 分钟准备 + 退回 / prep plus return | 中等 / Moderate | 一张凭证，少一个错误物品 / Evidence and one fewer wrong object | [SKILL.md](skills/return-the-wrong-item/SKILL.md) |
+| 现场问清一项商品信息 | Ask for Missing Product Information | 3–8 分钟 / minutes | 简单 / Easy | 可能空手离开 / You may leave empty-handed | [SKILL.md](skills/ask-for-missing-product-information/SKILL.md) |
+| 给货架宣传语加上适用范围 | Verify a Shelf Claim Before Buying | 5–10 分钟 / minutes | 中等 / Moderate | 宣传语多一行限定 / A slogan gains qualifications | [SKILL.md](skills/verify-a-shelf-claim-before-buying/SKILL.md) |
+| 散装补充品先找回产品身份 | Identify an Unpackaged Refill | 5–10 分钟 / minutes | 中等 / Moderate | 容器多一张身份说明 / A container gains an identity record | [SKILL.md](skills/identify-an-unpackaged-refill/SKILL.md) |
 
 ## Recovery / 失败与恢复
 
