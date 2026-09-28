@@ -4,7 +4,12 @@
 
 ### Added
 
+- A bilingual Human Skill for turning vague grocery and everyday-supply requests into a shopping gap list grounded in checked, usable stock.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+
+### Changed
+
+- Market-trip planning now points readers with unresolved needs to the gap-list task and records uncertain stock instead of silently counting it.
 
 ## 0.1.0 - 2026-09-03
 

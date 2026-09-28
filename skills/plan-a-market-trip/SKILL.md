@@ -19,7 +19,7 @@ description: "Human-readable instructions for planning one bounded market or gro
 
 ## 中文
 
-当你准备去菜市场或超市，却只知道“家里没什么吃的”时，加载这份 Skill。它适合一次有边界的采购，不负责营养治疗、实时价格预测，也不要求你在摊位前完成一场供应链博士答辩。
+当你准备去菜市场或超市，却只知道“家里没什么吃的”时，加载这份 Skill。它适合一次有边界的采购；如果需求仍只是“家里该补点东西”，可先用[缺口清单](../make-a-shopping-gap-list/SKILL.md)核对用途和存量。这里不负责营养治疗、实时价格预测，也不要求你在摊位前完成一场供应链博士答辩。
 
 ### 安装前准备
 
@@ -37,7 +37,7 @@ description: "Human-readable instructions for planning one bounded market or gro
 ### 执行
 
 1. **先写餐，不先写商品。** 列出这次采购要支持的几顿饭，例如两顿快手晚饭、一顿汤面和两次早餐。没有用途的“看起来很健康”很容易在冰箱里申请长期居留。
-2. **盘点旧库存。** 把已经有的主食、蛋白质、蔬菜和调味品放进餐里，优先安排较易坏或已经开封的食物。日期、保存情况不确定的东西不要直接算作可用。
+2. **盘点旧库存。** 把已经有的主食、蛋白质、蔬菜和调味品放进餐里，优先安排较易坏或已经开封的食物。记下真正可用于这几顿饭的量；日期、保存情况或可用量不确定的东西先标待确认，不直接抵扣清单。
 3. **为每项写用途与数量。** 数量按你家真实饭量、使用次数和储存能力估，不套用陌生人的标准份量。第一次买不熟悉的食材，先买能完成一次尝试的小份。
 4. **分成必须、可替代、路过不要碰。** 必须项保证餐能成立；可替代项写清功能，例如“绿叶菜任一种”；第三栏专门收容容易冲动购买的东西。
 5. **给预算留缓冲。** 先给主食、蛋白质、蔬果和其他用品分配大致额度；价格超出时，按餐中功能替换或减少非必须项，不凭空编一个“全国统一菜价”。
@@ -70,7 +70,7 @@ description: "Human-readable instructions for planning one bounded market or gro
 
 ## English
 
-Load this Skill when you are about to visit a market or grocery store and your entire plan is “we have nothing to eat.” It handles one bounded shop. It does not provide medical nutrition treatment, predict live prices, or require a supply-chain dissertation beside the onions.
+Load this Skill when you are about to visit a market or grocery store and your entire plan is “we have nothing to eat.” It handles one bounded shop. If the request is still just “we should stock up,” you can first use the [shopping gap list](../make-a-shopping-gap-list/SKILL.md) to check uses and stock. This Skill does not provide medical nutrition treatment, predict live prices, or require a supply-chain dissertation beside the onions.
 
 ### Preparation and inputs
 
@@ -88,7 +88,7 @@ If reaching shelves, carrying weight, standing, or reading small labels is diffi
 ### Execution
 
 1. **List meals before products.** Name the meals this trip must support. An attractive ingredient with no job tends to request permanent fridge residency.
-2. **Inspect existing stock.** Assign usable staples, proteins, vegetables, and seasonings to those meals. Do not count an item whose date or storage history is uncertain.
+2. **Inspect existing stock.** Assign usable staples, proteins, vegetables, and seasonings to those meals. Record how much can serve these meals. If an item's date, storage history, or usable amount is uncertain, mark it to confirm instead of subtracting it from the list.
 3. **Give every item a purpose and amount.** Estimate from your own portions, number of uses, and storage. For an unfamiliar ingredient, buy enough for one attempt rather than a lifetime subscription.
 4. **Separate must-have, substitute, and walk-past items.** A substitute preserves the meal function, such as any suitable leafy vegetable. The third list contains predictable impulse buys.
 5. **Leave budget room.** Allocate rough amounts to meal essentials first. If prices differ, replace by function or remove optional items instead of inventing a universal market price.
