@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for cleaning an insulated bottle's finish-compatible exterior while separately checking drink-contact surfaces.
+- A bilingual Human Skill for unplugging and cooling an electric kettle before wiping its outside without wetting electrical contacts.
 
 ## 0.1.0 - 2026-09-03
 
