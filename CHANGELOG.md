@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H120 Human Skill for following exact maker and material guidance during one ordinary exterior-care pass without disassembly or repair.
 
 ## 0.1.0 - 2026-09-03
 
