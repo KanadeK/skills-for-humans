@@ -27,6 +27,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 选一段能按时退出的城市公园散步路线 | Choose and Walk a Short City Park Route | 10 分钟核路加散步 / check plus walk | 简单 / Easy | 路线可比地图更短 / May walk less than the map | [SKILL.md](skills/choose-and-walk-a-short-city-park-route/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
