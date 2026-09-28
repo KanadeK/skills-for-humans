@@ -21,6 +21,15 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
+## Before Purchase / 买前核对
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 买前核对大件能否放下 | Measure a Product's Fit Before Buying | 15–30 分钟 / minutes | 中等 / Moderate | 一张尺寸草图 / A measurement sketch | [SKILL.md](skills/measure-a-product-fit/SKILL.md) |
+| 买前核对收纳箱的可用空间 | Check a Storage Box's Usable Space | 10–20 分钟 / minutes | 简单 / Easy | 可能少买一个大而空的箱子 / Perhaps one fewer mostly empty box | [SKILL.md](skills/check-storage-box-capacity/SKILL.md) |
+| 买前核对替换耗材的型号 | Match a Replacement Consumable | 10–20 分钟 / minutes | 中等 / Moderate | 一串准确货号 / An exact part number | [SKILL.md](skills/match-a-replacement-consumable/SKILL.md) |
+| 买前核对衣服尺码 | Check a Clothing Size Before Buying | 10–20 分钟 / minutes | 简单 / Easy | 字母尺码失去绝对权威 / Letter sizes lose absolute authority | [SKILL.md](skills/check-a-clothing-size-before-buying/SKILL.md) |
+
 ## First Attempts / 第一次尝试
 
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
