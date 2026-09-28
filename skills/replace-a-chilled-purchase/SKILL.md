@@ -52,7 +52,7 @@ description: "Human-readable steps for replacing a planned chilled grocery befor
 ### 来源
 
 - [美国 FDA：Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) — 需要冷藏的食品应按标签及时保持低温，并检查罐装包装损坏。
-- [香港食物安全中心：Use By and Best before Dates](https://www.cfs.gov.hk/english/consumer_zone/safefood_all/useby_bestbefore.html) — 开封后应按生产商说明处理；未开封日期不自动适用于开封余量。
+- [香港食物安全中心：接近保质期食品的食安指南](https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_240_02.html) — 开封后应按生产商说明处理；未开封日期不自动适用于开封余量。
 
 ## English
 
@@ -89,6 +89,6 @@ This covers ordinary food purchasing, not medical diets, infant food, or allergy
 ### Sources
 
 - [US FDA: Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) — refrigeration and label directions matter, and damaged cans need scrutiny.
-- [Hong Kong Centre for Food Safety: Use By and Best before Dates](https://www.cfs.gov.hk/english/consumer_zone/safefood_all/useby_bestbefore.html) — follow the manufacturer's after-opening conditions; an unopened date does not settle the fate of leftovers.
+- [Hong Kong Centre for Food Safety: The Food Safety Guide to Near-Expired Foods](https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_240_02.html) — follow the manufacturer's after-opening conditions; an unopened date does not settle the fate of leftovers.
 
 If AI opens this file, it may explain the labels. You choose the item and carry out the purchase.
