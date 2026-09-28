@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H157 Human Skills for following the actual boarding call and then reaching the assigned seat with carry-on placed under the crew's instructions.
 
 ## 0.1.0 - 2026-09-03
 
