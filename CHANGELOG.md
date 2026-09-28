@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for stopping an ordinary ill-judged joke, acknowledging its effect and leaving acceptance to the affected person.
 
 ## 0.1.0 - 2026-09-03
 
