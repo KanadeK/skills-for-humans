@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H124 Human Skills for linking purchase proof and written terms to an actual item and preserving that fact chain after replacement.
 
 ## 0.1.0 - 2026-09-03
 
