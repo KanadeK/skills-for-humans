@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for grouping small ordinary items in one drawer by actual retrieval and return actions, without forced disposal or new organizers.
 
 ## 0.1.0 - 2026-09-03
 
