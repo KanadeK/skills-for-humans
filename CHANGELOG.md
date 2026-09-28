@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H123 Human Skills for building a retrievable physical paper-folder index and keeping it true through a planned relocation.
 
 ## 0.1.0 - 2026-09-03
 
