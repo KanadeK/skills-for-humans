@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for known cookware surfaces: loosen ordinary stuck food under material-specific care, and assess a cooled scorched pan for char versus surface damage before a limited cleaning attempt.
 
 ## 0.1.0 - 2026-09-03
 
