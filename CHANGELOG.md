@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for sweeping an ordinary lodging for belongings and completing the actual key and departure handover.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
