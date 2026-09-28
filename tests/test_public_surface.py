@@ -17,6 +17,14 @@ SEEDED_SLUGS = {
     "substitute-an-ingredient-by-function",
     "check-doneness-and-store-leftovers",
 }
+V0_1_SLUGS = SEEDED_SLUGS | {
+    "eat-alone-at-an-unfamiliar-restaurant",
+    "try-a-hobby-before-buying-the-gear",
+    "call-customer-service",
+    "return-the-wrong-item",
+    "rescue-salty-food",
+    "recover-when-you-are-running-late",
+}
 AGENT_PHRASES = (
     "ask the user",
     "the user operates",
@@ -55,14 +63,14 @@ class PublicSurfaceTests(unittest.TestCase):
             english,
         )
 
-    def test_catalog_lists_exactly_fifteen_skills_in_four_experience_groups(self) -> None:
+    def test_catalog_preserves_v0_1_skills_and_tracks_current_files(self) -> None:
         catalog = (ROOT / "SKILLS.md").read_text(encoding="utf-8")
         linked = re.findall(
             r"\(skills/([a-z0-9]+(?:-[a-z0-9]+)*)/SKILL\.md\)", catalog
         )
 
-        self.assertEqual(len(linked), 15)
-        self.assertEqual(len(set(linked)), 15)
+        self.assertEqual(len(linked), len(set(linked)))
+        self.assertTrue(V0_1_SLUGS.issubset(set(linked)))
         self.assertEqual(set(linked), {path.name for path in (ROOT / "skills").iterdir()})
         for heading in (
             "Chores / 家务",
