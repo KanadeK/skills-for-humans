@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- H007: A bilingual Human Skill for choosing whether to buy another item, wait, or revise a shopping plan when a needed item is out of stock.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added

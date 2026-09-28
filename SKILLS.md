@@ -11,6 +11,7 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 去菜市场前做计划 | Plan a Market Trip | 15–25 分钟 / minutes | 简单 / Easy | 一张减少冲动购买的清单 / A list that reduces impulse purchases | [SKILL.md](skills/plan-a-market-trip/SKILL.md) |
+| 缺货后决定改买、延后还是改计划 | Decide After an Item Is Out of Stock | 每项 3–10 分钟 / per item | 简单 / Easy | 清单可能少一项，计划可能换一版 / The list may lose an item and the plan may get a new version | [SKILL.md](skills/decide-after-an-item-is-out-of-stock/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
