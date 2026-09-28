@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for giving frequently carried entryway items findable return places while keeping the entrance usable and accessible.
 
 ## 0.1.0 - 2026-09-03
 
