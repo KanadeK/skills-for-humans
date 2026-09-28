@@ -18,6 +18,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
+| 开火前把煮锅安排好 | Set Up a Pot for Boiling | 5–10 分钟 / minutes | 简单 / Easy | 可能换一口更稳的锅 / You may choose a steadier pot | [SKILL.md](skills/set-up-a-pot-for-boiling/SKILL.md) |
+| 让锅保持配方要求的沸腾或小火 | Control a Boil and Simmer | 按配方，全程观察 / Recipe-dependent, attended | 中等 / Moderate | 炉灶旋钮不再永远开到最大 / The hob dial need not stay at maximum | [SKILL.md](skills/control-a-boil-and-simmer/SKILL.md) |
+| 焯菜后把加热停在正确一刻 | Blanch Vegetables and Stop Cooking | 准备 5–10 分钟，焯煮按配方 / 5–10 minutes prep, blanch per recipe | 中等 / Moderate | 冷水短时接班 / Cold water takes a short shift | [SKILL.md](skills/blanch-vegetables-and-stop-cooking/SKILL.md) |
+| 锅液快溢出时先恢复控制 | Respond to a Boil-Over | 先停热，通常数分钟 / Stop heat first, usually minutes | 中等 / Moderate | 火力可能被降职 / Heat may be demoted | [SKILL.md](skills/respond-to-a-boil-over/SKILL.md) |
+| 不端整锅热水也能取出食物 | Remove Food Without Pouring a Hot Pot | 取出 3–8 分钟，水另等冷却 / 3–8 minutes to remove, water cools later | 中等 / Moderate | 热水留在原地 / Hot water stays put | [SKILL.md](skills/remove-food-without-pouring-a-hot-pot/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 

@@ -4,6 +4,8 @@
 
 ### Added
 
+- Bilingual Human Skills for setting up an ordinary boiling pot and maintaining the boil or simmer called for by reliable directions.
+- Bilingual Human Skills for recipe-led vegetable blanching, recovering a water-based boil-over, and lifting cooked food without carrying a pot of hot water.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
