@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for verifying refrigerator storage zones and restoring airflow, separation, and access in an overcrowded fridge.
 
 ## 0.1.0 - 2026-09-03
 
