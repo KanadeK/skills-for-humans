@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for checking a meal workstation before starting and separating raw from ready-to-eat preparation paths.
 
 ## 0.1.0 - 2026-09-03
 
