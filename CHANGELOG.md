@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for revising an agreed small group plan after the participant count changes, using real capacity and the affected people's agreement.
 
 ## 0.1.0 - 2026-09-03
 
