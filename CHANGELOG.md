@@ -4,6 +4,7 @@
 
 ### Added
 
+- Two bilingual Human Skills for checking an abnormal meeting camera view and correcting a wrong or blank screen share through bounded interface checks and explicit fallback.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
