@@ -16,6 +16,9 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
+| 给湿衣服找能晾的地方 | Choose an Air-Drying Spot for Laundry | 5–15 分钟选位 / to prepare a spot | 简单 / Easy | 暂时占用一块空间 / Reserves space | [SKILL.md](skills/choose-an-air-drying-spot-for-laundry/SKILL.md) |
+| 湿衣服按标签撑好再晾 | Support a Wet Garment for Air Drying | 每件 3–8 分钟 / per item | 简单 / Easy | 平面或横杆被占用 / Occupies rack or rail | [SKILL.md](skills/support-a-wet-garment-for-air-drying/SKILL.md) |
+| 晾过不等于干透 | Check Air-Dried Clothes Before Putting Away | 每批 5–10 分钟 / per batch | 简单 / Easy | 可能继续占用晾衣架 / May retain the rack | [SKILL.md](skills/check-air-dried-clothes-before-putting-away/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
