@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H102 Human Skills for choosing a suitable moving container and deciding handling help before lifting an ordinary load.
 
 ## 0.1.0 - 2026-09-03
 
