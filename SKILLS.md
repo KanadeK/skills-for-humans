@@ -26,6 +26,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 会议共享错了画面时停下重选 | Correct a Wrong Meeting Screen Share | 3–8 分钟 / minutes | 简单 / Easy | 停共享不能撤回已展示画面 / Stopping cannot retract a view | [SKILL.md](skills/correct-a-wrong-meeting-screen-share/SKILL.md) |
+| 会议摄像头画面异常时检查并降级 | Restore an Ordinary Meeting Camera View | 3–8 分钟 / minutes | 简单 / Easy | 可以改用语音或文字 / Voice or text may take over | [SKILL.md](skills/restore-an-ordinary-meeting-camera-view/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
