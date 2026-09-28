@@ -12,6 +12,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 去菜市场前做计划 | Plan a Market Trip | 15–25 分钟 / minutes | 简单 / Easy | 一张减少冲动购买的清单 / A list that reduces impulse purchases | [SKILL.md](skills/plan-a-market-trip/SKILL.md) |
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
+| 开封前先安排剩下的食物 | Check the Remainder Before Opening Food | 开封前 3–7 分钟 / 3–7 minutes before opening | 简单 / Easy | 一件食品可能继续保持未开封状态 / A package may remain sealed a little longer | [SKILL.md](skills/check-before-opening-a-food-package/SKILL.md) |
+| 把已经开封的食品余量收好 | Store an Opened Food Package | 开封后 5–10 分钟 / 5–10 minutes after opening | 中等 / Moderate | 包装多了一条真实日期，不再靠冰箱猜谜 / A real date replaces a refrigerator guessing game | [SKILL.md](skills/store-an-opened-food-package/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
