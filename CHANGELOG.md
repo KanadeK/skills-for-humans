@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for a public talk: attend with one listening goal and source-labelled notes, and separately submit one concrete question through the organiser's Q&A route.
 
 ## 0.1.0 - 2026-09-03
 
