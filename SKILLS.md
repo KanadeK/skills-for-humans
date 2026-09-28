@@ -27,6 +27,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 凭票找到正确场次、座位并按场馆规则离场 | Use a Ticketed Audience Seat | 开场前 15–30 分钟 / before start | 简单 / Easy | 占用座位与节目时间 / A seat and show time | [SKILL.md](skills/use-a-ticketed-audience-seat/SKILL.md) |
+| 现场演出开场后按前台指引决定能否入座 | Handle Late Entry to a Live Performance | 5–20 分钟判断 / to decide | 简单 / Easy | 可能错过演出片段 / May miss part of the show | [SKILL.md](skills/handle-late-entry-to-a-live-performance/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
