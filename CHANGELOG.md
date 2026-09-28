@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- H115: A bilingual Human Skill for measuring and marking a reusable space record before choosing an ordinary household item.
 
 ## 0.1.0 - 2026-09-03
 
