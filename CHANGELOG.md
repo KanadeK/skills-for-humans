@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H104 Human Skills for keeping last-use items available before departure and an essentials kit reachable through travel and first arrival.
 
 ## 0.1.0 - 2026-09-03
 
