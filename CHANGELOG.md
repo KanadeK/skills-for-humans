@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual Human Skills for museum visits: plan one feasible goal with current venue constraints, then make one focused on-site gallery stop.
 
 ## 0.1.0 - 2026-09-03
 
