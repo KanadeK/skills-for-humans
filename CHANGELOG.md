@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H114 Human Skills for choosing a passive furniture-foot floor protector and applying/checking a compatible self-stick pad without structural claims.
 
 ## 0.1.0 - 2026-09-03
 
