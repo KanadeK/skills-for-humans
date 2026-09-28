@@ -18,6 +18,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
+| 煎炒开火前先把锅与食材就位 | Prepare a Pan for Sautéing | 5–10 分钟 / minutes | 简单 / Easy | 食材先排队 / Ingredients queue first | [SKILL.md](skills/prepare-a-pan-for-sauteing/SKILL.md) |
+| 预热后把第一批食物稳妥下锅 | Preheat and Load a Sauté Pan | 3–8 分钟进入第一批 / 3–8 minutes to first batch | 中等 / Moderate | 第一批不参加冒烟测试 / The first batch skips a smoke trial | [SKILL.md](skills/preheat-and-load-a-saute-pan/SKILL.md) |
+| 锅面不够时把煎炒分批 | Sauté in Manageable Batches | 每批按配方 / Each batch per recipe | 中等 / Moderate | 食材排队 / Food waits its turn | [SKILL.md](skills/saute-in-manageable-batches/SKILL.md) |
+| 煎炒途中观察并决定何时翻动 | Turn and Monitor a Sauté Pan | 按配方并持续观察 / Recipe-dependent and attended | 中等 / Moderate | 铲子按判断工作 / The spatula works on evidence | [SKILL.md](skills/turn-and-monitor-a-saute-pan/SKILL.md) |
+| 锅开始冒烟时先停火 | Stop a Smoking Pan | 立即停热，冷却另计 / Stop heat now, cooling later | 中等 / Moderate | 本批可能取消 / The batch may be cancelled | [SKILL.md](skills/stop-a-smoking-pan/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
 
