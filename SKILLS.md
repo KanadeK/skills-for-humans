@@ -2,7 +2,7 @@
 
 [中文首页](README.md) · [English README](README.en.md)
 
-v0.1.0 包含 15 个 flat、稳定路径的 Human Skills。分类服务于浏览，不改变文件地址。
+v0.1.0 发布了 15 个 Human Skills；以下目录另含 Unreleased 内容。分类服务于浏览，不改变 flat 文件地址。
 
 Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English, and execute without requiring AI.
 
@@ -19,6 +19,16 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 用现有食材安排一顿饭 | Plan a Meal from What You Have | 10 分钟 + 烹饪 / plus cooking | 中等 / Moderate | 随机食材编译成一顿饭 / Random ingredients compile into a meal | [SKILL.md](skills/plan-a-meal-from-what-you-have/SKILL.md) |
 | 按功能替代缺少的食材 | Substitute an Ingredient by Function | 5–15 分钟 + 小测试 / plus a small test | 中等 / Moderate | 成品获得诚实的新版本 / The dish gets an honest new version | [SKILL.md](skills/substitute-an-ingredient-by-function/SKILL.md) |
 | 判断熟度和处理剩菜 | Check Doneness and Store Leftovers | 2–10 分钟 + 冷却/复热 / plus cooling or reheating | 中等 / Moderate | 剩菜获得日期 / Leftovers receive timestamps | [SKILL.md](skills/check-doneness-and-store-leftovers/SKILL.md) |
+
+## Before Purchase / 付款前判断
+
+| 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
+| --- | --- | --- | --- | --- | --- |
+| 按明确限制核对商品 | Check a Product Against a Restriction | 每件 3–8 分钟 / per item | 简单 / Easy | 不明商品可能留在货架 / An unclear item may stay on the shelf | [SKILL.md](skills/check-a-product-against-a-restriction/SKILL.md) |
+| 付款前读懂食品日期 | Read a Food Date Before Buying | 每件 2–5 分钟 / per item | 中等 / Moderate | 特价可能失去时间优势 / A discount may lose its timing advantage | [SKILL.md](skills/read-a-food-date-before-buying/SKILL.md) |
+| 用召回公告核对商品 | Match a Product to a Recall Notice | 5–10 分钟 / minutes | 中等 / Moderate | 可能放弃一件看似正常的商品 / An ordinary-looking item may stay behind | [SKILL.md](skills/match-a-product-to-a-recall-notice/SKILL.md) |
+| 查清商品的环保宣称 | Check an Environmental Product Claim | 5–10 分钟，必要时回家查 / or check later | 中等 / Moderate | “绿色”贴纸可能失去投票权 / A green sticker may lose its vote | [SKILL.md](skills/check-an-environmental-product-claim/SKILL.md) |
+| 买衣服前核对洗护负担 | Check Garment Care Before Buying | 每件 3–7 分钟 / per garment | 简单 / Easy | 衣服可能留在衣架 / A garment may stay on its hanger | [SKILL.md](skills/check-garment-care-before-buying/SKILL.md) |
 
 ## First Attempts / 第一次尝试
 

@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Five bilingual Human Skills for purchase-time label decisions: explicit restrictions, food dates, recall matching, environmental claims, and garment-care feasibility.
+
 ## 0.1.0 - 2026-09-03
 
 ### Added
