@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual Human Skills for making identifiable freezer portions, tray-freezing separable pieces, and rewrapping a torn frozen package with its original information intact.
 
 ## 0.1.0 - 2026-09-03
 
