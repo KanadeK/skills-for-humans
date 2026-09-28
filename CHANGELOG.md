@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H140 Human Skill for closing an ordinary logistics or after-sales route that cannot continue, with a next owner, unknowns and an honest stopping point.
 
 ## 0.1.0 - 2026-09-03
 
