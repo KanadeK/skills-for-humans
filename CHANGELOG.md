@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H263 Human Skill for estimating one ordinary task with separate preparation, active work, waiting, transition and closeout phases.
 
 ## 0.1.0 - 2026-09-03
 
