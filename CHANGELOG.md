@@ -5,6 +5,8 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Bilingual Human Skills for preparing a shallow pan and placing the first ordinary sauté batch under controlled heat.
+- Bilingual Human Skills for batching, turning and finishing a shallow-pan sauté, with a stop path for smoke before flame.
 
 ## 0.1.0 - 2026-09-03
 
