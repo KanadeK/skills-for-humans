@@ -26,6 +26,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 发现漏记一项未开始的约定时补回实际安排 | Restore an Overlooked Upcoming Commitment to Your Plan | 5–12 分钟 / minutes | 简单 / Easy | 日历补回真实承诺 / The real commitment returns to the plan | [SKILL.md](skills/restore-an-overlooked-upcoming-commitment-to-your-plan/SKILL.md) |
+| 两个普通约定撞时间时先核承诺再告知 | Resolve Two Overlapping Ordinary Commitments | 10–20 分钟 + 回复 / minutes plus replies | 中等 / Moderate | 至少一项可能要改 / At least one plan may change | [SKILL.md](skills/resolve-two-overlapping-ordinary-commitments/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
