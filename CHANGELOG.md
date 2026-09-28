@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual Human Skills for post-meal waste: route food scraps by local organics rules, assess packaging under the actual recycling program, and carry sorted bins to an authorised collection point.
 
 ## 0.1.0 - 2026-09-03
 
