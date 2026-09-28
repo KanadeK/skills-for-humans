@@ -26,6 +26,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 小组到齐后先各自尝试再一起核思路 | Run One Small Study Session with Independent Attempts | 30–60 分钟，可缩短 / minutes, adjustable | 中等 / Moderate | 每人留下自己的结果 / Each person keeps a result | [SKILL.md](skills/run-one-small-study-session-with-independent-attempts/SKILL.md) |
+| 约一次有明确练习目标的小组学习 | Set Up One Small Study Session | 10–20 分钟安排 / minutes planning | 简单 / Easy | 模糊邀约变成可执行安排 / A vague invite becomes a plan | [SKILL.md](skills/set-up-one-small-study-session/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
