@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual H176 Human Skill for reporting one missing or unusable lodging amenity with factual evidence, a practical request and a checkable provider response.
 
 ## 0.1.0 - 2026-09-03
 

@@ -41,3 +41,4 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 菜做咸了以后尽量救回来 | Rescue Salty Food | 5–20 分钟 / minutes | 简单 / Easy | 修复生成更多份量 / Recovery creates more servings | [SKILL.md](skills/rescue-salty-food/SKILL.md) |
 | 出门前发现要迟到了 | Recover When You Are Running Late | 5–15 分钟 / minutes | 简单 / Easy | 少做几项，物理定律不加班 / Fewer rituals; no overtime for physics | [SKILL.md](skills/recover-when-you-are-running-late/SKILL.md) |
+| 入住后说明缺少或不能用的设施 | Report a Missing or Unusable Lodging Amenity | 初核 10–15 分钟 + 答复 / check plus reply | 简单 / Easy | 可能留下一项待办 / May leave a pending action | [SKILL.md](skills/report-a-missing-or-unusable-lodging-amenity/SKILL.md) |
