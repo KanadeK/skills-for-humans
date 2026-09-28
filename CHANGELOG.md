@@ -4,7 +4,7 @@
 
 ### Added
 
-- Seven bilingual Human Skills for permitted cut flowers: harvesting, conditioning, a small vase display, a tied hand bouquet, refreshing a fading vase, air drying, and paper pressing.
+- Six bilingual Human Skills for ordinary cut flowers: conditioning, a small vase display, a tied hand bouquet, refreshing a fading vase, air drying, and paper pressing.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03

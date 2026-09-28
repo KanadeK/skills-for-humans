@@ -26,7 +26,6 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
-| 从获准植株采几枝瓶插花 | Harvest Permitted Flowers for a Vase | 10–20 分钟 / minutes | 简单 / Easy | 几枝花从植株转进水桶，植株少了几枝花 / A few stems move into water; the plant loses those blooms | [SKILL.md](skills/harvest-permitted-flowers-for-a-vase/SKILL.md) |
 | 整理并补水一小把切花花枝 | Condition Cut-Flower Stems for Display | 15–25 分钟动手，另加浸水等待 / 15–25 minutes active plus hydration wait | 简单 / Easy | 叶子离开水线，花枝准备好进花瓶 / Leaves leave the waterline; stems are ready for a vase | [SKILL.md](skills/condition-cut-flower-stems-for-display/SKILL.md) |
 | 插一瓶稳定的小型切花 | Arrange a Small Cut-Flower Vase | 15–30 分钟 / minutes | 简单 / Easy | 花瓶占据一块台面，并需要后续换水 / A vase takes table space and will need later water care | [SKILL.md](skills/arrange-a-small-cut-flower-vase/SKILL.md) |
 | 用几枝切花扎一束可手持小花束 | Tie a Small Hand Bouquet from Cut Flowers | 15–25 分钟 / minutes | 简单 / Easy | 散花变成一束，茎仍需要水 / Loose stems become a bundle that still needs water | [SKILL.md](skills/tie-a-small-hand-bouquet-from-cut-flowers/SKILL.md) |
