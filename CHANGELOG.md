@@ -5,6 +5,7 @@
 ### Added
 
 - Two bilingual H002 Human Skills for choosing a package quantity from expected use and confirming exact shares before a group multipack purchase.
+- A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
 
