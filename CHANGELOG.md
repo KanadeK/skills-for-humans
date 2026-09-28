@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for storing one low-frequency group by its future use with a findable location and a visible missing-part state.
 
 ## 0.1.0 - 2026-09-03
 
