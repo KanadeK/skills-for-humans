@@ -5,7 +5,6 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
-- A bilingual Human Skill for splitting one overloaded shopping list into independently feasible trips.
 - A bilingual before-payment check for fitting the actual basket into safe, carryable bags for the trip home.
 - A bilingual store choice check based on in-store access and the return trip with the expected load.
 
