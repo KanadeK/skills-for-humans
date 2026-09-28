@@ -26,6 +26,13 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 做一张两色水彩混色参考卡 | Make a Two-Colour Watercolour Mixing Card | 15–25 分钟 + 晾干 / 15–25 minutes plus drying | 简单 / Easy | 两种颜料在纸上交出第三种结果 / Two pigments produce a third visible result on paper | [SKILL.md](skills/make-a-two-colour-watercolour-mixing-card/SKILL.md) |
+| 在一张纸上对照平涂与渐变水彩 | Compare Flat and Graded Watercolour Washes | 15–25 分钟 + 晾干 / 15–25 minutes plus drying | 简单 / Easy | 一张纸有了均匀色块和深浅坡度 / One sheet gains an even field and a dark-to-light slope | [SKILL.md](skills/compare-flat-and-graded-watercolour-washes/SKILL.md) |
+| 在微湿纸面试出水彩软边 | Make Soft Watercolour Edges on Damp Paper | 10–20 分钟 + 晾干 / 10–20 minutes plus drying | 简单 / Easy | 颜色顺着湿纸走，边缘不再像尺子 / Colour spreads through damp paper, softening the edge | [SKILL.md](skills/make-soft-watercolour-edges-on-damp-paper/SKILL.md) |
+| 在已干水彩上叠一层透明色 | Glaze a Dry Watercolour Area with Transparent Colour | 10–20 分钟 + 前后晾干 / 10–20 minutes plus drying before and after | 简单 / Easy | 原色透过新色可见，纸却多了一层水 / Old colour remains visible through a new layer; paper receives more water | [SKILL.md](skills/glaze-a-dry-watercolour-area-with-transparent-colour/SKILL.md) |
+| 从小块画面轻提过量水彩 | Lift Excess Watercolour from a Small Area | 5–15 分钟 + 晾干 / 5–15 minutes plus drying | 简单 / Easy | 颜色可能变浅，也可能留下一块诚实的斑 / Colour may lighten or leave an honest stain | [SKILL.md](skills/lift-excess-watercolour-from-a-small-area/SKILL.md) |
+| 用蜡笔防染做一张原创水彩小卡 | Make an Original Crayon-Resist Watercolour Card | 15–25 分钟 + 晾干 / 15–25 minutes plus drying | 简单 / Easy | 一条蜡线把水彩挡开，画面多了两种表面 / A wax line blocks a wash and leaves two surface behaviours | [SKILL.md](skills/make-an-original-crayon-resist-watercolour-card/SKILL.md) |
+| 水彩结束后洗净晾好画笔 | Clean and Dry Watercolour Brushes After Use | 5–15 分钟 + 晾干 / 5–15 minutes plus drying | 简单 / Easy | 桌上少了一个彩色水杯，笔尖有机会保持形状 / One less coloured water cup; brush tips can keep their shape | [SKILL.md](skills/clean-and-dry-watercolour-brushes-after-use/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
