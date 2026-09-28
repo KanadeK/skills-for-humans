@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Three bilingual Human Skills for air drying: choose a label-compatible space, support one wet garment without distortion, and confirm thick areas are truly dry before putting clothing away.
 
 ## 0.1.0 - 2026-09-03
 
