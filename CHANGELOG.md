@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Two bilingual H132 Human Skills for checking recipient address data and feasible authorised handoff conditions before ordinary parcel submission.
 
 ## 0.1.0 - 2026-09-03
 
