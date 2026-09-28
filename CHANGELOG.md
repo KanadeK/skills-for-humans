@@ -4,6 +4,7 @@
 
 ### Added
 
+- A bilingual Human Skill for checking flight documents against each traveller and itinerary leg using current responsible authorities without deciding entry eligibility.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
