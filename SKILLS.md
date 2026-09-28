@@ -26,6 +26,8 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 云端容量满时先核唯一副本再整理 | Clear Cloud Quota Without Deleting the Only Copy | 10–25 分钟 + 更新 / minutes plus update | 中等 / Moderate | 同步删除可能影响多设备 / Synced deletion may affect devices | [SKILL.md](skills/clear-cloud-quota-without-deleting-the-only-copy/SKILL.md) |
+| 设备空间不足时只清理确认可弃的文件 | Free Device Space from Known Disposable Files | 10–20 分钟 / minutes | 简单 / Easy | 空间可能只多一点 / Space may grow modestly | [SKILL.md](skills/free-device-space-from-known-disposable-files/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
