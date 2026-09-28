@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- A bilingual Human Skill for gently freeing fabric caught in an ordinary clothing zipper and identifying the point to stop forced repair.
 
 ## 0.1.0 - 2026-09-03
 
