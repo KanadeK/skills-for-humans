@@ -26,6 +26,13 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 捏一个只作装饰的风干黏土小容形 | Pinch a Small Decorative Air-Dry Clay Form | 20–35 分钟塑形，另需晾干 / 20–35 minutes shaping plus drying | 简单 / Easy | 桌上有个小空心形，还不能拿来盛汤 / A small hollow form appears, with no claim to hold soup | [SKILL.md](skills/pinch-a-small-decorative-air-dry-clay-form/SKILL.md) |
+| 给未干的风干黏土接上一块小细节 | Join a Small Detail to Soft Air-Dry Clay | 10–20 分钟 + 后续晾干 / 10–20 minutes plus later drying | 简单 / Easy | 两块泥暂时变一件，接缝会接受晾干考验 / Two clay pieces become one for now; drying will test the seam | [SKILL.md](skills/join-a-small-detail-to-soft-air-dry-clay/SKILL.md) |
+| 在软风干黏土上压出获准纹理 | Imprint a Safe Texture in Soft Air-Dry Clay | 10–20 分钟 + 后续晾干 / 10–20 minutes plus later drying | 简单 / Easy | 物件的凸凹给泥留下负片，物件本身应完整 / Object relief leaves a negative in clay while the object stays intact | [SKILL.md](skills/imprint-a-safe-texture-in-soft-air-dry-clay/SKILL.md) |
+| 晾干并核对一件小风干黏土作品 | Dry and Check a Small Air-Dry Clay Piece | 5–15 分钟布置，按产品等待数日 / 5–15 minutes setup, then product-dependent days | 简单 / Easy | 作品逐渐收缩变硬，桌面会被占用 / The piece shrinks and hardens while occupying a surface | [SKILL.md](skills/dry-and-check-a-small-air-dry-clay-piece/SKILL.md) |
+| 尝试修补风干黏土的小表面裂纹 | Repair a Small Surface Crack in Air-Dry Clay | 10–20 分钟 + 重新晾干 / 10–20 minutes plus redrying | 简单 / Easy | 裂纹可能变浅，也可能如实保留 / The crack may soften or remain visible | [SKILL.md](skills/repair-a-small-surface-crack-in-air-dry-clay/SKILL.md) |
+| 等风干黏土全干后给装饰物上色 | Paint a Fully Dry Air-Dry Clay Decoration | 15–30 分钟上色，另加漆层晾干 / 15–30 minutes painting plus paint drying | 简单 / Easy | 素泥多了一层颜色，仍不防水 / Bare clay gains colour but not waterproofing | [SKILL.md](skills/paint-a-fully-dry-air-dry-clay-decoration/SKILL.md) |
+| 收好未用风干黏土并清理手作工具 | Store Unused Air-Dry Clay and Clean Craft Tools | 5–15 分钟 / minutes | 简单 / Easy | 未用的泥不再敞口变砖，工具回到可找位置 / Unused clay avoids becoming a brick in open air; tools regain a home | [SKILL.md](skills/store-unused-air-dry-clay-and-clean-craft-tools/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
