@@ -14,6 +14,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 按既定方案给室内猫准备这一餐 | Serve an Indoor Cat's Established Meal | 5–10 分钟 + 查看 / plus check | 简单 / Easy | 碗稍后要清理 / Bowls later need cleaning | [SKILL.md](skills/serve-an-indoor-cats-established-meal/SKILL.md) |
+| 清洗室内猫使用过的食碗和水碗 | Clean a Cat's Food and Water Bowls | 5–15 分钟 / minutes | 简单 / Easy | 湿刷/布待晾干 / Wet tools need drying | [SKILL.md](skills/clean-a-cats-food-and-water-bowls/SKILL.md) |
+| 给室内猫放置稳定的磨爪物 | Place a Stable Cat Scratching Surface | 10–20 分钟 + 观察 / plus review | 简单 / Easy | 磨爪物占一块空间 / Scratcher takes a spot | [SKILL.md](skills/place-a-stable-cat-scratching-surface/SKILL.md) |
+| 给室内猫留一处可自主退出的安静藏身处 | Provide an Indoor Cat a Quiet Hiding Place | 10–20 分钟 + 观察 / plus review | 简单 / Easy | 一处勿扰区域 / A quiet refuge | [SKILL.md](skills/provide-an-indoor-cat-a-quiet-hiding-place/SKILL.md) |
+| 搬家开门作业时给室内猫设临时安全房 | Set Up a Temporary Cat-Safe Room for a Move | 20–40 分钟 + 当日检查 / prep plus checks | 中等 / Moderate | 一间房暂有限制 / One room has restricted access | [SKILL.md](skills/set-up-a-temporary-cat-safe-room-for-a-move/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
