@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 在获准庭院放好普通小堆肥桶 | Place a Permitted Backyard Compost Bin | 15–30 分钟 / minutes | 简单 / Easy | 庭院多了一个长期占位的桶 / A bin claims a long-term yard spot | [SKILL.md](skills/place-a-permitted-backyard-compost-bin/SKILL.md) |
+| 在获准庭院小桶里起第一堆肥 | Start a Small Backyard Compost Pile | 20–35 分钟 / minutes | 简单 / Easy | 空桶开始是一堆会变化的材料 / An empty bin becomes a changing pile | [SKILL.md](skills/start-a-small-backyard-compost-pile/SKILL.md) |
+| 给已有堆肥桶安全续投一小批 | Add One Screened Batch to a Backyard Compost Bin | 10–20 分钟 / minutes | 简单 / Easy | 桶中多了待分解的材料，今天不会凭空变肥 / More material enters the pile; it will not become compost today | [SKILL.md](skills/add-one-screened-batch-to-a-backyard-compost-bin/SKILL.md) |
+| 检查并小幅调节堆肥的水分与通气 | Check and Adjust Backyard Compost Air and Moisture | 10–25 分钟 / minutes | 中等 / Moderate | 堆不再只凭想象呼吸，记录里多一个实际状态 / The pile gets a real air/moisture check instead of imagined breathing | [SKILL.md](skills/check-and-adjust-backyard-compost-air-and-moisture/SKILL.md) |
+| 堆肥桶发臭或动物能碰到时先停投 | Respond to Odor or Animal Access at a Compost Bin | 10–25 分钟初查，之后复查 / 10–25 minutes initial check plus recheck | 中等 / Moderate | 厨余暂不进桶，问题有可回查原因 / Scraps pause at the gate while the problem gets a traceable cause | [SKILL.md](skills/respond-to-odor-or-animal-access-at-a-compost-bin/SKILL.md) |
+| 核对、静置并筛出庭院熟堆肥 | Check, Cure, and Sift Backyard Compost | 多次短查 + 按实际情况静置数周 / Several brief checks plus condition-dependent weeks of curing | 中等 / Moderate | 旧料分成熟与未熟两边，不是整桶自动毕业 / Old material splits into ready-looking and unfinished portions | [SKILL.md](skills/check-cure-and-sift-backyard-compost/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
