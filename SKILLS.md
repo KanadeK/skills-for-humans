@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 用钝笔压出一块原创泡棉印版 | Draw an Original Image into a Soft Foam Print Plate | 15–25 分钟 / minutes | 简单 / Easy | 一块软版有了凹线，之后的纸印会左右反转 / A soft plate gains recessed lines; its later prints reverse left and right | [SKILL.md](skills/draw-an-original-image-into-a-soft-foam-print-plate/SKILL.md) |
+| 用泡棉印版试印并检查第一张 | Pull and Inspect a First Foam Print Proof | 15–25 分钟 + 晾干 / 15–25 minutes plus drying | 简单 / Easy | 纸上有第一张证据，凹线和漏印都藏不住 / The first paper evidence exposes both recessed lines and missed areas | [SKILL.md](skills/pull-and-inspect-a-first-foam-print-proof/SKILL.md) |
+| 按试印问题修一处泡棉印版 | Revise a Foam Print Plate from Its Proof | 15–25 分钟 + 试印晾干 / 15–25 minutes plus proof drying | 简单 / Easy | 版多了一处有理由的修改，下一张能和前一张比 / The plate gets one evidenced change; two proofs can be compared | [SKILL.md](skills/revise-a-foam-print-plate-from-its-proof/SKILL.md) |
+| 从已试好的泡棉版印一小组并标顺序 | Pull a Small Labelled Run from a Foam Print Plate | 20–35 分钟 + 晾干 / 20–35 minutes plus drying | 简单 / Easy | 同一版出现几张有小差别的纸印 / One plate produces several paper prints with small differences | [SKILL.md](skills/pull-a-small-labelled-run-from-a-foam-print-plate/SKILL.md) |
+| 用可洗平板转印一张原创独版 | Make One Original Water-Based Monotype on Paper | 20–35 分钟 + 晾干 / 20–35 minutes plus drying | 简单 / Easy | 平板图像离开板面变成一张镜像纸印 / The plate image becomes one reversed paper impression | [SKILL.md](skills/make-one-original-water-based-monotype-on-paper/SKILL.md) |
+| 水基版画后清版、晾印张与收工具 | Clean and Store Water-Based Printmaking Tools | 10–20 分钟 + 印张晾干 / 10–20 minutes plus print drying | 简单 / Easy | 印版有机会再用，纸印不必成为一叠粘砖 / Plates may be reusable and wet prints avoid turning into a stuck block | [SKILL.md](skills/clean-and-store-water-based-printmaking-tools/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
