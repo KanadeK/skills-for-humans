@@ -14,6 +14,11 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 按同一单位比较商品价格 | Compare Unit Prices | 每组 2–5 分钟 / per comparison | 简单 / Easy | 大包装可能只在字号上更有气势 / Larger packs may impress mainly through font size | [SKILL.md](skills/compare-unit-prices/SKILL.md) |
 | 挑选易腐食材 | Choose Fresh Perishables | 每项 1–3 分钟 / per item | 中等 / Moderate | 可能礼貌地放回一件特价品 / You may put a special offer back | [SKILL.md](skills/choose-fresh-perishables/SKILL.md) |
 | 买菜回家后收纳 | Put Away Groceries | 10–20 分钟 / minutes | 简单 / Easy | 冰箱获得可解释目录 / An explainable refrigerator | [SKILL.md](skills/put-away-groceries/SKILL.md) |
+| 出门前核对狗的牵引装备与贴合 | Check a Dog's Walk Leash and Fit | 5–10 分钟 / minutes | 中等 / Moderate | 坏卡扣会让出门延后 / Faulty clip can delay departure | [SKILL.md](skills/check-a-dogs-walk-leash-and-fit/SKILL.md) |
+| 按今天条件选一条普通牵狗短路 | Choose a Short Dog-Walk Route for Today | 5–15 分钟 / minutes | 简单 / Easy | 路线可能缩短 / Route may shrink | [SKILL.md](skills/choose-a-short-dog-walk-route-for-today/SKILL.md) |
+| 与熟悉的狗完成一次普通牵绳短步行 | Complete One Familiar Leashed Dog Walk | 按实际路线 / per actual route | 中等 / Moderate | 足部和装备可能要收尾 / Paws and gear may need care | [SKILL.md](skills/complete-one-familiar-leashed-dog-walk/SKILL.md) |
+| 牵狗外出时捡起并交出一次排泄物 | Pick Up and Dispose of Dog Waste on a Walk | 2–5 分钟 + 投放洗手 / plus disposal | 简单 / Easy | 一袋废物要去准许的点 / A bag needs an allowed bin | [SKILL.md](skills/pick-up-and-dispose-of-dog-waste-on-a-walk/SKILL.md) |
+| 外出归来清掉狗爪上的普通泥或融雪盐 | Clear Ordinary Mud or Salt from Dog Paws | 5–10 分钟 / minutes | 简单 / Easy | 毛巾要清洗晾干 / Towel needs washing | [SKILL.md](skills/clear-ordinary-mud-or-salt-from-dog-paws/SKILL.md) |
 | 给衣服分桶 | Sort a Laundry Load | 10–20 分钟 / minutes | 简单 / Easy | 地板出现临时分布式系统 / A temporary floor-based distributed system | [SKILL.md](skills/sort-a-laundry-load/SKILL.md) |
 | 选择洗衣机设置 | Choose Washer Settings | 5–10 分钟 + 机器时间 / plus machine time | 中等 / Moderate | 得到仍需晾晒的湿衣物 / Wet clothes still require drying | [SKILL.md](skills/choose-washer-settings/SKILL.md) |
 | 洗羊毛针织物 | Wash Wool Knitwear | 15–30 分钟 + 晾干 / plus drying | 中等 / Moderate | 一个平面被湿毛衣占用 / One horizontal surface becomes unavailable | [SKILL.md](skills/wash-wool-knitwear/SKILL.md) |
