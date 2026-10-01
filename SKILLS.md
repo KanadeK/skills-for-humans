@@ -26,6 +26,13 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 按本机说明绕好一个兼容梭芯 | Wind One Model-Compatible Sewing Machine Bobbin | 10–20 分钟 / minutes | 简单 / Easy | 一个小梭芯有线了，绕线档别忘了退回 / A small bobbin gains thread; its winding mode must be disengaged | [SKILL.md](skills/wind-one-model-compatible-sewing-machine-bobbin/SKILL.md) |
+| 依本机图穿上线并装好梭芯供废布试缝 | Thread an Owned Sewing Machine for a Scrap Test | 15–30 分钟 / minutes | 中等 / Moderate | 两路线各归其位，机器还未真正缝布 / Upper and lower threads take their routes; the machine has not stitched fabric yet | [SKILL.md](skills/thread-an-owned-sewing-machine-for-a-scrap-test/SKILL.md) |
+| 用穿好的普通缝纫机在废布上试缝直线 | Sew One Straight Test Line on Scrap Fabric | 10–20 分钟 / minutes | 中等 / Moderate | 废布有第一条真缝线，正反两面都能看 / Scrap gains a real line visible on both sides | [SKILL.md](skills/sew-one-straight-test-line-on-scrap-fabric/SKILL.md) |
+| 在废布上转一次直角并固定缝线两端 | Pivot and Secure an L-Shaped Scrap Seam | 15–25 分钟 / minutes | 中等 / Moderate | 废布得到一条 L 形线，拐弯处不靠急转方向盘 / Scrap gets an L-shaped seam; corners do not need a sudden steering-wheel turn | [SKILL.md](skills/pivot-and-secure-an-l-shaped-scrap-seam/SKILL.md) |
+| 用同材废布比对普通上线张力 | Compare Upper-Thread Tension on Matching Scrap | 15–30 分钟 / minutes | 中等 / Moderate | 张力数字不再靠猜，试样正反有证据 / Tension setting gets front-and-back evidence rather than a guess | [SKILL.md](skills/compare-upper-thread-tension-on-matching-scrap/SKILL.md) |
+| 废布底面突然缠线时停机重穿再试 | Recover from an Underside Thread Nest on Scrap | 15–30 分钟 / minutes | 中等 / Moderate | 一团线有根因记录，脚踏不再把它越缝越大 / Thread nest gets a cause record instead of more pedal-fed loops | [SKILL.md](skills/recover-from-an-underside-thread-nest-on-scrap/SKILL.md) |
+| 断电后刷掉本机允许清理的梭芯区绒屑 | Brush Lint from a User-Serviceable Bobbin Area | 15–30 分钟 / minutes | 中等 / Moderate | 可及绒屑少了，机盖和梭芯仍须原位 / Accessible lint leaves; covers and bobbin must return precisely | [SKILL.md](skills/brush-lint-from-a-user-serviceable-bobbin-area/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
