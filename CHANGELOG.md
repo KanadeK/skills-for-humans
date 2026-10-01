@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Twenty draft bilingual Human Skills for original vector icon creation in Inkscape 1.4.2, from editable SVG and shape/path operations through small-size review and a local PNG copy. Human tests are pending.
 
 ## 0.1.0 - 2026-09-03
 
