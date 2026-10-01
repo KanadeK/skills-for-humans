@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 观鸟前把现有双筒望远镜调成一幅清楚画面 | Fit and Focus Existing Binoculars for Birdwatching | 5–15 分钟 / minutes | 简单 / Easy | 两个圆合成一个，鸟不用替你忍受失焦追逐 / Two circles become one; birds need not be chased to compensate for blur | [SKILL.md](skills/fit-and-focus-existing-binoculars-for-birdwatching/SKILL.md) |
+| 不惊扰地记一只野鸟的可见特征 | Record One Wild Bird by Visible Field Marks | 5–15 分钟 / minutes | 简单 / Easy | 一只鸟留下特征记录，没被迫交出姓名 / One bird leaves a feature record without being forced to give a name | [SKILL.md](skills/record-one-wild-bird-by-visible-field-marks/SKILL.md) |
+| 用当地鸟类图鉴复核一条目视记录 | Check a Bird Sighting Against a Field Guide | 10–20 分钟 / minutes | 简单 / Easy | 记录可能得到可信候选，也可能继续叫“那只鸟” / Note may get a supported candidate or remain “that bird” | [SKILL.md](skills/check-a-bird-sighting-against-a-field-guide/SKILL.md) |
+| 不播放诱叫地记一段自然鸟声 | Record One Natural Bird Call Without Playback | 5–15 分钟 / minutes | 简单 / Easy | 一段声纹或文字记下了，鸟仍按自己的节奏叫 / A sound or phrase gets recorded while the bird keeps its own schedule | [SKILL.md](skills/record-one-natural-bird-call-without-playback/SKILL.md) |
+| 在固定位置做一张有时长的观鸟清单 | Make an Effort-Aware Stationary Birdwatching List | 自定短时段 + 5 分钟整理 / Chosen short session plus 5 minutes to close | 简单 / Easy | 一段时间的鸟不再全挤进一只“刚才好像” / A timed set of birds no longer collapses into “I think I saw one” | [SKILL.md](skills/make-an-effort-aware-stationary-birdwatching-list/SKILL.md) |
+| 诚实比较同一固定点两次观鸟记录 | Compare Two Stationary Birdwatching Visits Honestly | 10–20 分钟 / minutes | 简单 / Easy | 两张清单有了差别说明，鸟群没有被你凭两次观察宣布增减 / Lists gain a difference note without a two-visit population verdict | [SKILL.md](skills/compare-two-stationary-birdwatching-visits-honestly/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
