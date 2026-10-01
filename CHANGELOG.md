@@ -4,6 +4,7 @@
 
 ### Added
 
+- Twenty-five draft bilingual Human Skills for private Audacity 4 editing of owned audio: project/source intake, reversible clip/track edits, labels and loop audition, fades and gain, peak versus loudness control, rumble/hiss/click repair, gentle compression/limiting, two-track preview, mild time stretch, and checked audio/excerpt/label exports; human tests remain pending.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
