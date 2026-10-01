@@ -4,6 +4,7 @@
 
 ### Added
 
+- Ten draft bilingual Human Skills for first usable actions on an existing standard ukulele: tuning, clean fretting, one chord diagram, two-chord change, down/up pulse, original four-bar accompaniment, original four-note tab, fingerpicking order, buzz recovery, and dry-practice care; human tests remain pending.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
