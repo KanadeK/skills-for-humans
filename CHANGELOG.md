@@ -4,6 +4,7 @@
 
 ### Added
 
+- Seven bilingual Human Skills for exact-manual home sewing machine scrap practice: bobbin winding, threading, a straight seam, a pivoted reinforced corner, upper-tension comparison, underside-nest recovery, and permitted bobbin-area lint care.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
