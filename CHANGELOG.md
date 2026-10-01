@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Twenty draft bilingual Human Skills for a simple original 3D prop in Blender 5.2 LTS, from mesh operations and reversible modifiers through camera, light, render preview and local PNG review copy. Human tests are pending.
 
 ## 0.1.0 - 2026-09-03
 
