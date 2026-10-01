@@ -27,6 +27,16 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 给现有标准四弦尤克里里调音 | Tune an Existing Standard gCEA Ukulele | 5–15 分钟 / minutes | 简单 / Easy | 四根空弦逐根核过 / Four open strings checked | [SKILL.md](skills/tune-an-existing-standard-gcea-ukulele/SKILL.md) |
+| 在尤克里里上按出一个清楚的单音 | Make One Clean Fretted Ukulele Note | 5–10 分钟 / minutes | 简单 / Easy | 一个按弦音能响也能停 / One fretted note sounds and stops | [SKILL.md](skills/make-one-clean-fretted-ukulele-note/SKILL.md) |
+| 读一张尤克里里和弦图并弹出和弦 | Read a Ukulele Chord Chart and Sound the Chord | 10–20 分钟 / minutes | 简单 / Easy | 图变成四弦实际发声 / Chart becomes sounded strings | [SKILL.md](skills/read-a-ukulele-chord-chart-and-sound-the-chord/SKILL.md) |
+| 在两个已会的尤克里里和弦间换位 | Switch Between Two Known Ukulele Chords | 10–20 分钟 / minutes | 中等 / Moderate | 两手型成为可重复往返 / Two shapes become a repeatable trip | [SKILL.md](skills/switch-between-two-known-ukulele-chords/SKILL.md) |
+| 用一个和弦保持尤克里里下上扫弦节奏 | Keep a Steady Ukulele Down-Up Strum | 10–15 分钟 / minutes | 简单 / Easy | 有声与静音拍共享脉冲 / Sound and rest share a pulse | [SKILL.md](skills/keep-a-steady-ukulele-down-up-strum/SKILL.md) |
+| 用两个和弦弹完原创四小节伴奏 | Play an Original Two-Chord Ukulele Accompaniment | 15–25 分钟 / minutes | 中等 / Moderate | 短伴奏有起止 / A tiny accompaniment has start and end | [SKILL.md](skills/play-an-original-two-chord-ukulele-accompaniment/SKILL.md) |
+| 读一行尤克里里四音短谱并弹出来 | Play a Four-Note Ukulele Tab on One String | 10–20 分钟 / minutes | 简单 / Easy | 四个数字变成四个音 / Four numbers become four notes | [SKILL.md](skills/play-a-four-note-ukulele-tab-on-one-string/SKILL.md) |
+| 用尤克里里重复一组四弦指弹次序 | Repeat a Four-String Ukulele Fingerpicking Pattern | 10–20 分钟 / minutes | 简单 / Easy | 一个和弦分解为有序单音 / One chord becomes ordered notes | [SKILL.md](skills/repeat-a-four-string-ukulele-fingerpicking-pattern/SKILL.md) |
+| 尤克里里和弦嗡响后找出并修正一处按弦 | Recover a Buzzing Ukulele Chord | 5–15 分钟 / minutes | 简单 / Easy | 一根问题弦有前后对照 / One problem string has before/after evidence | [SKILL.md](skills/recover-a-buzzing-ukulele-chord/SKILL.md) |
+| 弹完尤克里里擦弦并安全收放 | Wipe and Store a Ukulele After Practice | 3–8 分钟 / minutes | 简单 / Easy | 琴弦轻拭并稳固收放 / Strings wiped and instrument stored stably | [SKILL.md](skills/wipe-and-store-a-ukulele-after-practice/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 
