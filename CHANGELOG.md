@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Twenty-five draft bilingual Human Skills for editing owned short videos in Kdenlive, from source checks and timeline edits through subtitles and local review renders. Human tests are pending.
 
 ## 0.1.0 - 2026-09-03
 
