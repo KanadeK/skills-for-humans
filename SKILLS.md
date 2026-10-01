@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 在自有布上画小原创图并绷好 | Prepare a Small Original Embroidery Motif in a Hoop | 15–25 分钟 / minutes | 简单 / Easy | 布被绷成可下针状态，图案暂时还只是线 / Fabric becomes stitch-ready; the motif is still only a guide | [SKILL.md](skills/prepare-a-small-original-embroidery-motif-in-a-hoop/SKILL.md) |
+| 用回针轮廓与小缎面填色绣原创小图 | Stitch an Original Outline and Small Fill on Fabric | 30–60 分钟，可分次 / 30–60 minutes, may split across sessions | 中等 / Moderate | 导线变成真的线迹，布背也留下工作痕迹 / A guide becomes stitches, with working marks on the reverse | [SKILL.md](skills/stitch-an-original-outline-and-small-fill-on-fabric/SKILL.md) |
+| 新近绣错或拉皱时退几针而不伤布 | Correct a Recent Embroidery Stitch Without Tearing Fabric | 10–20 分钟 / minutes | 简单 / Easy | 几针可能退回，布不必为了掩盖错误越绣越厚 / A few stitches may reverse; fabric need not be buried to hide an error | [SKILL.md](skills/correct-a-recent-embroidery-stitch-without-tearing-fabric/SKILL.md) |
+| 固定绣线背面并松开工作绣绷 | Secure Embroidery Threads and Release the Work Hoop | 10–20 分钟 / minutes | 简单 / Easy | 作品离开工作绷，针不再留在布里待人找 / Artwork leaves its work hoop; no needle waits hidden in it | [SKILL.md](skills/secure-embroidery-threads-and-release-the-work-hoop/SKILL.md) |
+| 按布与绣线标签清理已完成小绣样 | Clean a Finished Embroidery Sample by Its Material Labels | 10–20 分钟动手，另加全干 / 10–20 minutes active plus full drying | 简单 / Easy | 导线或表土可能离开，布与线必须重新干透 / Guide marks or dirt may leave; cloth and floss must dry again | [SKILL.md](skills/clean-a-finished-embroidery-sample-by-its-material-labels/SKILL.md) |
+| 把干透的小绣样居中装进展示绷 | Mount a Small Finished Embroidery in a Display Hoop | 10–20 分钟 / minutes | 简单 / Easy | 绣样获得一个可看的位置，工作绷不必永远加班 / Embroidery gains a viewable place; its work hoop need not stay on duty forever | [SKILL.md](skills/mount-a-small-finished-embroidery-in-a-display-hoop/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务

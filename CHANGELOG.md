@@ -4,6 +4,7 @@
 
 ### Added
 
+- Six bilingual Human Skills for small original hand embroidery: fabric and hoop setup, one outline/fill motif, short stitch correction, reverse-thread finishing, material-led cleaning, and safe display mounting.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
