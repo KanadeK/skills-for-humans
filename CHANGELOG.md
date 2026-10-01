@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Twenty draft bilingual Human Skills for original raster illustration in Krita 5.3, from canvas and layered painting to a small frame-by-frame exercise and local PNG review copy. Human tests are pending.
 
 ## 0.1.0 - 2026-09-03
 
