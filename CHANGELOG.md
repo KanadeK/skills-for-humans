@@ -4,6 +4,7 @@
 
 ### Added
 
+- Six bilingual Human Skills for non-disturbing birdwatching: existing binocular focus, one visual field note, guide comparison, natural sound evidence, a timed stationary checklist, and honest two-visit comparison.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
