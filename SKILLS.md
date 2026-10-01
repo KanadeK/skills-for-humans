@@ -27,6 +27,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
+| 对准一个静物拍完立刻核焦点 | Focus and Verify One Stationary Photo Subject | 5–15 分钟 / minutes | 简单 / Easy | 知道照片真正清楚的是哪里 / Know where the photo is actually sharp | [SKILL.md](skills/focus-and-verify-one-stationary-photo-subject/SKILL.md) |
+| 逆光主体太暗时做一次曝光对照 | Correct a Backlit Photo with a Subject Exposure Trial | 10–20 分钟 / minutes | 简单 / Easy | 主体亮度与背景高光有可见取舍 / Visible subject and highlight tradeoff | [SKILL.md](skills/correct-a-backlit-photo-with-a-subject-exposure-trial/SKILL.md) |
+| 对一个安全移动物做冻结与平移对照 | Compare Freeze and Pan on One Safe Moving Subject | 20–35 分钟 / minutes | 中等 / Moderate | 同一动作有两种可比的时间表现 / Two comparable treatments of one action | [SKILL.md](skills/compare-freeze-and-pan-on-one-safe-moving-subject/SKILL.md) |
+| 不用闪光灯时稳住相机拍一张低光静物 | Stabilize One No-Flash Low-Light Photo | 10–20 分钟 / minutes | 简单 / Easy | 有一张核过模糊的低光试片 / A low-light frame checked for blur | [SKILL.md](skills/stabilize-one-no-flash-low-light-photo/SKILL.md) |
+| 在现场检查并重拍一张失败照片 | Inspect and Retake One Failed Photo on Site | 5–15 分钟 / minutes | 简单 / Easy | 有一组失败与复拍的证据 / An evidenced failed and retaken pair | [SKILL.md](skills/inspect-and-retake-one-failed-photo-on-site/SKILL.md) |
+| 干燥外拍后清洁并收好相机外部镜片 | Clean and Store Camera Optics After a Dry Outing | 5–15 分钟 / minutes | 简单 / Easy | 镜片外部除松灰并加盖干存 / Loose exterior dust removed, capped for dry storage | [SKILL.md](skills/clean-and-store-camera-optics-after-a-dry-outing/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
 

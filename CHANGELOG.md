@@ -4,6 +4,7 @@
 
 ### Added
 
+- Six draft bilingual Human Skills for safe existing-camera trials: still-subject focus, backlit exposure, freeze/pan motion, no-flash low light, one failed-frame retake, and dry-outing exterior optics care; human tests remain pending.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
