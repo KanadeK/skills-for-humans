@@ -4,6 +4,7 @@
 
 ### Added
 
+- Twenty draft bilingual Human Skills for a small neutral LibreOffice Calc log: row structure, text import, leading-zero codes, date types, single-cell correction, note readability, frozen header, category validity, whole-record sort, temporary filter, missing-value flags, duplicate review, three checked summaries, pivot grouping, chart creation and range repair, print preview, and CSV round trip; human tests remain pending.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
