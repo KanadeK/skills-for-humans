@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 从锁针到短针钩一小片平整长方形 | Crochet a Small Chain-and-Single-Crochet Rectangle | 25–45 分钟，可分次 / 25–45 minutes, may split across sessions | 中等 / Moderate | 一根线变成几排小方格，仍留一只活圈 / One strand becomes rows of small stitches, with one live loop remaining | [SKILL.md](skills/crochet-a-small-chain-and-single-crochet-rectangle/SKILL.md) |
+| 钩一片两圈四角的简单方形花片 | Crochet a Simple Two-Round Square Motif | 25–45 分钟 / minutes | 中等 / Moderate | 一个圈有了四个角，还不是一条围巾 / A ring gains four corners; it is not yet a scarf | [SKILL.md](skills/crochet-a-simple-two-round-square-motif/SKILL.md) |
+| 钩针小片边缘忽宽忽窄时定位错针 | Correct a Crochet Edge with a Missing or Extra Stitch | 10–25 分钟 / minutes | 中等 / Moderate | 错的几行可能退回，边缘不用继续发展斜坡 / A few rows may be undone so the edge stops building a slope | [SKILL.md](skills/correct-a-crochet-edge-with-a-missing-or-extra-stitch/SKILL.md) |
+| 线团将尽时在钩针行边接新线 | Continue a Crochet Row with a New Yarn Ball | 10–20 分钟 / minutes | 简单 / Easy | 织物能继续长，但边缘多两条待藏线尾 / Work can continue, leaving two edge tails to weave later | [SKILL.md](skills/continue-a-crochet-row-with-a-new-yarn-ball/SKILL.md) |
+| 给钩针小片断线固定并藏线尾 | Fasten Off and Weave Ends on a Small Crochet Piece | 10–20 分钟 / minutes | 简单 / Easy | 最后一圈不再等钩针救场，松尾被收进织片 / The last loop no longer needs its hook and tails enter the fabric | [SKILL.md](skills/fasten-off-and-weave-ends-on-a-small-crochet-piece/SKILL.md) |
+| 用引拔针把两片小钩针方片接在一起 | Join Two Small Crochet Squares with Slip Stitches | 15–30 分钟 / minutes | 中等 / Moderate | 两片单独练习片变成一块小面板，中间多了一条缝 / Two practice squares become a panel with a seam | [SKILL.md](skills/join-two-small-crochet-squares-with-slip-stitches/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
