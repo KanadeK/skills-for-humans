@@ -4,6 +4,7 @@
 
 ### Added
 
+- Twenty-five draft bilingual Human Skills for concrete LibreOffice Impress presentation actions: title/layout/master controls, slide insertion/order/duplication/hiding, notes and comments, numbering and object placement, image crop/alternative text, small table/chart, restrained transition/reveal, advance and rehearsal checks, slide-only PDF and handout preview; human tests remain pending.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
