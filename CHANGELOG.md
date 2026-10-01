@@ -4,6 +4,7 @@
 
 ### Added
 
+- Twenty-five draft bilingual Human Skills for standalone LibreOffice Draw diagrams: page geometry, process nodes/decision branches/connectors, rerouting and callouts, role lanes and legends, custom styles/grid/guides/layers, object retrieval, detail page, approximate nonengineering dimension, original curve/cutout, and separately checked SVG/PDF/PNG/print-preview outputs; human tests remain pending.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
