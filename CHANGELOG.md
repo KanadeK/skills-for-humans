@@ -4,6 +4,7 @@
 
 ### Added
 
+- Six bilingual Human Skills for ordinary hand-knitting practice: label-based materials, combined knit/purl sample, measured gauge, recent dropped-stitch recovery, bind-off with woven ends, and label-directed swatch care.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03

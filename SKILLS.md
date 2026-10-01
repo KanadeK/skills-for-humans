@@ -26,6 +26,12 @@ Open a SKILL.md directly. Read the Human Runtime block, choose 中文 or English
 | 中文名 | English | 时间 / Time | 难度 / Difficulty | 现实副作用 / Side effect | 文件 |
 | --- | --- | --- | --- | --- | --- |
 | 第一次独自去陌生餐馆 | Eat Alone at an Unfamiliar Restaurant | 30–90 分钟 / minutes | 中等 / Moderate | 下次不再是第一次 / Next time is no longer the first | [SKILL.md](skills/eat-alone-at-an-unfamiliar-restaurant/SKILL.md) |
+| 按手头纱线标签配一组练习织针 | Match Owned Yarn and Needles for a Small Knit Sample | 10–20 分钟 / minutes | 简单 / Easy | 一团线有了搭档，尚未变成毛衣 / Yarn gains a partner but is not yet a sweater | [SKILL.md](skills/match-owned-yarn-and-needles-for-a-small-knit-sample/SKILL.md) |
+| 织一小片平针与反针可比较样片 | Knit a Small Knit-and-Purl Comparison Sample | 30–60 分钟，可分次 / 30–60 minutes, may split across sessions | 中等 / Moderate | 线团多了一片环环相扣的证据，还留在针上 / Yarn becomes linked rows still held on the needle | [SKILL.md](skills/knit-a-small-knit-and-purl-comparison-sample/SKILL.md) |
+| 在实织样片上数针数并核密度 | Count and Check Gauge on a Knit Practice Swatch | 10–25 分钟 / minutes | 中等 / Moderate | 线圈不再凭感觉凑数，尺寸预期变诚实 / Loops become countable instead of guessed, making size expectations honest | [SKILL.md](skills/count-and-check-gauge-on-a-knit-practice-swatch/SKILL.md) |
+| 先抓住再补回新近掉落的一针 | Catch and Repair a Recent Dropped Knit Stitch | 10–25 分钟 / minutes | 中等 / Moderate | 一条往下跑的梯子被拦住，样片或许留下小痕 / A running ladder stops, perhaps leaving a small mark | [SKILL.md](skills/catch-and-repair-a-recent-dropped-knit-stitch/SKILL.md) |
+| 给小织样收针并藏好线尾 | Bind Off and Weave Ends of a Small Knit Sample | 15–30 分钟 / minutes | 中等 / Moderate | 线圈终于脱针而不散，线尾不再四处挥手 / Loops leave the needle without unravelling; tails stop waving about | [SKILL.md](skills/bind-off-and-weave-ends-of-a-small-knit-sample/SKILL.md) |
+| 按纱线标签整理并复量已完成织样 | Care For and Measure a Finished Knit Swatch | 10–20 分钟动手，另加标签要求的晾干 / 10–20 minutes active plus label-directed drying | 简单 / Easy | 样片洗后尺寸可能变，原密度记录要加注 / Swatch size may change after care, so earlier gauge needs an annotation | [SKILL.md](skills/care-for-and-measure-a-finished-knit-swatch/SKILL.md) |
 | 不先买齐装备地尝试新爱好 | Try a Hobby Before Buying the Gear | 20 分钟 + 1–3 次尝试 / plus 1–3 trials | 简单 / Easy | 购物与爱好成为两个进程 / Shopping and doing separate | [SKILL.md](skills/try-a-hobby-before-buying-the-gear/SKILL.md) |
 
 ## Awkward Social Tasks / 尴尬但普通的社会任务
