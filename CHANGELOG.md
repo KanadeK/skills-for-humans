@@ -4,6 +4,7 @@
 
 ### Added
 
+- Six bilingual Human Skills for beginner crochet practice: flat single-crochet rectangle, two-round square, edge-count correction, row-edge yarn change, fastening and tails, and a joined practice panel.
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
 
 ## 0.1.0 - 2026-09-03
