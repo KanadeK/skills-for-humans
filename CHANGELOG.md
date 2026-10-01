@@ -5,6 +5,7 @@
 ### Added
 
 - A bilingual Human Skill for comparing ordinary goods using the same observed price conditions and quantity unit, including promotion and missing-label recovery.
+- Twenty draft bilingual Human Skills for writing and reviewing an original short score in MuseScore Studio 4.7, from note entry and musical markings to an instrument part and local PDF review. Human tests are pending.
 
 ## 0.1.0 - 2026-09-03
 
